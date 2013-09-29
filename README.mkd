@@ -1,56 +1,92 @@
-SSL Karttarekisteri as KML
-==========================
+SSL Karttarekisteri / Map Registry KML tool
+===========================================
 
-SSL ei ole SSL. SSL on Suomen Suunnistusliitto.
+SSL ain't [SSL](http://en.wikipedia.org/wiki/Secure_Socket_Layer). SSL is [The Finnish Orienteering Federation](http://www.ssl.fi).
 
-SSL yllapitaa virallista Karttarekisteria, joka on aivan paras.
+The official Map Registry lives at [karttarekisteri.fi](http://www.karttarekisteri.fi/).
+This project convers the official data into more usable format.
 
-Taman projektin tarkoituksena on dumpata Virallinen Data uudelleenkaytettavaan muotoon.
+Conversion script is coded in Python and has been tested on Python versions 2.6 and 2.7.
 
-Koska olen koyha ja kiireinen opiskelija, en kerkea kirjoittamaan tata tiedostoa nyt taysin niinkuin haluaisin. Ehka myohemmin.
-
-Valiaikainen demo joka nayttaa kilpailukieltoalueet saattaa loytya [taalta](http://www.cs.helsinki.fi/u/jvtmuukk/tmp/kiellot.kml).
-
-Kayttaa, ainakin toistaiseksi, Olli Lammin [fetch_mapin](http://olammi.iki.fi/sw/fetch_map) coordinates.py:ta koordinaattien muunnokseen (ETRS-TM35FIN -> WGS84).
+_Note: "Karttarekisteri" is the only official place for Finnish Orienteering Federation's embargoed areas.
+So, if you consider yourself as a kilpasienestäjä, you *must* use it.
+This project doesn't take any responsibility of anything. The conversion script might malform or lose data._
 
 
-Miksi?
-------
+You can also download already formatted KML files from ... (well, not yet :).
 
-* virallinen vaikea kayttaa, eika toimi ilman flashia (esimerkiksi modernit tietokoneet, tabletit ja puhelimet)
-* SSL kaikessa viisaudessaan kuitenkin kayttaa Karttarekisteria ainoana virallisena totuutena esimerkiksi harjoituskielloista.
-* koska data haluaa olla vapaata
 
-Kayttoohjeet
-------------
+Why?
+----
 
-RTFS. Muuttuu viela. Kesken.
+* [karttarekisteri.fi](http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/karttarekisteri.php)  usability sucks
+* [Flash](https://www.adobe.com/support/security/)? No thanks.
+* Using proper KML means easy integration with Google Earth, Google Maps, OpenLayers etc
+* KML data can be used on a mobile device (eg. Android version of Google Maps)
+* It might be possible to import map information ito various GPS devices
+* Everything is better in [Sweden](http://kartbanken.orientering.se/)
+* Data wants to be free
+
+
+What is converted?
+------------------
+
+
+The original data files _look like_ [KML](https://developers.google.com/kml/), but there are some differences:
+
+* Coordinates are in ETRS-TM35FIN format, not in the usual WGS84 Lat/Lon format.
+* Polygons are missing the last vertex (so the last line is not rendered)
+* Placemark names are just numeric IDs
+* Broken altitude data (maybe it is used for something else)
+* Some coordinate data seems to be corrupted
+* There are no links to full map info
 
 
 Libraries
 ---------
 
-* lxml for XML parsing and modifications (plain ElementTree is not enough)
-* argh for command line actions
-* fetch_map / coordinates.py for coordinate conversion
-* TODO: pyproj?
+It might be that you need to install some Python libraries:
+
+* [lxml](http://lxml.de/) for XML parsing and modifications (plain ElementTree is not enough)
+* [argh](http://pythonhosted.org/argh/) for command line actions
+* coordinates.py was taken from [fetch_map](http://olammi.iki.fi/sw/fetch_map) project by Olli Lammi.  Used for coordinate conversion.
+* TODO: pyproj? this could be used also, but requires a C library and whatnot...
 
 
-Bittinysva
-----------
+Installing libraries:
 
-* flash ja wireshark/developertools/httpdump
-* KML joka ei ole KML
-* koordinaattimuutokset
-* datan parantelu (polygon, description, name, url, ...)
+* Debian/Ubuntu (or any other) Linux there might be packages called `python-lxml`, `python-argh`.
+* MacOSX I personally use [virtualenvwrapper from MacPorts](https://trac.macports.org/browser/trunk/dports/python/py-virtualenvwrapper/Portfile) and [pip](http://www.pip-installer.org/en/latest/). Once setup use commands like `pip install lxml` and `pip install argh`.
+* Windows... not sure. Try latest official Python MSI and then use `pip`?
 
 
-URLit
+Usage
 -----
 
-Varoitus: laji=1 kaataa selaimesi.
 
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php all?
+Download _and_ convert all seven map types to `ssl-<maptype>-<timestamp>.kml` files:
+
+    python -m sslkml.conv download
+
+
+Download only MTBO map info (otherwise same as above):
+
+    python -m sslkml.conv download mtbo
+
+
+Convert existing file to KML:
+
+    cat downloaded.kml | python -m sslkml.conf convert > converted.kml
+
+
+Both actions also have `--help` command line switch.
+
+
+karttarekisteri.fi public URLs
+------------------------------
+
+_Warning: laji=1 might be too big XML document and crash your browser._
+
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=1 Orienteering Maps
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=2 Sprint Orienteering Maps
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=3 SkiO Maps
@@ -58,13 +94,18 @@ Varoitus: laji=1 kaataa selaimesi.
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=5 TrailO Maps
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=6 Opetuskartat
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=7 Embargoed Areas / Harjoituskiellot
+* ssl_kml_lataus_testi.php all map types?
 * ssl_kml_lataus_testi.php?id=<n> single map info (numeric id)
+
 
 TODO
 ----
 
-* urls in this doc (to projects and to data)
 * public website using openlayers or [leaflet](http://leafletjs.com/)
 * change colors for other map types
-
+* `--log-level` switch
+* `--save-orig` to save downloaded contents too
+* `--download-only` to only download, no conversion done
+* setup.py
+* PyPi upload
 
