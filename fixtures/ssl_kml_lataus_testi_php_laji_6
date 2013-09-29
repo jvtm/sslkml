@@ -1,0 +1,2436 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+		<kml xmlns="http://www.opengis.net/kml/2.2">
+		  <Document>
+			<Style id="transBluePoly"><LineStyle><width>2</width><color>ffff0000</color></LineStyle><PolyStyle><color>60ff0000</color></PolyStyle></Style>
+			<Style id="transGreenPoly"><LineStyle><width>2</width><color>ff009900</color></LineStyle><PolyStyle><color>6000aa00</color></PolyStyle></Style> 
+			<Style id="transRedPoly"><LineStyle><width>2</width><color>ff0000ff</color></LineStyle><PolyStyle><color>600000ff</color></PolyStyle></Style>
+			<Style id="transYellowPoly"><LineStyle><width>2</width><color>ff00ffff</color></LineStyle><PolyStyle><color>6000ffff</color></PolyStyle></Style>
+			<Style id="HLtransBluePoly"><LineStyle><width>4</width><color>ff000000</color></LineStyle><PolyStyle><color>60ff0000</color></PolyStyle></Style>
+			<Style id="HLtransGreenPoly"><LineStyle><width>4</width><color>ff000000</color></LineStyle><PolyStyle><color>6000ff00</color></PolyStyle></Style> 
+			<Style id="HLtransRedPoly"><LineStyle><width>4</width><color>ff000000</color></LineStyle><PolyStyle><color>600000ff</color></PolyStyle></Style>
+			<Style id="HLtransYellowPoly"><LineStyle><width>4</width><color>ff000000</color></LineStyle><PolyStyle><color>6000ffff</color></PolyStyle></Style><Placemark><name>1362</name><Snippet maxLines="4">Nuottasaaren koulu</Snippet><description><![CDATA[0Nuottasaaren koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>426951,7209568,0 
+427251,7209308,0 
+427031,7209028,0 
+426731,7209408,0 
+426951,7209568,0 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4209</name><Snippet maxLines="4">Pahkamäen koulu</Snippet><description><![CDATA[1020Pahkamäen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>250323,6721876,1020 
+250363,6722536,1020 
+251662,6722596,1020 
+251642,6721916,1020 
+250323,6721876,1020 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2721</name><Snippet maxLines="4">Mustamäki</Snippet><description><![CDATA[1979Mustamäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>406798,6722585,479 
+406458,6722625,479 
+406758,6723245,479 
+407118,6723305,479 
+407258,6722865,479 
+406798,6722585,479 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2722</name><Snippet maxLines="4">Sääksjärvi</Snippet><description><![CDATA[1980Sääksjärvi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>413115,6718287,480 
+412755,6718586,480 
+412915,6718866,480 
+413155,6719046,480 
+413715,6719066,480 
+413855,6718866,480 
+413815,6718526,480 
+413395,6718307,480 
+413115,6718287,480 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2723</name><Snippet maxLines="4">Rippulanmäki</Snippet><description><![CDATA[1980Rippulanmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>403119,6732081,480 
+402779,6732001,480 
+402639,6732121,480 
+402539,6732321,480 
+402939,6732681,480 
+403359,6732541,480 
+403579,6732361,480 
+403459,6732081,480 
+403119,6732081,480 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1974</name><Snippet maxLines="4">Apia</Snippet><description><![CDATA[1982Apia]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>342024,6796113,482 
+340845,6795753,482 
+340665,6797153,482 
+341785,6797652,482 
+342164,6796933,482 
+343484,6797153,482 
+343624,6796373,482 
+343024,6796093,482 
+342024,6796113,482 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2709</name><Snippet maxLines="4">Numminen</Snippet><description><![CDATA[1983Numminen]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>407058,6715528,483 
+406378,6715348,483 
+406418,6716007,483 
+406058,6716947,483 
+406438,6717387,483 
+407098,6717507,483 
+407477,6716147,483 
+407058,6715528,483 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>804</name><Snippet maxLines="4">Marjoniemi</Snippet><description><![CDATA[1984Marjoniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>460845,6977624,484 
+461105,6977764,484 
+461824,6977225,484 
+462324,6976165,484 
+460765,6976245,484 
+459585,6977325,484 
+460265,6977944,484 
+460485,6977724,484 
+460745,6977684,484 
+460845,6977624,484 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>651</name><Snippet maxLines="4">Ilveslouhu</Snippet><description><![CDATA[1984Ilveslouhu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>460865,6977604,484 
+461225,6977824,484 
+460225,6979584,484 
+459305,6979264,484 
+459765,6978244,484 
+460065,6978184,484 
+460425,6977724,484 
+460725,6977684,484 
+460865,6977604,484 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2713</name><Snippet maxLines="4">Ohkola</Snippet><description><![CDATA[1984Ohkola]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>398281,6716107,484 
+397821,6715787,484 
+397561,6715947,484 
+397162,6716347,484 
+397122,6716867,484 
+397801,6717167,484 
+398581,6716627,484 
+398281,6716107,484 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>806</name><Snippet maxLines="4">Pesänkallio</Snippet><description><![CDATA[1986Pesänkallio]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>461845,6971467,486 
+462004,6971667,486 
+460805,6972087,486 
+460085,6971207,486 
+460645,6970787,486 
+461845,6970187,486 
+462344,6970687,486 
+461845,6971467,486 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1707</name><Snippet maxLines="4">Huutijävi-Suomatka</Snippet><description><![CDATA[1988Huutijävi-Suomatka]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>346522,6817396,488 
+347781,6817037,488 
+349021,6817516,488 
+349260,6818916,488 
+347781,6819156,488 
+346522,6817396,488 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1506</name><Snippet maxLines="4">Risulahti</Snippet><description><![CDATA[1988Risulahti]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>542708,6758995,488 
+542968,6758435,488 
+542308,6758115,488 
+542168,6758335,488 
+542008,6758615,488 
+541268,6758555,488 
+540609,6759255,488 
+541428,6759535,488 
+541788,6760054,488 
+542708,6758995,488 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>650</name><Snippet maxLines="4">Pohjoismäki</Snippet><description><![CDATA[1989Pohjoismäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>472980,6976885,489 
+472620,6978024,489 
+473240,6978584,489 
+474539,6977644,489 
+474479,6976845,489 
+474699,6976385,489 
+474359,6976265,489 
+473860,6976705,489 
+472980,6976885,489 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2729</name><Snippet maxLines="4">Sulkava</Snippet><description><![CDATA[1989Sulkava]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>402359,6736659,489 
+401460,6737319,489 
+401820,6737859,489 
+402779,6738218,489 
+403319,6737339,489 
+402819,6736999,489 
+402359,6736659,489 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1648</name><Snippet maxLines="4">Vallittu</Snippet><description><![CDATA[1990Vallittu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>344862,6820875,490 
+344902,6821395,490 
+343783,6821695,490 
+343363,6821415,490 
+343863,6820555,490 
+344322,6820455,490 
+344862,6820875,490 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1705</name><Snippet maxLines="4">Kirkkoharju</Snippet><description><![CDATA[1992Kirkkoharju]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>342743,6818116,492 
+343883,6818056,492 
+343443,6818856,492 
+341923,6820035,492 
+341404,6820095,492 
+341104,6818376,492 
+342743,6818116,492 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>701</name><Snippet maxLines="4">Koskenkylä</Snippet><description><![CDATA[1994Koskenkylä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>511345,6963330,494 
+512144,6962451,494 
+511245,6962171,494 
+510145,6962931,494 
+510265,6963650,494 
+510145,6963970,494 
+510485,6963990,494 
+511345,6963330,494 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2720</name><Snippet maxLines="4">Pirkkalankallio</Snippet><description><![CDATA[1995Pirkkalankallio]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>400740,6709390,495 
+400001,6709510,495 
+400041,6709970,495 
+400280,6710150,495 
+400660,6710250,495 
+400680,6710450,495 
+401120,6710610,495 
+401300,6710470,495 
+401160,6709910,495 
+400960,6709730,495 
+400740,6709390,495 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2795</name><Snippet maxLines="4">Pappila</Snippet><description><![CDATA[1996Pappila]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>482009,7477169,496 
+482909,7477808,496 
+482809,7476649,496 
+482489,7476429,496 
+482009,7477169,496 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>697</name><Snippet maxLines="4">Niinivesi</Snippet><description><![CDATA[1997Niinivesi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>473060,6983882,497 
+473220,6984002,497 
+473520,6983742,497 
+473700,6983102,497 
+473080,6982682,497 
+473020,6982523,497 
+471840,6982722,497 
+470901,6983182,497 
+471081,6983802,497 
+472360,6984482,497 
+473060,6983882,497 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1342</name><Snippet maxLines="4">Kariniemen ja pikkuvesijärven puistot</Snippet><description><![CDATA[1998Kariniemen ja pikkuvesijärven puistot]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>426572,6762111,498 
+426572,6762871,498 
+427471,6762891,498 
+427491,6762151,498 
+426572,6762111,498 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3311</name><Snippet maxLines="4">Roution Koulu</Snippet><description><![CDATA[1999Roution Koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>337482,6686352,499 
+337902,6686612,499 
+338102,6686052,499 
+338002,6685912,499 
+337842,6685612,499 
+337982,6685412,499 
+337642,6685212,499 
+337062,6685232,499 
+337062,6685992,499 
+337482,6686352,499 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1352</name><Snippet maxLines="4">Eläintarha</Snippet><description><![CDATA[2000Eläintarha]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>384760,6674017,500 
+385100,6673497,500 
+385639,6673677,500 
+386299,6674377,500 
+385839,6674717,500 
+385240,6674597,500 
+384800,6674457,500 
+384760,6674017,500 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1434</name><Snippet maxLines="4">VTT</Snippet><description><![CDATA[2000VTT]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>427437,7215677,500 
+427437,7215877,500 
+427018,7215857,500 
+427218,7215617,500 
+427437,7215677,500 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1750</name><Snippet maxLines="4">Rudträsk</Snippet><description><![CDATA[2001Rudträsk]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>398114,6675217,501 
+398074,6675437,501 
+397975,6675817,501 
+398234,6676096,501 
+398794,6675837,501 
+399214,6675337,501 
+398934,6675137,501 
+398114,6675217,501 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1751</name><Snippet maxLines="4">Mustikkamaa</Snippet><description><![CDATA[2001Mustikkamaa]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>388019,6673158,501 
+388598,6673497,501 
+389158,6673278,501 
+389038,6673098,501 
+388458,6672978,501 
+388019,6673158,501 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1770</name><Snippet maxLines="4">Jokela</Snippet><description><![CDATA[2001Jokela]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>386361,7174252,501 
+385202,7174272,501 
+384862,7173872,501 
+384602,7173053,501 
+386561,7173113,501 
+386361,7174252,501 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2796</name><Snippet maxLines="4">Jeesiönranta</Snippet><description><![CDATA[2001Jeesiönranta]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>480769,7478788,501 
+481209,7479088,501 
+481949,7478108,501 
+481609,7477868,501 
+480769,7478788,501 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3308</name><Snippet maxLines="4">Muijalan Hiihtokeskus</Snippet><description><![CDATA[2001Muijalan Hiihtokeskus]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>344359,6686872,501 
+343979,6686992,501 
+343999,6687252,501 
+344559,6687292,501 
+344579,6687052,501 
+344359,6686872,501 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1281</name><Snippet maxLines="4">Kattelus</Snippet><description><![CDATA[2002Kattelus]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>225664,6734957,502 
+225664,6735497,502 
+225385,6735497,502 
+224905,6735037,502 
+224905,6734757,502 
+225445,6734257,502 
+225724,6734237,502 
+225864,6734677,502 
+225664,6734957,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>281</name><Snippet maxLines="4">Pahkalan koulu</Snippet><description><![CDATA[2002Pahkalan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>345437,7113838,502 
+345177,7113378,502 
+345297,7112819,502 
+346157,7112859,502 
+346057,7113578,502 
+345437,7113838,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1584</name><Snippet maxLines="4">Keskusta</Snippet><description><![CDATA[2002Keskusta]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>606347,7048399,502 
+607067,7047600,502 
+607027,7047280,502 
+605947,7047720,502 
+605407,7048499,502 
+605547,7048739,502 
+606347,7048399,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3659</name><Snippet maxLines="4">Urheilukeskus</Snippet><description><![CDATA[2002Urheilukeskus]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>386048,6860188,502 
+386248,6859948,502 
+386568,6860108,502 
+386908,6860028,502 
+387028,6860748,502 
+386688,6860908,502 
+386288,6860468,502 
+386048,6860188,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3660</name><Snippet maxLines="4">Suinula</Snippet><description><![CDATA[2002Suinula]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>384349,6865526,502 
+383429,6865586,502 
+383389,6866286,502 
+384449,6866306,502 
+384349,6865526,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1662</name><Snippet maxLines="4">Luolaja</Snippet><description><![CDATA[2002Luolaja]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>361028,6762512,502 
+361408,6762152,502 
+361148,6761792,502 
+360848,6761552,502 
+360108,6761672,502 
+360088,6762492,502 
+361028,6762512,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>647</name><Snippet maxLines="4">Ronkaala</Snippet><description><![CDATA[2002Ronkaala]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>416583,7070543,502 
+416763,7070183,502 
+416623,7070103,502 
+416423,7070483,502 
+416583,7070543,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1736</name><Snippet maxLines="4">Sorrila</Snippet><description><![CDATA[2002Sorrila]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>341005,6794893,502 
+341005,6795233,502 
+341225,6795373,502 
+341425,6795133,502 
+341265,6794853,502 
+341005,6794893,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1755</name><Snippet maxLines="4">Veikkolan teollisuusalue</Snippet><description><![CDATA[2002Veikkolan teollisuusalue]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>359910,6683613,502 
+360689,6682954,502 
+361249,6683513,502 
+360170,6684073,502 
+359910,6683613,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4328</name><Snippet maxLines="4">Fanjunkars</Snippet><description><![CDATA[2002Fanjunkars]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>345942,6670373,502 
+345942,6670373,502 
+346742,6670273,502 
+346842,6669953,502 
+347062,6669913,502 
+346942,6669233,502 
+346582,6669073,502 
+346242,6669073,502 
+345922,6669293,502 
+345762,6669373,502 
+345542,6669373,502 
+345362,6669293,502 
+345362,6669293,502 
+345242,6669273,502 
+345242,6669273,502 
+345102,6669673,502 
+345102,6669673,502 
+345062,6670193,502 
+345022,6670193,502 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>282</name><Snippet maxLines="4">Himangan Ala-aste</Snippet><description><![CDATA[2003Himangan Ala-aste]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>337140,7109340,503 
+336940,7108300,503 
+338060,7107781,503 
+338260,7108980,503 
+337140,7109340,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1318</name><Snippet maxLines="4">Keskuspuisto</Snippet><description><![CDATA[2003Keskuspuisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>563919,6769584,503 
+563939,6770003,503 
+564359,6770003,503 
+564339,6769664,503 
+563919,6769584,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1618</name><Snippet maxLines="4">Parkkimäki</Snippet><description><![CDATA[2003Parkkimäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>377864,6705904,503 
+377924,6706164,503 
+378284,6706624,503 
+378824,6706904,503 
+379144,6706444,503 
+379164,6705844,503 
+379384,6705245,503 
+379384,6704345,503 
+378884,6704405,503 
+378704,6704225,503 
+378484,6704285,503 
+378364,6704945,503 
+378064,6705525,503 
+377864,6705904,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>357</name><Snippet maxLines="4">Kaistarniemi</Snippet><description><![CDATA[2003Kaistarniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>237962,6706115,503 
+238062,6705735,503 
+238581,6705555,503 
+238941,6705775,503 
+238901,6706215,503 
+238761,6706794,503 
+238062,6706654,503 
+237962,6706115,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>872</name><Snippet maxLines="4">Kisakallio</Snippet><description><![CDATA[2003Kisakallio]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>337222,6690730,503 
+337162,6690111,503 
+336262,6690111,503 
+336202,6691330,503 
+336502,6691330,503 
+337022,6691170,503 
+337062,6690830,503 
+337222,6690730,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1132</name><Snippet maxLines="4">Pappilanniemi</Snippet><description><![CDATA[2003Pappilanniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>565079,6771283,503 
+565439,6771263,503 
+565619,6771603,503 
+565159,6771863,503 
+564559,6771743,503 
+565079,6771283,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1403</name><Snippet maxLines="4">Pihlajaniemi</Snippet><description><![CDATA[2003Pihlajaniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>595288,6859593,503 
+595988,6860452,503 
+596428,6860112,503 
+596268,6859293,503 
+595688,6859053,503 
+595388,6859193,503 
+595288,6859593,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1661</name><Snippet maxLines="4">Parkki</Snippet><description><![CDATA[2003Parkki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>362447,6766770,503 
+362287,6766270,503 
+361768,6767010,503 
+362028,6767050,503 
+362447,6766770,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>652</name><Snippet maxLines="4">Honkakallio</Snippet><description><![CDATA[2003Honkakallio]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>430638,7083278,503 
+430518,7084118,503 
+431557,7084138,503 
+431597,7083298,503 
+430638,7083278,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>653</name><Snippet maxLines="4">Kuusaa</Snippet><description><![CDATA[2003Kuusaa]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>428279,7083818,503 
+429238,7083858,503 
+429258,7084537,503 
+428239,7084617,503 
+428279,7083818,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>474</name><Snippet maxLines="4">Niinivaara 2</Snippet><description><![CDATA[2003Niinivaara 2]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>643252,6943022,503 
+642732,6943622,503 
+643531,6943902,503 
+644451,6943142,503 
+643571,6942342,503 
+643252,6943022,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>475</name><Snippet maxLines="4">Niinivaara</Snippet><description><![CDATA[2003Niinivaara]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>642372,6942842,503 
+642672,6942082,503 
+643531,6942342,503 
+643232,6943102,503 
+642692,6943602,503 
+642312,6943562,503 
+642372,6942842,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>481</name><Snippet maxLines="4">Kanervala</Snippet><description><![CDATA[2003Kanervala]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>641892,6945961,503 
+640333,6945801,503 
+640753,6944941,503 
+641192,6945141,503 
+641772,6944901,503 
+642152,6945801,503 
+641892,6945961,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>229</name><Snippet maxLines="4">Keljon koulu</Snippet><description><![CDATA[2003Keljon koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>433133,6898581,503 
+433173,6898961,503 
+433453,6898821,503 
+433353,6898541,503 
+433133,6898581,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>236</name><Snippet maxLines="4">Vesalan Kurssikeskus</Snippet><description><![CDATA[2003Vesalan Kurssikeskus]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>423367,6903922,503 
+423187,6902982,503 
+422787,6902902,503 
+422588,6903302,503 
+422268,6903522,503 
+422368,6903902,503 
+422728,6903962,503 
+423367,6903922,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1518</name><Snippet maxLines="4">Teeriniemi</Snippet><description><![CDATA[2003Teeriniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>231574,7006884,503 
+232633,7006824,503 
+232633,7008203,503 
+231634,7008503,503 
+231574,7007004,503 
+231574,7006884,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1519</name><Snippet maxLines="4">Ämmänmäki</Snippet><description><![CDATA[2003Ämmänmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>232633,7006524,503 
+233693,7006744,503 
+233553,7007883,503 
+232973,7008063,503 
+232593,7007304,503 
+232633,7006524,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2805</name><Snippet maxLines="4">Paulaharju</Snippet><description><![CDATA[2003Paulaharju]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>481549,7479108,503 
+481289,7479028,503 
+481029,7479548,503 
+481469,7479668,503 
+481549,7479108,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2806</name><Snippet maxLines="4">Paulaharju</Snippet><description><![CDATA[2003Paulaharju]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>481549,7479108,503 
+481289,7479028,503 
+481029,7479548,503 
+481469,7479668,503 
+481549,7479108,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>249</name><Snippet maxLines="4">Tyyppälän koulu</Snippet><description><![CDATA[2003Tyyppälän koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>436142,6905621,503 
+435362,6905921,503 
+435922,6906801,503 
+436302,6906661,503 
+436482,6906241,503 
+436142,6905621,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>253</name><Snippet maxLines="4">Haukanniemi</Snippet><description><![CDATA[2003Haukanniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>433283,6902642,503 
+433563,6902782,503 
+433483,6902922,503 
+433323,6903182,503 
+433463,6903422,503 
+433043,6903942,503 
+432843,6903782,503 
+432983,6903242,503 
+433223,6902962,503 
+433283,6902642,503 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1284</name><Snippet maxLines="4">Palomäki</Snippet><description><![CDATA[2004Palomäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>484942,6750153,504 
+485622,6750073,504 
+485702,6748734,504 
+483943,6748734,504 
+483983,6749653,504 
+484942,6750153,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1306</name><Snippet maxLines="4">Lappeenrannan kirkko</Snippet><description><![CDATA[2004Lappeenrannan kirkko]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>563694,6770182,504 
+563474,6770142,504 
+563454,6770382,504 
+563694,6770462,504 
+563694,6770182,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1307</name><Snippet maxLines="4">Kaukas</Snippet><description><![CDATA[2004Kaukas]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>566753,6769922,504 
+566433,6770862,504 
+566753,6770482,504 
+567173,6770222,504 
+566753,6769922,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2348</name><Snippet maxLines="4">vesikoski</Snippet><description><![CDATA[2004vesikoski]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>284696,6753577,504 
+283476,6753957,504 
+284436,6754676,504 
+284996,6754137,504 
+284696,6753577,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>328</name><Snippet maxLines="4">Männistö-Itkonniemi</Snippet><description><![CDATA[2004Männistö-Itkonniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>536447,6974249,504 
+536787,6974089,504 
+537267,6974149,504 
+537227,6975149,504 
+536547,6975748,504 
+536368,6975349,504 
+536188,6975109,504 
+535768,6975029,504 
+535828,6974369,504 
+536447,6974249,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>346</name><Snippet maxLines="4">Kurkimäki</Snippet><description><![CDATA[2004Kurkimäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>524812,6962134,504 
+524432,6961534,504 
+524832,6961194,504 
+525352,6960974,504 
+525872,6960874,504 
+525852,6961954,504 
+524812,6962134,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>859</name><Snippet maxLines="4">Maksjoen koulu</Snippet><description><![CDATA[2004Maksjoen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>334623,6679535,504 
+334523,6678695,504 
+334443,6678535,504 
+334163,6678475,504 
+334123,6678655,504 
+333823,6678715,504 
+333843,6679435,504 
+334623,6679535,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>375</name><Snippet maxLines="4">Lippumäki</Snippet><description><![CDATA[2004Lippumäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>532509,6968691,504 
+532529,6968072,504 
+532929,6967832,504 
+533589,6967572,504 
+533549,6968591,504 
+532509,6968691,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>476</name><Snippet maxLines="4">Rantakylä</Snippet><description><![CDATA[2004Rantakylä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>644571,6945041,504 
+644211,6945101,504 
+644191,6945741,504 
+644071,6946781,504 
+645771,6946881,504 
+646190,6945621,504 
+645271,6945221,504 
+644571,6945041,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>239</name><Snippet maxLines="4">Kinkomaa</Snippet><description><![CDATA[2004Kinkomaa]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>434663,6892946,504 
+434843,6892147,504 
+435442,6892047,504 
+435362,6892647,504 
+435043,6893006,504 
+434663,6892946,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>240</name><Snippet maxLines="4">Pohjanlammen koulu</Snippet><description><![CDATA[2004Pohjanlammen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>435982,6899044,504 
+436362,6900064,504 
+437142,6899964,504 
+436802,6898944,504 
+435982,6899044,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>241</name><Snippet maxLines="4">Nenäinniemen koulu</Snippet><description><![CDATA[2004Nenäinniemen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>435942,6898564,504 
+436122,6898964,504 
+436562,6898804,504 
+436462,6897744,504 
+435542,6897764,504 
+435662,6898524,504 
+435942,6898564,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>503</name><Snippet maxLines="4">Ahmo</Snippet><description><![CDATA[2004Ahmo]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>533181,6994171,504 
+533601,6994531,504 
+533461,6994791,504 
+533021,6995351,504 
+532921,6994991,504 
+533181,6994171,504 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>256</name><Snippet maxLines="4">Yliopisto</Snippet><description><![CDATA[2005Yliopisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>434043,6901003,505 
+433643,6900903,505 
+433703,6901403,505 
+433803,6901523,505 
+434303,6901443,505 
+434043,6901003,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1287</name><Snippet maxLines="4">Hinkkismäki</Snippet><description><![CDATA[2005Hinkkismäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>482040,6748457,505 
+482040,6748637,505 
+482020,6748757,505 
+482220,6749017,505 
+482640,6749176,505 
+483040,6749136,505 
+483180,6748517,505 
+482500,6748557,505 
+482040,6748457,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2086</name><Snippet maxLines="4">Vehkamäki</Snippet><description><![CDATA[2005Vehkamäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>272826,6806208,505 
+272886,6806467,505 
+272926,6806747,505 
+273166,6806767,505 
+273326,6806288,505 
+273246,6806148,505 
+272826,6806208,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1063</name><Snippet maxLines="4">Solvallen</Snippet><description><![CDATA[2005Solvallen]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>89860,6700253,505 
+89660,6699813,505 
+90140,6699653,505 
+90280,6700093,505 
+89860,6700253,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>309</name><Snippet maxLines="4">Kallislahti</Snippet><description><![CDATA[2005Kallislahti]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>583493,6864630,505 
+584073,6865150,505 
+584732,6864650,505 
+584633,6864131,505 
+583333,6864311,505 
+583493,6864630,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>322</name><Snippet maxLines="4">Syvähiekka</Snippet><description><![CDATA[2005Syvähiekka]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>549902,6959895,505 
+550802,6959875,505 
+551162,6960275,505 
+550562,6960675,505 
+550282,6960974,505 
+549722,6961254,505 
+549322,6961094,505 
+549462,6960115,505 
+549902,6959895,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>858</name><Snippet maxLines="4">Ojamo</Snippet><description><![CDATA[2005Ojamo]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>334663,6680934,505 
+335363,6680634,505 
+335283,6680234,505 
+336242,6680214,505 
+336422,6682334,505 
+335343,6682414,505 
+335203,6682354,505 
+335163,6681834,505 
+334843,6681434,505 
+334383,6681574,505 
+334363,6681394,505 
+334583,6681074,505 
+334663,6680934,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1125</name><Snippet maxLines="4">Kanavansuu</Snippet><description><![CDATA[2005Kanavansuu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>568655,6772842,505 
+568895,6772982,505 
+569615,6773002,505 
+570155,6772582,505 
+569715,6772263,505 
+569195,6772303,505 
+568675,6772263,505 
+568655,6772842,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>894</name><Snippet maxLines="4">Sarasuon koulu</Snippet><description><![CDATA[2005Sarasuon koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>430073,7205721,505 
+430133,7206020,505 
+430473,7205741,505 
+430253,7205541,505 
+430073,7205721,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3721</name><Snippet maxLines="4">Päiväkoti</Snippet><description><![CDATA[2005Päiväkoti]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>403388,7152649,505 
+403248,7152249,505 
+402729,7152649,505 
+403068,7153029,505 
+403388,7152649,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>662</name><Snippet maxLines="4">Karjalahti/Ylipää</Snippet><description><![CDATA[2005Karjalahti/Ylipää]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>418722,7067164,505 
+418802,7065765,505 
+416703,7065785,505 
+417363,7067204,505 
+418722,7067164,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>237</name><Snippet maxLines="4">Keltinmäen koulu</Snippet><description><![CDATA[2005Keltinmäen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>430764,6900303,505 
+430964,6900683,505 
+431504,6900443,505 
+431384,6900064,505 
+430764,6900303,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1521</name><Snippet maxLines="4">Alkula</Snippet><description><![CDATA[2005Alkula]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>233953,7006144,505 
+234133,7004545,505 
+233413,7005025,505 
+233013,7005984,505 
+233953,7006144,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>499</name><Snippet maxLines="4">Mutala</Snippet><description><![CDATA[2005Mutala]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>643172,6945221,505 
+642712,6945701,505 
+642992,6946521,505 
+643172,6946501,505 
+643451,6947120,505 
+643791,6947080,505 
+644091,6947380,505 
+644531,6947120,505 
+644711,6946541,505 
+644671,6945081,505 
+643971,6945181,505 
+643551,6945261,505 
+643172,6945221,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1525</name><Snippet maxLines="4">Hietalahti</Snippet><description><![CDATA[2005Hietalahti]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>228235,7007044,505 
+227795,7006944,505 
+228315,7005944,505 
+229295,7005544,505 
+229655,7005464,505 
+229915,7006184,505 
+229795,7006324,505 
+230075,7006624,505 
+229675,7007044,505 
+229415,7006824,505 
+228955,7006744,505 
+228235,7007044,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>247</name><Snippet maxLines="4">Huhtasuon koulu</Snippet><description><![CDATA[2005Huhtasuon koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>437761,6904782,505 
+438321,6905461,505 
+438721,6905241,505 
+439021,6904982,505 
+438821,6904482,505 
+438641,6904142,505 
+437721,6904262,505 
+437761,6904782,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1528</name><Snippet maxLines="4">Metsäkallio</Snippet><description><![CDATA[2005Metsäkallio]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>229955,7011002,505 
+229895,7010202,505 
+230674,7010202,505 
+230754,7010742,505 
+230274,7011142,505 
+229955,7011002,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>252</name><Snippet maxLines="4">Kortepohja</Snippet><description><![CDATA[2005Kortepohja]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>433363,6902443,505 
+433283,6902802,505 
+432843,6902842,505 
+432124,6902603,505 
+432124,6901943,505 
+432763,6902123,505 
+433363,6902443,505 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2827</name><Snippet maxLines="4">Savukoski</Snippet><description><![CDATA[2006Savukoski]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>550881,7463454,506 
+549902,7464474,506 
+550122,7464794,506 
+550961,7464834,506 
+551481,7463854,506 
+550881,7463454,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>548</name><Snippet maxLines="4">Isosalo</Snippet><description><![CDATA[2006Isosalo]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>290906,6972695,506 
+292066,6972695,506 
+292246,6973135,506 
+292106,6973434,506 
+291846,6973894,506 
+291446,6973914,506 
+290666,6973474,506 
+290826,6973215,506 
+290906,6972695,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>808</name><Snippet maxLines="4">Järvenperä</Snippet><description><![CDATA[2006Järvenperä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>372253,6680495,506 
+372853,6681274,506 
+373912,6681054,506 
+373432,6679115,506 
+372293,6679315,506 
+372253,6680495,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>809</name><Snippet maxLines="4">Mankkaa</Snippet><description><![CDATA[2006Mankkaa]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>375252,6674557,506 
+375352,6673717,506 
+375931,6673697,506 
+376831,6674077,506 
+376971,6676116,506 
+376471,6676396,506 
+375651,6676436,506 
+375152,6676196,506 
+374992,6675257,506 
+375252,6674557,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2100</name><Snippet maxLines="4">Palovaara</Snippet><description><![CDATA[2006Palovaara]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>370377,7337799,506 
+372296,7337639,506 
+372416,7338399,506 
+372316,7338959,506 
+371637,7339199,506 
+370997,7338939,506 
+370437,7339079,506 
+370377,7337799,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1333</name><Snippet maxLines="4">Rånäs 2</Snippet><description><![CDATA[2006Rånäs 2]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>354842,6664387,506 
+354902,6664467,506 
+355082,6664487,506 
+355182,6664527,506 
+355422,6663907,506 
+355322,6663527,506 
+354642,6663467,506 
+354662,6663987,506 
+354842,6664387,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>823</name><Snippet maxLines="4">Havupuro</Snippet><description><![CDATA[2006Havupuro]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>573286,7009520,506 
+573305,7010979,506 
+574445,7010979,506 
+574345,7009440,506 
+573286,7009520,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1079</name><Snippet maxLines="4">Mansoniemi</Snippet><description><![CDATA[2006Mansoniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>285889,6863826,506 
+285989,6864206,506 
+286868,6863147,506 
+286189,6862927,506 
+285889,6863826,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>317</name><Snippet maxLines="4">Oulunlahti</Snippet><description><![CDATA[2006Oulunlahti]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>429514,7204801,506 
+429214,7204681,506 
+428594,7204781,506 
+428454,7206100,506 
+428914,7206240,506 
+429514,7204801,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>330</name><Snippet maxLines="4">KUPITTAANPUISTO</Snippet><description><![CDATA[2006KUPITTAANPUISTO]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>241180,6710653,506 
+240701,6710333,506 
+240940,6709813,506 
+241720,6710033,506 
+241180,6710653,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1361</name><Snippet maxLines="4">Norssikumpu</Snippet><description><![CDATA[2006Norssikumpu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>428314,7216496,506 
+428094,7216056,506 
+427135,7216216,506 
+427095,7216836,506 
+427554,7216896,506 
+427794,7216616,506 
+428314,7216496,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>627</name><Snippet maxLines="4">Taivaanpankko</Snippet><description><![CDATA[2006Taivaanpankko]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>532949,6975409,506 
+532309,6976208,506 
+531649,6975449,506 
+531629,6975149,506 
+531709,6974669,506 
+532249,6974029,506 
+532629,6973949,506 
+532949,6975409,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>884</name><Snippet maxLines="4">Haurala</Snippet><description><![CDATA[2006Haurala]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>324382,6802200,506 
+325262,6802180,506 
+325802,6801461,506 
+325802,6801161,506 
+325122,6801101,506 
+324323,6801381,506 
+324382,6802200,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>646</name><Snippet maxLines="4">Mäntylampi</Snippet><description><![CDATA[2006Mäntylampi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>400969,7158666,506 
+400310,7158526,506 
+400290,7158087,506 
+400749,7157987,506 
+401709,7157327,506 
+402549,7157347,506 
+402629,7158047,506 
+400969,7158666,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1172</name><Snippet maxLines="4">Lapila</Snippet><description><![CDATA[2006Lapila]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>396275,6696484,506 
+395815,6696844,506 
+395855,6697244,506 
+395775,6697424,506 
+395875,6698104,506 
+396215,6698244,506 
+396455,6697844,506 
+396435,6697004,506 
+396275,6696484,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1174</name><Snippet maxLines="4">Urheilupuisto</Snippet><description><![CDATA[2006Urheilupuisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>395695,6698723,506 
+395555,6697924,506 
+395335,6697844,506 
+394736,6698503,506 
+394756,6698683,506 
+394636,6698943,506 
+394856,6699063,506 
+395096,6698823,506 
+395695,6698723,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>928</name><Snippet maxLines="4">Jousenkaari</Snippet><description><![CDATA[2006Jousenkaari]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>376751,6673437,506 
+376831,6673717,506 
+377251,6673837,506 
+377651,6673777,506 
+377831,6673497,506 
+377851,6672578,506 
+376811,6672498,506 
+376751,6673437,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>680</name><Snippet maxLines="4">PUKINMÄKI</Snippet><description><![CDATA[2006PUKINMÄKI]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>387819,6680535,506 
+388018,6681154,506 
+388998,6681134,506 
+389158,6680835,506 
+388998,6680335,506 
+388018,6680375,506 
+387819,6680535,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>681</name><Snippet maxLines="4">PIRKKOLA</Snippet><description><![CDATA[2006PIRKKOLA]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>384620,6679875,506 
+383780,6679455,506 
+384040,6678615,506 
+384820,6678875,506 
+384620,6679875,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>943</name><Snippet maxLines="4">Maaniittu</Snippet><description><![CDATA[2006Maaniittu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>379944,6704885,506 
+379804,6705045,506 
+379784,6705365,506 
+380164,6705764,506 
+380463,6705784,506 
+380763,6705425,506 
+380503,6705005,506 
+379944,6704885,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>433</name><Snippet maxLines="4">Ykslammi</Snippet><description><![CDATA[2006Ykslammi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>377650,6743620,506 
+377490,6743720,506 
+377031,6743740,506 
+376891,6743400,506 
+377031,6743060,506 
+377330,6743000,506 
+377590,6742980,506 
+377630,6743360,506 
+377650,6743620,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>437</name><Snippet maxLines="4">Lähderanta</Snippet><description><![CDATA[2006Lähderanta]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>374612,6680854,506 
+374472,6680575,506 
+374732,6680255,506 
+375072,6680115,506 
+375851,6680455,506 
+375571,6681074,506 
+375272,6681174,506 
+374932,6681074,506 
+374612,6680854,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>955</name><Snippet maxLines="4">Lähdekorpi</Snippet><description><![CDATA[2006Lähdekorpi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>370984,6743679,506 
+370624,6744139,506 
+370424,6743859,506 
+370484,6743579,506 
+370724,6743479,506 
+370984,6743519,506 
+370984,6743679,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>956</name><Snippet maxLines="4">Turenki</Snippet><description><![CDATA[2006Turenki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>372643,6757574,506 
+373263,6757374,506 
+373903,6756294,506 
+373883,6755694,506 
+372963,6755674,506 
+372363,6756054,506 
+371924,6756014,506 
+371624,6757014,506 
+372643,6757574,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>449</name><Snippet maxLines="4">Toppelund</Snippet><description><![CDATA[2006Toppelund]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>377471,6670759,506 
+377691,6670878,506 
+377831,6671118,506 
+377891,6671838,506 
+376731,6671858,506 
+376471,6671858,506 
+376431,6670858,506 
+376811,6670798,506 
+377471,6670759,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1230</name><Snippet maxLines="4">Kurkela</Snippet><description><![CDATA[2006Kurkela]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>394776,6700523,506 
+395176,6698883,506 
+395875,6698863,506 
+396035,6699943,506 
+395655,6700323,506 
+394776,6700523,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>479</name><Snippet maxLines="4">Iiksenvaara</Snippet><description><![CDATA[2006Iiksenvaara]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>647990,6942042,506 
+647610,6941743,506 
+647250,6942462,506 
+647090,6942842,506 
+647570,6943142,506 
+648030,6943062,506 
+648130,6942342,506 
+647990,6942042,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>480</name><Snippet maxLines="4">Kiihtelysvaara</Snippet><description><![CDATA[2006Kiihtelysvaara]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>667522,6933046,506 
+667722,6933206,506 
+667922,6932386,506 
+667422,6931947,506 
+667302,6932426,506 
+667522,6933046,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>992</name><Snippet maxLines="4">Jäähalli</Snippet><description><![CDATA[2006Jäähalli]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>566698,6769884,506 
+566598,6770043,506 
+565898,6770223,506 
+565659,6770223,506 
+565199,6769384,506 
+565838,6769524,506 
+566398,6769844,506 
+566698,6769884,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>993</name><Snippet maxLines="4">Kanavansuu</Snippet><description><![CDATA[2006Kanavansuu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>569557,6772203,506 
+569717,6772263,506 
+570077,6772343,506 
+569957,6772522,506 
+569697,6772722,506 
+569657,6773022,506 
+569317,6773022,506 
+569277,6772822,506 
+569097,6772982,506 
+568617,6772842,506 
+568437,6772982,506 
+568437,6772542,506 
+568637,6772243,506 
+568997,6772143,506 
+569557,6772203,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>501</name><Snippet maxLines="4">Orimäki</Snippet><description><![CDATA[2006Orimäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>277564,6807727,506 
+276665,6807587,506 
+276445,6807447,506 
+276385,6807127,506 
+277204,6806567,506 
+277724,6806607,506 
+277844,6807487,506 
+277564,6807727,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1014</name><Snippet maxLines="4">Kyröskoskenharju</Snippet><description><![CDATA[2006Kyröskoskenharju]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>297416,6843409,506 
+297416,6843749,506 
+297836,6843749,506 
+297856,6843389,506 
+297416,6843409,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2319</name><Snippet maxLines="4">Liperin alakoulu</Snippet><description><![CDATA[2007Liperin alakoulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>623486,6935293,507 
+623226,6935213,507 
+623705,6934773,507 
+624025,6934733,507 
+624125,6934973,507 
+623486,6935293,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2320</name><Snippet maxLines="4">Viinijärven koulu</Snippet><description><![CDATA[2007Viinijärven koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>614549,6948388,507 
+614429,6947988,507 
+614789,6947928,507 
+615109,6947948,507 
+615109,6948268,507 
+614549,6948388,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2074</name><Snippet maxLines="4">Lampinsaari</Snippet><description><![CDATA[2007Lampinsaari]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>409066,7144232,507 
+409826,7143473,507 
+410226,7143952,507 
+410146,7144752,507 
+409046,7144772,507 
+409066,7144232,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1854</name><Snippet maxLines="4">Äijämäki</Snippet><description><![CDATA[2007Äijämäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>362632,6733455,507 
+362672,6733215,507 
+363132,6733155,507 
+363512,6733335,507 
+363252,6733895,507 
+362632,6733455,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1855</name><Snippet maxLines="4">Vojakkala</Snippet><description><![CDATA[2007Vojakkala]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>344900,6741492,507 
+344200,6741312,507 
+343880,6741752,507 
+344580,6742132,507 
+345339,6741752,507 
+344900,6741492,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1856</name><Snippet maxLines="4">Valaistu</Snippet><description><![CDATA[2007Valaistu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>352157,6739093,507 
+352177,6737913,507 
+352836,6738093,507 
+352656,6738653,507 
+352157,6739093,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1857</name><Snippet maxLines="4">Pilpala</Snippet><description><![CDATA[2007Pilpala]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>351377,6724459,507 
+351397,6723619,507 
+351897,6723819,507 
+351877,6724719,507 
+351177,6724899,507 
+351377,6724459,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1858</name><Snippet maxLines="4">Metsälä</Snippet><description><![CDATA[2007Metsälä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>360433,6720940,507 
+361213,6721040,507 
+361033,6721700,507 
+360253,6721680,507 
+360433,6720940,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1859</name><Snippet maxLines="4">Kormu</Snippet><description><![CDATA[2007Kormu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>372089,6736254,507 
+372069,6736554,507 
+372508,6736774,507 
+372968,6736414,507 
+372688,6735834,507 
+372089,6736254,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1860</name><Snippet maxLines="4">Launonen</Snippet><description><![CDATA[2007Launonen]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>368770,6737194,507 
+367990,6737354,507 
+367750,6737853,507 
+368390,6738553,507 
+369010,6738213,507 
+369270,6737774,507 
+368770,6737194,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2372</name><Snippet maxLines="4">Jäkärlän koulu</Snippet><description><![CDATA[2007Jäkärlän koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>244759,6720549,507 
+244939,6719729,507 
+245339,6719729,507 
+245339,6720609,507 
+244759,6720549,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1878</name><Snippet maxLines="4">Lehtisaari</Snippet><description><![CDATA[2007Lehtisaari]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>435748,6888759,507 
+435508,6888799,507 
+435448,6888539,507 
+434609,6888979,507 
+434729,6889579,507 
+435428,6889759,507 
+435868,6889619,507 
+435388,6889179,507 
+435808,6889059,507 
+436628,6889319,507 
+436568,6888559,507 
+436008,6888519,507 
+435748,6888759,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1879</name><Snippet maxLines="4">Pikkukorkee</Snippet><description><![CDATA[2007Pikkukorkee]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>361513,6732815,507 
+360673,6732616,507 
+360653,6733435,507 
+360733,6733875,507 
+361113,6733815,507 
+361333,6733435,507 
+361513,6732815,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2149</name><Snippet maxLines="4">Piehingin koulu</Snippet><description><![CDATA[2007Piehingin koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>375246,7163576,507 
+375506,7163257,507 
+375326,7162977,507 
+374986,7163137,507 
+374686,7163596,507 
+374166,7163976,507 
+374666,7164156,507 
+375246,7163576,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2173</name><Snippet maxLines="4">Niinikangas</Snippet><description><![CDATA[2007Niinikangas]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>410286,7066564,507 
+411325,7066545,507 
+411046,7067164,507 
+410186,7067144,507 
+410286,7066564,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2204</name><Snippet maxLines="4">Kaupinkallio</Snippet><description><![CDATA[2007Kaupinkallio]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>378210,6674057,507 
+377851,6673857,507 
+377771,6673038,507 
+379110,6672938,507 
+379290,6673997,507 
+378210,6674057,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2210</name><Snippet maxLines="4">Kaskenkaataja</Snippet><description><![CDATA[2007Kaskenkaataja]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>376751,6672918,507 
+376791,6673657,507 
+377271,6673837,507 
+378290,6673697,507 
+378190,6672758,507 
+376751,6672918,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2211</name><Snippet maxLines="4">Karhusuon koulu</Snippet><description><![CDATA[2007Karhusuon koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>367535,6679475,507 
+368414,6678895,507 
+368774,6680135,507 
+367775,6680315,507 
+367535,6679475,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1982</name><Snippet maxLines="4">Someroharju</Snippet><description><![CDATA[2007Someroharju]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>445952,7381230,507 
+446591,7383449,507 
+447271,7383369,507 
+446991,7382590,507 
+446711,7381970,507 
+446851,7381670,507 
+446411,7381230,507 
+445952,7381230,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1983</name><Snippet maxLines="4">Vanttauskoski</Snippet><description><![CDATA[2007Vanttauskoski]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>484876,7361698,507 
+486016,7361198,507 
+486675,7361618,507 
+487415,7361638,507 
+487255,7362738,507 
+485096,7362818,507 
+484876,7361698,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1986</name><Snippet maxLines="4">Salmivaara</Snippet><description><![CDATA[2007Salmivaara]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>256167,7668000,507 
+255048,7669319,507 
+253468,7667620,507 
+253708,7666480,507 
+254328,7665700,507 
+254668,7665521,507 
+254988,7665860,507 
+255308,7666320,507 
+256087,7666600,507 
+256047,7667340,507 
+256167,7668000,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2000</name><Snippet maxLines="4">Ilmasotakoulu</Snippet><description><![CDATA[2007Ilmasotakoulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>428965,6918516,507 
+429005,6918716,507 
+428185,6919596,507 
+427645,6919556,507 
+427685,6918496,507 
+428965,6918516,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2007</name><Snippet maxLines="4">Aseman koulu</Snippet><description><![CDATA[2007Aseman koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>224185,6734957,507 
+224585,6734737,507 
+224745,6735037,507 
+224245,6735177,507 
+224185,6734957,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2008</name><Snippet maxLines="4">Pyhänkoulu</Snippet><description><![CDATA[2007Pyhänkoulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>219587,6734977,507 
+219387,6735057,507 
+219227,6734917,507 
+219447,6734797,507 
+219587,6734977,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2009</name><Snippet maxLines="4">Laurin Koulu</Snippet><description><![CDATA[2007Laurin Koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>226064,6737596,507 
+226384,6737576,507 
+226424,6737756,507 
+226104,6737796,507 
+226064,6737596,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2010</name><Snippet maxLines="4">Tavastilan koulu</Snippet><description><![CDATA[2007Tavastilan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>222906,6731898,507 
+222646,6731918,507 
+222726,6732258,507 
+222926,6732278,507 
+222906,6731898,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2011</name><Snippet maxLines="4">Ihalaisten koulu</Snippet><description><![CDATA[2007Ihalaisten koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>220646,6742054,507 
+220726,6741954,507 
+220566,6741974,507 
+220646,6742054,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2269</name><Snippet maxLines="4">Ollilanpuisto</Snippet><description><![CDATA[2007Ollilanpuisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>644131,6945741,507 
+644011,6946821,507 
+643651,6946701,507 
+643851,6945721,507 
+644131,6945741,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2270</name><Snippet maxLines="4">Utran koulu</Snippet><description><![CDATA[2007Utran koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>645731,6946521,507 
+646630,6946381,507 
+646210,6947340,507 
+645611,6947300,507 
+645731,6946521,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2015</name><Snippet maxLines="4">Huolin koulu</Snippet><description><![CDATA[2007Huolin koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>221826,6737416,507 
+221946,6737316,507 
+221946,6737476,507 
+221826,6737416,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2016</name><Snippet maxLines="4">Tarvaisten koulu</Snippet><description><![CDATA[2007Tarvaisten koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>231582,6741274,507 
+231582,6741414,507 
+231462,6741334,507 
+231582,6741274,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>225</name><Snippet maxLines="4">Säynätsalo</Snippet><description><![CDATA[2007Säynätsalo]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>435632,6890165,507 
+435293,6890324,507 
+435213,6890804,507 
+435332,6891024,507 
+435213,6891084,507 
+435233,6891244,507 
+435492,6891144,507 
+435632,6891264,507 
+436112,6891124,507 
+436072,6890824,507 
+435932,6890564,507 
+435872,6890244,507 
+435632,6890165,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>238</name><Snippet maxLines="4">Tikan koulu</Snippet><description><![CDATA[2007Tikan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>435562,6899004,507 
+435922,6899024,507 
+436182,6899724,507 
+435562,6899964,507 
+435223,6899224,507 
+435562,6899004,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2293</name><Snippet maxLines="4">Pukinmäen Urheilupuisto</Snippet><description><![CDATA[2007Pukinmäen Urheilupuisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>387639,6680375,507 
+388078,6681654,507 
+389278,6681734,507 
+389538,6681634,507 
+389718,6681014,507 
+389058,6680135,507 
+388318,6680075,507 
+387639,6680375,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>251</name><Snippet maxLines="4">Keski-Palokan koulu</Snippet><description><![CDATA[2007Keski-Palokan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>433023,6906821,507 
+433323,6907101,507 
+433243,6907680,507 
+433063,6907900,507 
+432524,6907840,507 
+432604,6907061,507 
+433023,6906821,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2557</name><Snippet maxLines="4">Tupamäen koulu</Snippet><description><![CDATA[2007Tupamäen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>408098,6917450,507 
+407439,6917310,507 
+407379,6917670,507 
+407659,6918490,507 
+408138,6918650,507 
+408358,6918110,507 
+408098,6917450,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>255</name><Snippet maxLines="4">Lohikoski</Snippet><description><![CDATA[2007Lohikoski]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>435063,6904582,507 
+435183,6904022,507 
+435662,6904122,507 
+435702,6904702,507 
+435362,6904842,507 
+435063,6904582,507 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3075</name><Snippet maxLines="4">Ruissalo</Snippet><description><![CDATA[2008Ruissalo]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>508430,6716773,508 
+508870,6717152,508 
+509030,6716353,508 
+508810,6715453,508 
+508310,6715193,508 
+507830,6715153,508 
+507210,6715213,508 
+508430,6716773,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3076</name><Snippet maxLines="4">Poitsila - Summa</Snippet><description><![CDATA[2008Poitsila - Summa]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>507370,6714274,508 
+508790,6714194,508 
+508650,6713434,508 
+508510,6712794,508 
+507150,6712734,508 
+506491,6712694,508 
+506491,6713314,508 
+507070,6713614,508 
+507390,6713834,508 
+507370,6714274,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4615</name><Snippet maxLines="4">Pyyhkälä</Snippet><description><![CDATA[2008Pyyhkälä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>410363,6953643,508 
+410363,6953643,508 
+410363,6954363,508 
+409643,6954543,508 
+409463,6954963,508 
+409243,6955123,508 
+408423,6955183,508 
+408303,6954763,508 
+408323,6954563,508 
+408643,6954223,508 
+408603,6954083,508 
+408843,6953823,508 
+409103,6953663,508 
+409443,6953703,508 
+409803,6953643,508 
+409963,6953863,508 
+410123,6953863,508 
+410183,6953723,508 
+410343,6953683,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2574</name><Snippet maxLines="4">Eskolanmäki</Snippet><description><![CDATA[2008Eskolanmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>484782,6745995,508 
+483683,6745955,508 
+483843,6746794,508 
+484942,6746834,508 
+484782,6745995,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2575</name><Snippet maxLines="4">Hiosenmäki</Snippet><description><![CDATA[2008Hiosenmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>490520,6756690,508 
+489440,6756630,508 
+489500,6757330,508 
+490560,6757610,508 
+490520,6756690,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2576</name><Snippet maxLines="4">Kartanokoulu</Snippet><description><![CDATA[2008Kartanokoulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>470748,6731760,508 
+470428,6731800,508 
+470488,6732100,508 
+470788,6732080,508 
+470748,6731760,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2836</name><Snippet maxLines="4">Huutjärven koulu</Snippet><description><![CDATA[2008Huutjärven koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>485815,6706157,508 
+485835,6706197,508 
+486555,6706137,508 
+486675,6705817,508 
+486955,6705817,508 
+487055,6705597,508 
+486775,6705397,508 
+485655,6705697,508 
+485815,6706157,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2837</name><Snippet maxLines="4">Rauhalan koulu</Snippet><description><![CDATA[2008Rauhalan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>497070,6708736,508 
+497090,6708776,508 
+497610,6708976,508 
+497770,6708656,508 
+497090,6708516,508 
+497070,6708736,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2838</name><Snippet maxLines="4">Otsolan koulu</Snippet><description><![CDATA[2008Otsolan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>497570,6710735,508 
+497550,6710755,508 
+497730,6710675,508 
+497450,6710235,508 
+497330,6710395,508 
+497570,6710735,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2839</name><Snippet maxLines="4">Ruonalan koulu</Snippet><description><![CDATA[2008Ruonalan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>492672,6704837,508 
+492692,6704857,508 
+493052,6704857,508 
+493212,6704278,508 
+492952,6704258,508 
+492712,6704517,508 
+492672,6704837,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2840</name><Snippet maxLines="4">Jäppilä</Snippet><description><![CDATA[2008Jäppilä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>492412,6711095,508 
+492352,6711075,508 
+491593,6710975,508 
+491453,6711835,508 
+492052,6711974,508 
+492412,6711095,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3096</name><Snippet maxLines="4">Meri-Rastila</Snippet><description><![CDATA[2008Meri-Rastila]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>394916,6675417,508 
+395456,6675897,508 
+395835,6675757,508 
+395915,6675117,508 
+395535,6674817,508 
+395156,6674597,508 
+394756,6674977,508 
+394916,6675417,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2596</name><Snippet maxLines="4">Kuluntalahden koulu</Snippet><description><![CDATA[2008Kuluntalahden koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>542676,7127986,508 
+543216,7127646,508 
+544236,7128206,508 
+543816,7128626,508 
+542676,7127986,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2861</name><Snippet maxLines="4">Hallainvuori</Snippet><description><![CDATA[2008Hallainvuori]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>390971,6678237,508 
+391091,6678616,508 
+391611,6678836,508 
+392251,6678756,508 
+391871,6677357,508 
+391251,6677697,508 
+391271,6678077,508 
+390971,6678237,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2862</name><Snippet maxLines="4">Myllypuro-Puotinharju</Snippet><description><![CDATA[2008Myllypuro-Puotinharju]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>393350,6676677,508 
+392651,6676677,508 
+392531,6676857,508 
+391991,6676797,508 
+391891,6677777,508 
+393210,6677757,508 
+393350,6676677,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2622</name><Snippet maxLines="4">Leppälahti</Snippet><description><![CDATA[2008Leppälahti]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>395052,7056828,508 
+395292,7056548,508 
+395352,7057008,508 
+395232,7057288,508 
+394852,7057268,508 
+395052,7056828,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2624</name><Snippet maxLines="4">Kalaja</Snippet><description><![CDATA[2008Kalaja]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>405688,7056169,508 
+405548,7055689,508 
+406188,7055569,508 
+406527,7055589,508 
+406627,7055469,508 
+406787,7056269,508 
+406028,7056509,508 
+405688,7056169,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2625</name><Snippet maxLines="4">Heikkilä 1</Snippet><description><![CDATA[2008Heikkilä 1]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>358701,6667733,508 
+358761,6669012,508 
+359481,6669032,508 
+359481,6667733,508 
+358701,6667733,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2626</name><Snippet maxLines="4">Kantti</Snippet><description><![CDATA[2008Kantti]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>401649,7055269,508 
+402069,7054369,508 
+402909,7054429,508 
+402949,7055169,508 
+402549,7055469,508 
+401589,7055609,508 
+401649,7055269,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2628</name><Snippet maxLines="4">Heikkilä 2</Snippet><description><![CDATA[2008Heikkilä 2]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>359401,6667393,508 
+359441,6668232,508 
+358102,6668152,508 
+358142,6667353,508 
+359401,6667393,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2629</name><Snippet maxLines="4">Pitkäkangas</Snippet><description><![CDATA[2008Pitkäkangas]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>392793,7058108,508 
+392893,7058388,508 
+392633,7058608,508 
+392213,7058768,508 
+391773,7058788,508 
+391733,7058568,508 
+391953,7058508,508 
+392053,7058368,508 
+392313,7058228,508 
+392793,7058108,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2631</name><Snippet maxLines="4">Veikkola</Snippet><description><![CDATA[2008Veikkola]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>358701,6684146,508 
+359161,6684606,508 
+358801,6685326,508 
+358501,6685446,508 
+358201,6684826,508 
+358121,6684446,508 
+358701,6684146,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2888</name><Snippet maxLines="4">Skolcentrum</Snippet><description><![CDATA[2008Skolcentrum]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>304951,7072757,508 
+304851,7072117,508 
+303412,7072377,508 
+303392,7073276,508 
+303952,7073376,508 
+304951,7072757,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2636</name><Snippet maxLines="4">Välioja</Snippet><description><![CDATA[2008Välioja]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>424124,7070013,508 
+424304,7069773,508 
+424484,7069813,508 
+424124,7070013,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2642</name><Snippet maxLines="4">Niittylahden koulu</Snippet><description><![CDATA[2008Niittylahden koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>647090,6935825,508 
+647690,6935345,508 
+647990,6935725,508 
+647570,6936165,508 
+647090,6935825,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2899</name><Snippet maxLines="4">Kultavuori</Snippet><description><![CDATA[2008Kultavuori]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>284309,6968396,508 
+284429,6968456,508 
+285029,6969036,508 
+285448,6968936,508 
+285908,6968596,508 
+286128,6968576,508 
+285688,6968037,508 
+284749,6968057,508 
+284269,6968197,508 
+284309,6968396,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2900</name><Snippet maxLines="4">Koukkari</Snippet><description><![CDATA[2008Koukkari]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>296964,6942067,508 
+297324,6942347,508 
+298063,6942447,508 
+298203,6941987,508 
+297804,6941827,508 
+298303,6940808,508 
+298503,6939848,508 
+297404,6939368,508 
+296984,6940948,508 
+296964,6942067,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2646</name><Snippet maxLines="4">Koulukeskus</Snippet><description><![CDATA[2008Koulukeskus]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>387341,7300585,508 
+387281,7299546,508 
+388101,7299546,508 
+388141,7300585,508 
+387341,7300585,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2647</name><Snippet maxLines="4">Pölhö</Snippet><description><![CDATA[2008Pölhö]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>390180,7300365,508 
+389501,7300345,508 
+389481,7301005,508 
+390220,7301045,508 
+390180,7300365,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2661</name><Snippet maxLines="4">Jokelan koulu</Snippet><description><![CDATA[2008Jokelan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>434223,6906801,508 
+434043,6907241,508 
+434323,6907381,508 
+434783,6906761,508 
+434223,6906801,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2918</name><Snippet maxLines="4">Melaniemi</Snippet><description><![CDATA[2008Melaniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>231354,7006004,508 
+231774,7004765,508 
+232913,7005164,508 
+232913,7005984,508 
+231354,7006004,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2665</name><Snippet maxLines="4">Paakkolampi</Snippet><description><![CDATA[2008Paakkolampi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>537790,6784857,508 
+537750,6784817,508 
+536870,6785257,508 
+536750,6784517,508 
+537870,6784577,508 
+537790,6784857,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2669</name><Snippet maxLines="4">Leväsen koulu</Snippet><description><![CDATA[2008Leväsen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>551304,6786757,508 
+551944,6787976,508 
+550964,6788416,508 
+549665,6787057,508 
+549645,6786037,508 
+550545,6786257,508 
+551304,6786757,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2674</name><Snippet maxLines="4">Urheilukenttä</Snippet><description><![CDATA[2008Urheilukenttä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>408016,6722602,508 
+408016,6722602,508 
+407916,6722802,508 
+407816,6723022,508 
+408076,6723262,508 
+408296,6723242,508 
+408336,6722962,508 
+408016,6722602,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2421</name><Snippet maxLines="4">Terjärv, skolkarta</Snippet><description><![CDATA[2008Terjärv, skolkarta]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>326703,7050746,508 
+326643,7051265,508 
+326463,7051685,508 
+325443,7052005,508 
+325103,7051425,508 
+325043,7050985,508 
+325363,7050666,508 
+326703,7050746,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2427</name><Snippet maxLines="4">Pihkainmäki</Snippet><description><![CDATA[2008Pihkainmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>516316,6968125,508 
+517395,6968125,508 
+517135,6969025,508 
+516356,6969025,508 
+516316,6968125,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2428</name><Snippet maxLines="4">Kemppaanmäki</Snippet><description><![CDATA[2008Kemppaanmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>509838,6971244,508 
+509958,6971324,508 
+510118,6971664,508 
+509638,6972184,508 
+509438,6972244,508 
+509138,6971984,508 
+509358,6971704,508 
+509838,6971244,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2685</name><Snippet maxLines="4">Vesitorni-Jäähalli</Snippet><description><![CDATA[2008Vesitorni-Jäähalli]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>565861,6769415,508 
+565182,6769395,508 
+565382,6769855,508 
+564602,6769755,508 
+564682,6769974,508 
+565822,6770234,508 
+566641,6770034,508 
+566301,6769675,508 
+565861,6769415,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2941</name><Snippet maxLines="4">Lassila</Snippet><description><![CDATA[2008Lassila]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>385822,7298806,508 
+386422,7298826,508 
+386062,7299366,508 
+385622,7299526,508 
+385342,7299266,508 
+385542,7298946,508 
+385822,7298806,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2445</name><Snippet maxLines="4">Keskusta</Snippet><description><![CDATA[2008Keskusta]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>261880,6993911,508 
+262959,6994911,508 
+263599,6993831,508 
+263319,6992852,508 
+261880,6993911,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2447</name><Snippet maxLines="4">Kylkkälä</Snippet><description><![CDATA[2008Kylkkälä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>254303,6995291,508 
+254163,6995750,508 
+256782,6995730,508 
+256682,6995131,508 
+255962,6995171,508 
+255862,6994871,508 
+255043,6995151,508 
+254303,6995291,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2454</name><Snippet maxLines="4">Lehmijärven Koulu</Snippet><description><![CDATA[2008Lehmijärven Koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>342020,6688431,508 
+342300,6688191,508 
+342200,6687552,508 
+341880,6687112,508 
+341180,6687232,508 
+341180,6687692,508 
+341180,6687891,508 
+341440,6688231,508 
+341540,6688411,508 
+342020,6688431,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2966</name><Snippet maxLines="4">Kaaresuvannon koulu</Snippet><description><![CDATA[2008Kaaresuvannon koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>316143,7600747,508 
+316143,7600747,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2967</name><Snippet maxLines="4">Kilpisjärven koulu</Snippet><description><![CDATA[2008Kilpisjärven koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>254288,7668039,508 
+254288,7668039,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2980</name><Snippet maxLines="4">Lapinsärkkä</Snippet><description><![CDATA[2008Lapinsärkkä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>603768,7049679,508 
+604528,7049319,508 
+604748,7049579,508 
+604028,7049999,508 
+603768,7049679,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2989</name><Snippet maxLines="4">Korholan koulu</Snippet><description><![CDATA[2008Korholan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>486687,6885298,508 
+486587,6885218,508 
+486487,6885438,508 
+486667,6885438,508 
+486687,6885298,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2990</name><Snippet maxLines="4">Tollinmäki</Snippet><description><![CDATA[2008Tollinmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>370913,6679075,508 
+372073,6678975,508 
+372613,6679455,508 
+372573,6680075,508 
+370913,6680115,508 
+370913,6679075,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2991</name><Snippet maxLines="4">Vuojalahden koulo</Snippet><description><![CDATA[2008Vuojalahden koulo]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>489306,6870324,508 
+489446,6870404,508 
+489566,6870304,508 
+489446,6870204,508 
+489306,6870324,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2992</name><Snippet maxLines="4">Kalliolan koulu</Snippet><description><![CDATA[2008Kalliolan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>481629,6873422,508 
+481629,6873203,508 
+481769,6873223,508 
+481789,6873362,508 
+481629,6873422,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2993</name><Snippet maxLines="4">Nuuksion koulu</Snippet><description><![CDATA[2008Nuuksion koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>364756,6682174,508 
+365695,6682034,508 
+365755,6683693,508 
+364916,6683753,508 
+364756,6682174,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2994</name><Snippet maxLines="4">Koittilan koulu</Snippet><description><![CDATA[2008Koittilan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>481849,6894154,508 
+481909,6893934,508 
+481969,6894014,508 
+481949,6894134,508 
+481849,6894154,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2739</name><Snippet maxLines="4">Masala Pohjoinen</Snippet><description><![CDATA[2008Masala Pohjoinen]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>362520,6672351,508 
+362720,6672931,508 
+363040,6673270,508 
+363679,6672851,508 
+363559,6672611,508 
+363459,6672031,508 
+363279,6671771,508 
+362620,6671771,508 
+362520,6672351,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2484</name><Snippet maxLines="4">Moision koulu</Snippet><description><![CDATA[2008Moision koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>242360,6719589,508 
+242220,6719709,508 
+241760,6719469,508 
+241820,6719009,508 
+242260,6718690,508 
+242360,6719589,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2740</name><Snippet maxLines="4">Masala Etelä</Snippet><description><![CDATA[2008Masala Etelä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>362280,6671151,508 
+362860,6670971,508 
+362900,6671151,508 
+363299,6671791,508 
+363299,6672451,508 
+362640,6672471,508 
+362600,6672251,508 
+362340,6671911,508 
+362280,6671151,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2485</name><Snippet maxLines="4">KUPITTAANPUISTO</Snippet><description><![CDATA[2008KUPITTAANPUISTO]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>241120,6710553,508 
+240781,6710353,508 
+241000,6709893,508 
+241640,6710053,508 
+241120,6710553,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2742</name><Snippet maxLines="4">Veikkola kuntorata</Snippet><description><![CDATA[2008Veikkola kuntorata]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>358381,6683866,508 
+358441,6684266,508 
+357922,6684386,508 
+357522,6684366,508 
+357402,6683086,508 
+357922,6683006,508 
+357882,6683306,508 
+357982,6683766,508 
+358381,6683866,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2507</name><Snippet maxLines="4">Lankojärven koulu</Snippet><description><![CDATA[2008Lankojärven koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>384878,7402559,508 
+384718,7402899,508 
+384338,7402799,508 
+384438,7402439,508 
+384878,7402559,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2509</name><Snippet maxLines="4">Pellon koulu</Snippet><description><![CDATA[2008Pellon koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>367922,7410330,508 
+367642,7410210,508 
+367502,7410270,508 
+367562,7410410,508 
+367742,7410370,508 
+367922,7410330,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2512</name><Snippet maxLines="4">Pilkan koulu</Snippet><description><![CDATA[2008Pilkan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>480053,6751181,508 
+479973,6751461,508 
+479793,6751381,508 
+479853,6751141,508 
+480053,6751181,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2513</name><Snippet maxLines="4">Kymintehtaan koulu</Snippet><description><![CDATA[2008Kymintehtaan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>480613,6751061,508 
+480953,6751161,508 
+480653,6751521,508 
+480373,6751381,508 
+480613,6751061,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2539</name><Snippet maxLines="4">HAARLA</Snippet><description><![CDATA[2008HAARLA]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>236322,6705315,508 
+236322,6704835,508 
+236582,6704655,508 
+236782,6704895,508 
+237082,6704975,508 
+236962,6705955,508 
+236122,6705975,508 
+236102,6705415,508 
+236322,6705315,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3053</name><Snippet maxLines="4">Vaaranlampi</Snippet><description><![CDATA[2008Vaaranlampi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>440554,7377572,508 
+440554,7377192,508 
+441134,7377152,508 
+441114,7377532,508 
+440554,7377572,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3054</name><Snippet maxLines="4">Ylikylän koulu</Snippet><description><![CDATA[2008Ylikylän koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>441593,7378891,508 
+441673,7379211,508 
+442113,7379211,508 
+442113,7378851,508 
+441593,7378891,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3056</name><Snippet maxLines="4">Hirvaan koulu</Snippet><description><![CDATA[2008Hirvaan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>431457,7368895,508 
+431517,7369315,508 
+431997,7369315,508 
+432017,7368895,508 
+431457,7368895,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4850</name><Snippet maxLines="4">Oulunmäki</Snippet><description><![CDATA[2008Oulunmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>534212,6994762,508 
+534212,6994762,508 
+534672,6994942,508 
+535032,6995282,508 
+535392,6995662,508 
+535572,6996062,508 
+535172,6996342,508 
+534912,6996362,508 
+534572,6996202,508 
+534352,6995942,508 
+534192,6995342,508 
+533912,6995162,508 
+533672,6995002,508 
+533792,6994602,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2554</name><Snippet maxLines="4">Piehinki</Snippet><description><![CDATA[2008Piehinki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>375566,7164656,508 
+375306,7163536,508 
+374866,7164016,508 
+374986,7164696,508 
+375566,7164656,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>2555</name><Snippet maxLines="4">Piehingin koulu</Snippet><description><![CDATA[2008Piehingin koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>375006,7163117,508 
+375246,7163057,508 
+375526,7163376,508 
+374606,7164136,508 
+374326,7163956,508 
+374306,7163736,508 
+374966,7163416,508 
+375006,7163117,508 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3363</name><Snippet maxLines="4">Haapajoen koulu</Snippet><description><![CDATA[2009Haapajoen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>376345,7166775,509 
+376405,7167075,509 
+376545,7167695,509 
+376785,7168175,509 
+377365,7168015,509 
+377245,7166975,509 
+377005,7166735,509 
+376645,7166535,509 
+376345,7166775,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3629</name><Snippet maxLines="4">Koveron koulu</Snippet><description><![CDATA[2009Koveron koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>215149,6757519,509 
+215349,6757619,509 
+216468,6756939,509 
+216288,6756799,509 
+215888,6756899,509 
+215388,6757239,509 
+215129,6757199,509 
+214969,6757319,509 
+215149,6757519,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3163</name><Snippet maxLines="4">KUPITTAANPUISTO</Snippet><description><![CDATA[2009KUPITTAANPUISTO]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>241140,6710613,509 
+240721,6710373,509 
+240920,6709853,509 
+241680,6710053,509 
+241140,6710613,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3434</name><Snippet maxLines="4">Kesämäen koulu</Snippet><description><![CDATA[2009Kesämäen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>563719,6768584,509 
+563679,6768424,509 
+563519,6768624,509 
+563739,6768864,509 
+563719,6768584,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3183</name><Snippet maxLines="4">Svenska skolan</Snippet><description><![CDATA[2009Svenska skolan]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>480891,6752632,509 
+480491,6752732,509 
+480491,6752972,509 
+480951,6752952,509 
+480891,6752632,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3184</name><Snippet maxLines="4">Keskustan koulu</Snippet><description><![CDATA[2009Keskustan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>479831,6752852,509 
+479591,6752952,509 
+479571,6753112,509 
+479831,6753112,509 
+479831,6752852,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3191</name><Snippet maxLines="4">Friitala</Snippet><description><![CDATA[2009Friitala]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>225675,6820063,509 
+226535,6821042,509 
+227694,6819723,509 
+227654,6818783,509 
+226915,6818323,509 
+225675,6819743,509 
+225675,6820063,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4221</name><Snippet maxLines="4">Viralan koulu</Snippet><description><![CDATA[2009Viralan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>365386,6755231,509 
+365386,6755231,509 
+365206,6755231,509 
+365086,6755111,509 
+365046,6754671,509 
+365426,6754451,509 
+365446,6754731,509 
+365306,6754891,509 
+365386,6755231,509 
+365346,6755211,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3458</name><Snippet maxLines="4">Skinnarilan koulu</Snippet><description><![CDATA[2009Skinnarilan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>559341,6769624,509 
+559381,6769724,509 
+559521,6769664,509 
+559341,6769624,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3460</name><Snippet maxLines="4">Haapakosken koulu</Snippet><description><![CDATA[2009Haapakosken koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>303267,6987796,509 
+304107,6987756,509 
+304127,6988116,509 
+303987,6988336,509 
+303287,6988236,509 
+303147,6988036,509 
+303267,6987796,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3465</name><Snippet maxLines="4">Tiistejoen koulu</Snippet><description><![CDATA[2009Tiistejoen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>307745,6978919,509 
+307486,6977560,509 
+308485,6977600,509 
+308405,6979019,509 
+307745,6978919,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3466</name><Snippet maxLines="4">Männikön koulu</Snippet><description><![CDATA[2009Männikön koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>303807,6985117,509 
+304127,6985197,509 
+304107,6985497,509 
+303867,6985617,509 
+303807,6985117,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3212</name><Snippet maxLines="4">NIINISTÖN KOULU</Snippet><description><![CDATA[2009NIINISTÖN KOULU]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>488241,6754291,509 
+488481,6754052,509 
+487621,6753312,509 
+487401,6753452,509 
+487881,6754092,509 
+488241,6754291,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3728</name><Snippet maxLines="4">Kalakangas</Snippet><description><![CDATA[2009Kalakangas]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>411925,7066664,509 
+412065,7066844,509 
+412265,7066864,509 
+412265,7066644,509 
+411925,7066664,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3221</name><Snippet maxLines="4">Välitanhua</Snippet><description><![CDATA[2009Välitanhua]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>355064,6871463,509 
+356123,6871863,509 
+356643,6871183,509 
+356603,6870803,509 
+355704,6870783,509 
+355064,6871463,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3477</name><Snippet maxLines="4">Matinkylän koulu</Snippet><description><![CDATA[2009Matinkylän koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>374414,6671004,509 
+375873,6670864,509 
+375813,6670225,509 
+375294,6669845,509 
+374234,6669985,509 
+374414,6671004,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3479</name><Snippet maxLines="4">Puolarmaari</Snippet><description><![CDATA[2009Puolarmaari]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>373015,6672884,509 
+372295,6673044,509 
+371815,6673523,509 
+371835,6674143,509 
+373574,6673923,509 
+373454,6673223,509 
+373015,6672884,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3480</name><Snippet maxLines="4">Olarin koulu</Snippet><description><![CDATA[2009Olarin koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>374934,6674103,509 
+374814,6673204,509 
+373214,6673363,509 
+373414,6674103,509 
+374134,6674363,509 
+374934,6674103,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3487</name><Snippet maxLines="4">Oulunkylän urheilupuisto</Snippet><description><![CDATA[2009Oulunkylän urheilupuisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>386859,6679295,509 
+387299,6679295,509 
+387179,6679815,509 
+386459,6679715,509 
+386339,6679295,509 
+386859,6679295,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3508</name><Snippet maxLines="4">Skidstugan</Snippet><description><![CDATA[2009Skidstugan]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>319625,7068918,509 
+319405,7069138,509 
+318946,7068878,509 
+318926,7068318,509 
+319225,7067799,509 
+319665,7067899,509 
+319625,7068918,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3509</name><Snippet maxLines="4">TAST</Snippet><description><![CDATA[2009TAST]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>320305,7068478,509 
+320165,7068698,509 
+319845,7068858,509 
+319485,7068858,509 
+319625,7067539,509 
+320425,7067639,509 
+320305,7068478,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3511</name><Snippet maxLines="4">Söderby</Snippet><description><![CDATA[2009Söderby]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>317006,7062601,509 
+316866,7062521,509 
+315747,7062581,509 
+315407,7063081,509 
+315427,7063660,509 
+316766,7063540,509 
+317026,7063540,509 
+317006,7062601,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3512</name><Snippet maxLines="4">SÖderby norra</Snippet><description><![CDATA[2009SÖderby norra]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>316207,7062701,509 
+317026,7062601,509 
+317046,7063940,509 
+316187,7064000,509 
+316207,7062701,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3262</name><Snippet maxLines="4">Pururata</Snippet><description><![CDATA[2009Pururata]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>660784,6966233,509 
+660804,6965973,509 
+660405,6965813,509 
+660045,6966073,509 
+660265,6966333,509 
+660505,6966053,509 
+660784,6966233,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3272</name><Snippet maxLines="4">Anttilanmäki</Snippet><description><![CDATA[2009Anttilanmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>428032,6760749,509 
+427492,6760809,509 
+427412,6760389,509 
+427732,6760109,509 
+428012,6760529,509 
+428032,6760749,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3533</name><Snippet maxLines="4">Mustakiven puisto</Snippet><description><![CDATA[2009Mustakiven puisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>396955,6675817,509 
+397195,6675797,509 
+397215,6675577,509 
+396935,6675497,509 
+396955,6675817,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3278</name><Snippet maxLines="4">Nummenkylän Koulu</Snippet><description><![CDATA[2009Nummenkylän Koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>346418,6687811,509 
+346698,6688031,509 
+347038,6687931,509 
+347158,6687752,509 
+346638,6687152,509 
+346378,6687152,509 
+346418,6687811,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3538</name><Snippet maxLines="4">Kallahti</Snippet><description><![CDATA[2009Kallahti]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>396575,6674917,509 
+396655,6675737,509 
+396155,6675677,509 
+395535,6675837,509 
+395476,6675157,509 
+396575,6674917,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3293</name><Snippet maxLines="4">Särkiniemi</Snippet><description><![CDATA[2009Särkiniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>533709,6970890,509 
+532969,6971550,509 
+532249,6971570,509 
+532349,6970691,509 
+532989,6970631,509 
+533709,6970890,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3298</name><Snippet maxLines="4">Hirvaan koulu</Snippet><description><![CDATA[2009Hirvaan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>433068,7371083,509 
+431269,7370004,509 
+431169,7369484,509 
+431408,7368964,509 
+432768,7368684,509 
+433348,7369004,509 
+433068,7371083,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3568</name><Snippet maxLines="4">Korkeakangas</Snippet><description><![CDATA[2009Korkeakangas]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>347731,7029123,509 
+348551,7030363,509 
+348091,7030483,509 
+348071,7030743,509 
+347051,7030723,509 
+346892,7028863,509 
+347371,7028843,509 
+347731,7029123,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3579</name><Snippet maxLines="4">Räyringin koulu</Snippet><description><![CDATA[2009Räyringin koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>341874,7032762,509 
+341134,7032802,509 
+340774,7032782,509 
+339734,7033781,509 
+340074,7033761,509 
+340234,7033941,509 
+340094,7034621,509 
+341354,7034581,509 
+341933,7034161,509 
+341953,7033761,509 
+341874,7032762,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3844</name><Snippet maxLines="4">Petosenmäki</Snippet><description><![CDATA[2010Petosenmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>532029,6968391,510 
+531589,6968511,510 
+531130,6967812,510 
+531070,6967532,510 
+531549,6967372,510 
+531849,6967392,510 
+532269,6968112,510 
+532029,6968391,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3850</name><Snippet maxLines="4">Tervo</Snippet><description><![CDATA[2010Tervo]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>487174,6980443,510 
+487634,6980643,510 
+488134,6979604,510 
+487634,6979384,510 
+487174,6980443,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4120</name><Snippet maxLines="4">Rudträsk</Snippet><description><![CDATA[2010Rudträsk]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>398134,6675277,510 
+398894,6675057,510 
+399354,6675157,510 
+398994,6675817,510 
+398354,6676096,510 
+398054,6675937,510 
+398134,6675277,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4140</name><Snippet maxLines="4">Suur-Mieikkälä</Snippet><description><![CDATA[2010Suur-Mieikkälä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>531516,6731757,510 
+530497,6732496,510 
+530857,6732676,510 
+531796,6732396,510 
+531516,6731757,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3914</name><Snippet maxLines="4">Heituinlahden koulu</Snippet><description><![CDATA[2010Heituinlahden koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>527814,6778460,510 
+528274,6777160,510 
+527274,6776641,510 
+526954,6777520,510 
+527814,6778460,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3917</name><Snippet maxLines="4">Lauritsalan urheilukeskus</Snippet><description><![CDATA[2010Lauritsalan urheilukeskus]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>569217,6772482,510 
+569617,6772183,510 
+568717,6771763,510 
+568198,6772303,510 
+569217,6772482,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3927</name><Snippet maxLines="4">Hiirenkallio</Snippet><description><![CDATA[2010Hiirenkallio]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>376271,6732645,510 
+376691,6732885,510 
+376871,6732885,510 
+376931,6732465,510 
+376211,6732405,510 
+376191,6731925,510 
+375871,6731765,510 
+375771,6731445,510 
+375411,6731465,510 
+374252,6732205,510 
+374052,6733024,510 
+374352,6733164,510 
+375311,6733284,510 
+375671,6733144,510 
+375871,6732845,510 
+376271,6732645,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3945</name><Snippet maxLines="4">Haanoja 2010</Snippet><description><![CDATA[2010Haanoja 2010]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>484562,6747594,510 
+484582,6745655,510 
+483523,6745735,510 
+483283,6746175,510 
+482783,6746215,510 
+482003,6747054,510 
+481983,6747434,510 
+483323,6747634,510 
+484562,6747594,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3949</name><Snippet maxLines="4">Jokelan koulu</Snippet><description><![CDATA[2010Jokelan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>486761,6752712,510 
+485662,6752272,510 
+485662,6753172,510 
+486721,6753212,510 
+486761,6752712,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4208</name><Snippet maxLines="4">Saukonojan koulu</Snippet><description><![CDATA[2010Saukonojan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>254521,6714499,510 
+254541,6715179,510 
+255581,6715219,510 
+255541,6714519,510 
+254521,6714499,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4215</name><Snippet maxLines="4">Kuoreveden Koulu</Snippet><description><![CDATA[2010Kuoreveden Koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>384673,6859795,510 
+384673,6859795,510 
+385453,6860935,510 
+386013,6860595,510 
+385273,6859395,510 
+385273,6859415,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4030</name><Snippet maxLines="4">Kilon koulu</Snippet><description><![CDATA[2010Kilon koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>376673,6676562,510 
+376293,6676582,510 
+376373,6677442,510 
+377693,6677522,510 
+377533,6676802,510 
+376673,6676562,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4031</name><Snippet maxLines="4">Kilonpuiston koulu</Snippet><description><![CDATA[2010Kilonpuiston koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>378132,6677882,510 
+378172,6676682,510 
+376893,6676642,510 
+377013,6677682,510 
+378132,6677882,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4032</name><Snippet maxLines="4">Niittykummun koulu</Snippet><description><![CDATA[2010Niittykummun koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>376513,6672544,510 
+375634,6672504,510 
+375534,6671484,510 
+376153,6671104,510 
+376433,6671324,510 
+376513,6672544,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4033</name><Snippet maxLines="4">Jupperin koulu</Snippet><description><![CDATA[2010Jupperin koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>375234,6680381,510 
+375374,6681220,510 
+376053,6681420,510 
+376933,6681360,510 
+376853,6680401,510 
+375234,6680381,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4050</name><Snippet maxLines="4">Hallainvuori</Snippet><description><![CDATA[2010Hallainvuori]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>391217,6678915,510 
+392417,6678635,510 
+391897,6677336,510 
+391237,6677656,510 
+391097,6678016,510 
+390837,6678176,510 
+391217,6678915,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4074</name><Snippet maxLines="4">Karvoskylä</Snippet><description><![CDATA[2010Karvoskylä]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>409182,7081025,510 
+409342,7081904,510 
+408403,7083024,510 
+407663,7082644,510 
+408762,7081285,510 
+409182,7081025,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3832</name><Snippet maxLines="4">Peitsarin koulu</Snippet><description><![CDATA[2010Peitsarin koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>515949,6840674,510 
+516549,6841034,510 
+516029,6842413,510 
+515270,6842093,510 
+515949,6840674,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3833</name><Snippet maxLines="4">Harjunmaa</Snippet><description><![CDATA[2010Harjunmaa]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>501635,6856108,510 
+501975,6856307,510 
+501735,6856767,510 
+501415,6856527,510 
+501635,6856108,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3834</name><Snippet maxLines="4">Launialan koulu</Snippet><description><![CDATA[2010Launialan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>517149,6841174,510 
+517429,6841074,510 
+517649,6840214,510 
+516889,6840074,510 
+516789,6840854,510 
+517149,6841174,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3835</name><Snippet maxLines="4">Lähemäen koulu</Snippet><description><![CDATA[2010Lähemäen koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>515949,6840454,510 
+515569,6840334,510 
+515629,6840134,510 
+515969,6840174,510 
+515949,6840454,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3836</name><Snippet maxLines="4">Moision koulu</Snippet><description><![CDATA[2010Moision koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>513110,6834296,510 
+513190,6834996,510 
+514110,6836795,510 
+514710,6836475,510 
+514030,6833897,510 
+513110,6834296,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3838</name><Snippet maxLines="4">Vanhalan koulu</Snippet><description><![CDATA[2010Vanhalan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>506413,6849110,510 
+506533,6848411,510 
+506093,6848411,510 
+505933,6849070,510 
+506413,6849110,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4618</name><Snippet maxLines="4">Rahulan koulu</Snippet><description><![CDATA[2011Rahulan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>523807,6842565,511 
+523807,6842565,511 
+523667,6842765,511 
+523567,6842865,511 
+523847,6842985,511 
+523947,6842865,511 
+524067,6842585,511 
+523907,6842485,511 
+523907,6842485,511 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4635</name><Snippet maxLines="4">Viikkalan koulu</Snippet><description><![CDATA[2011Viikkalan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>,511 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4417</name><Snippet maxLines="4">Haapaniemi</Snippet><description><![CDATA[2011Haapaniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>233759,7006784,511 
+233759,7006784,511 
+233879,7005904,511 
+233379,7005804,511 
+232819,7006304,511 
+232819,7006604,511 
+232819,7006604,511 
+232819,7006604,511 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4682</name><Snippet maxLines="4">Konnari</Snippet><description><![CDATA[2011Konnari]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>392622,6772424,511 
+392622,6772424,511 
+392022,6771684,511 
+391302,6771484,511 
+391302,6771324,511 
+391682,6771124,511 
+392382,6771124,511 
+392722,6772024,511 
+392722,6772484,511 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4686</name><Snippet maxLines="4">Linlo</Snippet><description><![CDATA[2011Linlo]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>355960,6657616,511 
+355960,6657616,511 
+355760,6656436,511 
+356420,6656016,511 
+356860,6656476,511 
+356720,6657116,511 
+356420,6657536,511 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5413</name><Snippet maxLines="4">Someroharju</Snippet><description><![CDATA[2012Someroharju]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>446067,7381504,512 
+446067,7381504,512 
+446547,7383064,512 
+447007,7383204,512 
+447047,7383624,512 
+447287,7383464,512 
+447167,7381704,512 
+446727,7381624,512 
+446607,7381464,512 
+446087,7381504,512 
+446087,7381504,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4925</name><Snippet maxLines="4">Moision koulu</Snippet><description><![CDATA[2012Moision koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>241759,6719529,512 
+241759,6719529,512 
+241839,6719049,512 
+242219,6718749,512 
+242299,6719189,512 
+242359,6719589,512 
+242199,6719789,512 
+242299,6719729,512 
+242299,6719729,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4959</name><Snippet maxLines="4">Teeriniemi</Snippet><description><![CDATA[2012Teeriniemi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>231559,7007894,512 
+231559,7007894,512 
+232319,7007914,512 
+232339,7007014,512 
+231579,7007014,512 
+231579,7007054,512 
+231579,7007054,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4960</name><Snippet maxLines="4">Variska</Snippet><description><![CDATA[2012Variska]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>233049,7006594,512 
+233049,7006594,512 
+233789,7006814,512 
+234269,7006834,512 
+234369,7004754,512 
+233929,7004854,512 
+233529,7005154,512 
+233409,7005754,512 
+233009,7006214,512 
+233009,7006214,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5224</name><Snippet maxLines="4">Kirkkokatu</Snippet><description><![CDATA[2012Kirkkokatu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>606426,7048096,512 
+606426,7048096,512 
+605966,7047956,512 
+605666,7048316,512 
+606246,7048496,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5257</name><Snippet maxLines="4">Kolsa</Snippet><description><![CDATA[2012Kolsa]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>387572,6714620,512 
+387572,6714620,512 
+387372,6715040,512 
+387952,6715300,512 
+388372,6714940,512 
+388372,6714940,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5271</name><Snippet maxLines="4">Palomäki</Snippet><description><![CDATA[2012Palomäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>417623,7070963,512 
+417623,7070963,512 
+418003,7071443,512 
+417843,7072243,512 
+417083,7071923,512 
+417303,7071343,512 
+417583,7070983,512 
+417623,7070983,512 
+417583,7071003,512 
+417583,7071003,512 
+417583,7071003,512 
+417583,7071003,512 
+417583,7071003,512 
+417563,7071023,512 
+417563,7071023,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5272</name><Snippet maxLines="4">Siiponkoski</Snippet><description><![CDATA[2012Siiponkoski]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>415663,7073123,512 
+415663,7073123,512 
+416123,7073383,512 
+415903,7074043,512 
+415423,7073923,512 
+415343,7073583,512 
+415643,7073183,512 
+415663,7073183,512 
+415663,7073183,512 
+415643,7073203,512 
+415643,7073223,512 
+415643,7073223,512 
+415683,7073203,512 
+415683,7073203,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5282</name><Snippet maxLines="4">KALLO</Snippet><description><![CDATA[2012KALLO]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>206452,6841446,512 
+206452,6841446,512 
+206632,6840826,512 
+206252,6840806,512 
+206132,6841466,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5285</name><Snippet maxLines="4">Kuninkaanhaanpuisto</Snippet><description><![CDATA[2012Kuninkaanhaanpuisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>223572,6827306,512 
+223572,6827306,512 
+224072,6827246,512 
+223972,6826846,512 
+223452,6827146,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5286</name><Snippet maxLines="4">Kaarisillan koulu</Snippet><description><![CDATA[2012Kaarisillan koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>222952,6829146,512 
+222952,6829146,512 
+222672,6829286,512 
+222672,6829586,512 
+222932,6829546,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5287</name><Snippet maxLines="4">Pappilanpuisto</Snippet><description><![CDATA[2012Pappilanpuisto]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>224712,6828986,512 
+224712,6828986,512 
+224712,6829346,512 
+225092,6829346,512 
+225052,6828926,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5054</name><Snippet maxLines="4">MELTAUS</Snippet><description><![CDATA[2012MELTAUS]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>428807,7421624,512 
+428807,7421624,512 
+428447,7421864,512 
+427587,7421724,512 
+427627,7420884,512 
+428507,7420884,512 
+428887,7421124,512 
+428807,7421404,512 
+428787,7421464,512 
+428787,7421464,512 
+428787,7421464,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5061</name><Snippet maxLines="4">Köyhäjoen Koulu</Snippet><description><![CDATA[2012Köyhäjoen Koulu]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>348529,7051503,512 
+348529,7051503,512 
+348489,7052103,512 
+348209,7052023,512 
+348109,7051883,512 
+348209,7051483,512 
+348609,7051523,512 
+348609,7051523,512 
+348569,7051543,512 
+348569,7051543,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5321</name><Snippet maxLines="4">Kirkkojärvi</Snippet><description><![CDATA[2012Kirkkojärvi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>369652,6676879,512 
+369652,6676879,512 
+369812,6676259,512 
+370392,6676259,512 
+370432,6676699,512 
+370932,6676859,512 
+370972,6677159,512 
+370092,6677279,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5348</name><Snippet maxLines="4">ALAKORKALO</Snippet><description><![CDATA[2012ALAKORKALO]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>437907,7372444,512 
+437907,7372444,512 
+437547,7372024,512 
+437527,7371604,512 
+438607,7371564,512 
+438847,7372004,512 
+438347,7372464,512 
+438347,7372464,512 
+438347,7372464,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5359</name><Snippet maxLines="4">KOTIMÄKI</Snippet><description><![CDATA[2012KOTIMÄKI]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>246959,6710089,512 
+246959,6710089,512 
+246999,6709949,512 
+247419,6709889,512 
+247919,6709829,512 
+247919,6710289,512 
+247979,6710569,512 
+247679,6710649,512 
+247599,6710589,512 
+247499,6710529,512 
+247399,6710449,512 
+247099,6710409,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+</Document></kml>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+		<kml xmlns="http://www.opengis.net/kml/2.2">
+		  <Document>
+			<Style id="transBluePoly"><LineStyle><width>2</width><color>ffff0000</color></LineStyle><PolyStyle><color>60ff0000</color></PolyStyle></Style>
+			<Style id="transGreenPoly"><LineStyle><width>2</width><color>ff009900</color></LineStyle><PolyStyle><color>6000aa00</color></PolyStyle></Style> 
+			<Style id="transRedPoly"><LineStyle><width>2</width><color>ff0000ff</color></LineStyle><PolyStyle><color>600000ff</color></PolyStyle></Style>
+			<Style id="transYellowPoly"><LineStyle><width>2</width><color>ff00ffff</color></LineStyle><PolyStyle><color>6000ffff</color></PolyStyle></Style>
+			<Style id="HLtransBluePoly"><LineStyle><width>4</width><color>ff000000</color></LineStyle><PolyStyle><color>60ff0000</color></PolyStyle></Style>
+			<Style id="HLtransGreenPoly"><LineStyle><width>4</width><color>ff000000</color></LineStyle><PolyStyle><color>6000ff00</color></PolyStyle></Style> 
+			<Style id="HLtransRedPoly"><LineStyle><width>4</width><color>ff000000</color></LineStyle><PolyStyle><color>600000ff</color></PolyStyle></Style>
+			<Style id="HLtransYellowPoly"><LineStyle><width>4</width><color>ff000000</color></LineStyle><PolyStyle><color>6000ffff</color></PolyStyle></Style><Placemark><name>530</name><Snippet maxLines="4">Pärnävaara</Snippet><description><![CDATA[2006Pärnävaara]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>630657,6948080,506 
+630837,6948160,506 
+630857,6948700,506 
+629777,6948900,506 
+629757,6948160,506 
+630657,6948080,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>531</name><Snippet maxLines="4">Mertalampi</Snippet><description><![CDATA[2006Mertalampi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>635115,6950739,506 
+634035,6951059,506 
+634135,6951739,506 
+635395,6951599,506 
+635115,6950739,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>362</name><Snippet maxLines="4">Mäentausta</Snippet><description><![CDATA[2006Mäentausta]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>479353,6757158,506 
+479753,6757178,506 
+480173,6756678,506 
+480093,6756359,506 
+479433,6756419,506 
+479353,6757158,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>1275</name><Snippet maxLines="4">Honkalampi</Snippet><description><![CDATA[2006Honkalampi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>628857,6944881,506 
+628557,6944901,506 
+627798,6945101,506 
+627878,6945401,506 
+628498,6945441,506 
+628877,6945361,506 
+628857,6944881,506 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3440</name><Snippet maxLines="4">JM-Rata</Snippet><description><![CDATA[2009JM-Rata]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>257642,6799072,509 
+255083,6800152,509 
+255523,6800292,509 
+255623,6799872,509 
+255203,6799692,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3450</name><Snippet maxLines="4">Lähdeniitty</Snippet><description><![CDATA[2009Lähdeniitty]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>311839,6823454,509 
+313299,6823474,509 
+313339,6822954,509 
+312579,6822694,509 
+311919,6822854,509 
+311839,6823454,509 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>3964</name><Snippet maxLines="4">Sileekallio</Snippet><description><![CDATA[2010Sileekallio]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>282502,6805908,510 
+282822,6805908,510 
+282922,6805688,510 
+283122,6805648,510 
+283162,6805388,510 
+282882,6805308,510 
+282602,6805488,510 
+282502,6805908,510 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4663</name><Snippet maxLines="4">Kirkaslampi</Snippet><description><![CDATA[2011Kirkaslampi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>314721,6825576,511 
+314721,6825576,511 
+315841,6825476,511 
+316021,6826296,511 
+314841,6826316,511 
+314841,6826316,511 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4720</name><Snippet maxLines="4">JAKK</Snippet><description><![CDATA[2011JAKK]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>279924,6937795,511 
+279924,6937795,511 
+280004,6937475,511 
+280224,6937235,511 
+280364,6936995,511 
+280824,6937035,511 
+280844,6937195,511 
+280764,6937455,511 
+280704,6937535,511 
+280504,6937635,511 
+280344,6937695,511 
+280024,6937775,511 
+280024,6937775,511 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>4590</name><Snippet maxLines="4">Sudenmulkkauksentie</Snippet><description><![CDATA[2011Sudenmulkkauksentie]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>288141,6820648,511 
+288141,6820648,511 
+288141,6820548,511 
+288621,6820548,511 
+288761,6820388,511 
+289061,6820428,511 
+289101,6820728,511 
+288281,6820828,511 
+288081,6820728,511 
+288041,6820648,511 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5310</name><Snippet maxLines="4">Käpylännummi</Snippet><description><![CDATA[2012Käpylännummi]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>376105,6714225,512 
+376105,6714225,512 
+376265,6714045,512 
+376305,6713425,512 
+375605,6713405,512 
+375605,6714065,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5312</name><Snippet maxLines="4">Tykkitorninmäki</Snippet><description><![CDATA[2012Tykkitorninmäki]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>376305,6713425,512 
+376305,6713425,512 
+376785,6713425,512 
+377145,6713085,512 
+377205,6712685,512 
+377165,6712405,512 
+377025,6712185,512 
+376805,6712045,512 
+376265,6712005,512 
+376245,6712125,512 
+376425,6712525,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>5087</name><Snippet maxLines="4">Toriseva</Snippet><description><![CDATA[2012Toriseva]]></description><styleUrl>#transGreenPoly</styleUrl><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>288181,6809328,512 
+288181,6809328,512 
+288281,6809248,512 
+288101,6808948,512 
+288261,6808728,512 
+288261,6808628,512 
+288261,6808568,512 
+287981,6808488,512 
+287681,6808788,512 
+287821,6809208,512 
+288061,6809348,512 
+288181,6809368,512 
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+</Document></kml>
