@@ -27,6 +27,15 @@ Kayttoohjeet
 RTFS. Muuttuu viela. Kesken.
 
 
+Libraries
+---------
+
+* lxml for XML parsing and modifications (plain ElementTree is not enough)
+* argh for command line actions
+* fetch_map / coordinates.py for coordinate conversion
+* TODO: pyproj?
+
+
 Bittinysva
 ----------
 
@@ -39,31 +48,23 @@ Bittinysva
 URLit
 -----
 
-Varoitus: kaataa selaimesi.
+Varoitus: laji=1 kaataa selaimesi.
 
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php kaikki?
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=1 kartat
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=2 ?
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=3 ?
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=4 ?
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=5 ?
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=6 ?
-* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=7 harjoituskiellot
+* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php all?
+* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=1 Orienteering Maps
+* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=2 Sprint Orienteering Maps
+* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=3 SkiO Maps
+* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=4 MTBO Maps
+* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=5 TrailO Maps
+* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=6 Opetuskartat
+* http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=7 Embargoed Areas / Harjoituskiellot
 
 
 TODO
 ----
 
-* command line actions (using argh)
-    * `convert`
-    * `download`
-* command line switches
-    * `--loglevel`
-    * `--input`
-    * `--output`
-    * `--dltype`
-* explain `laji=1` -> `laji=7`
 * urls in this doc (to projects and to data)
 * public website using openlayers or [leaflet](http://leafletjs.com/)
+* change colors for other map types
 
 
