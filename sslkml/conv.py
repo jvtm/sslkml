@@ -18,25 +18,45 @@ terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See the COPYING file for more details.
 """
 from argh import arg, ArghParser
+from datetime import datetime
 from lxml import etree
+from urllib2 import urlopen
 from coordinates import ETRSTM35FINxy_to_WGS84lalo
 import logging
 import sys
 
 KML_URL = 'http://www.opengis.net/kml/2.2'
 KML_NS = '{' + KML_URL + '}'
-HTTP_URL = 'http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t={id}'
+URL_INFO = 'http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t={id}'
+URL_KML = 'http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji={type}'
+
+MAP_TYPES = [
+    # numeric id, filename/cmdline option, human readable name
+    (1, 'orienteering', 'Orienteering Map'),
+    (2, 'sprint', 'Sprint Orienteering Map'),
+    (3, 'skio', 'Ski-Orienteering Map'),
+    (4, 'mtbo', 'MTB-O Map'),
+    (5, 'trailo', 'Trail Orienteering Map'),
+    (6, 'opetus', 'Opetuskartta'),
+    (7, 'embargoed', 'Embargoed Area'),
+]
+MAP_TYPE_DICT = dict((x[1], x[0]) for x in MAP_TYPES)
+MAP_TYPE_NAMES = [x[1] for x in MAP_TYPES]
 
 
 def convert_coordinates(coordstr):
+    """
+    Convert ETRS-TM35FIN formatted <coordinates> tag to WGS84 lat/lon
+    Also sets the (invalid) altitude to 0 and adds possibly
+    missing last connecting lat/lon point.
+    """
     ret = []
     for line in coordstr.strip().splitlines():
         values = [x.strip() for x in line.split(',')]
         convsrc = {'E': int(values[0]), 'N': int(values[1])}
         convtgt = ETRSTM35FINxy_to_WGS84lalo(convsrc)
-        # not sure what the third value is...
-        #ret.append("%.6f,%.6f,%s" % (convtgt['Lo'], convtgt['La'], values[2]))
-        ret.append("%.6f,%.6f,%s" % (convtgt['Lo'], convtgt['La'], 0))
+        altitude = 0
+        ret.append("%.6f,%.6f,%s" % (convtgt['Lo'], convtgt['La'], altitude))
     if ret:
         # connect the last line in the polygon (ff not already there)
         if ret[0] != ret[-1]:
@@ -44,7 +64,8 @@ def convert_coordinates(coordstr):
     return " ".join(ret)
 
 
-def convert_kml(stream_in, stream_out):
+def convert_kml(stream_in, stream_out, default_map_type="Orienteering Map"):
+    """ Converts broken SSL KML """
     parser = etree.XMLParser(remove_blank_text=True)
     tree = etree.parse(stream_in, parser)
     for elem in tree.iterfind('.//' + KML_NS + 'Placemark'):
@@ -56,9 +77,9 @@ def convert_kml(stream_in, stream_out):
         styleurl = elem.find(KML_NS + 'styleUrl')
         if styleurl is not None:
             if styleurl.text == '#transRedPoly':
-                map_type = "Harjoituskielto"
+                map_type = "Embargoed Area"
             elif styleurl.text == '#transGreenPoly':
-                map_type = "Suunnistuskartta"
+                map_type = default_map_type
             logging.info("Map type: %s", map_type)
 
         # <name> is a direct child of placemark
@@ -74,7 +95,7 @@ def convert_kml(stream_in, stream_out):
             logging.info("Adding URL to description %s", description)
             if description.text:
                 description.text += "\n"
-            description.text += HTTP_URL.format(id=map_id)
+            description.text += URL_INFO.format(id=map_id)
 
         # others live inside <Polygon> (could revert back to .find()...)
         polygon = elem.find(KML_NS + 'Polygon')
@@ -85,8 +106,9 @@ def convert_kml(stream_in, stream_out):
             if altmode is not None:
                 polygon.remove(altmode)
 
-            # convert coordinates tag (deeper inside the structure)
-            #coord = polygon.find(KML_NS + 'coordinates')
+            # convert coordinates tag (deeper inside the structure, not direct child of polygon)
+            # this part might include invalid data; such polygons are removed from the document.
+            # TODO: remove whole Placemark?
             try:
                 for coord in polygon.iterfind('.//' + KML_NS + 'coordinates'):
                     logging.info("Converting <coordinates> %s", coord)
@@ -98,11 +120,37 @@ def convert_kml(stream_in, stream_out):
     tree.write(stream_out, encoding='utf-8', pretty_print=True)
 
 
-def main(argv=None):
-    if argv is None:
-        argv = sys.argv[1:]
+def convert(dummy_args):
+    """ Convert stdin to stdout """
     logging.basicConfig(level=logging.INFO)
     convert_kml(sys.stdin, sys.stdout)
+
+
+@arg('type', default="orienteering", nargs='*', help='Map type(s) to download', choices=MAP_TYPE_NAMES)
+def download(args):
+    """ Download given map lists """
+    logging.basicConfig(level=logging.INFO)
+    if isinstance(args.type, basestring):
+        args.type = [args.type]
+    for map_type in args.type:
+        fname = "ssl-%s-%s.kml" % (map_type, datetime.now().strftime("%Y%m%d-%H%M%S"))
+        map_type_id = MAP_TYPE_DICT[map_type]
+        dl_url = URL_KML.format(type=map_type_id)
+        logging.info("Downloading and converting %s from %s to %s", map_type, dl_url, fname)
+        with open(fname, 'wb') as kml_out:
+            convert_kml(urlopen(dl_url), kml_out, default_map_type=map_type.title() + " Map")
+        logging.info("%s created", fname)
+    logging.info("All done.")
+
+
+def main(argv=None):
+    """ Main method / entry point """
+    if argv is None:
+        argv = sys.argv[1:]
+    description = "SSL Karttarekisteri KML tool"
+    parser = ArghParser(description=description)
+    parser.add_commands([convert, download])
+    parser.dispatch(argv=argv)
 
 if __name__ == '__main__':
     main()
