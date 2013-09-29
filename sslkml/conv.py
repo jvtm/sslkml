@@ -69,7 +69,7 @@ def convert_kml(stream_in, stream_out, default_map_type="Orienteering Map"):
     parser = etree.XMLParser(remove_blank_text=True)
     tree = etree.parse(stream_in, parser)
     for elem in tree.iterfind('.//' + KML_NS + 'Placemark'):
-        logging.info("Found <Placemark> %s", elem)
+        logging.debug("Found <Placemark> %s", elem)
         map_id = None
         map_type = ""
 
@@ -80,19 +80,19 @@ def convert_kml(stream_in, stream_out, default_map_type="Orienteering Map"):
                 map_type = "Embargoed Area"
             elif styleurl.text == '#transGreenPoly':
                 map_type = default_map_type
-            logging.info("Map type: %s", map_type)
+            logging.debug("Map type: %s", map_type)
 
         # <name> is a direct child of placemark
         name = elem.find(KML_NS + "name")
         if name is not None:
             map_id = name.text.strip()
-            logging.info("Map ID %s", map_id)
+            logging.debug("Map ID %s", map_id)
             name.text = ("%s %s" % (map_type, map_id)).strip()
 
         # add URL to description, should show up nicely in Google Earth and others
         description = elem.find(KML_NS + 'description')
         if description is not None and map_id:
-            logging.info("Adding URL to description %s", description)
+            logging.debug("Adding URL to description %s", description)
             if description.text:
                 description.text += "\n"
             description.text += URL_INFO.format(id=map_id)
@@ -111,7 +111,7 @@ def convert_kml(stream_in, stream_out, default_map_type="Orienteering Map"):
             # TODO: remove whole Placemark?
             try:
                 for coord in polygon.iterfind('.//' + KML_NS + 'coordinates'):
-                    logging.info("Converting <coordinates> %s", coord)
+                    logging.debug("Converting <coordinates> %s", coord)
                     coord.text = convert_coordinates(coord.text)
             except StandardError:
                 logging.exception("Invalid coordinate data for map %s: %r", map_id, coord.text)
@@ -126,14 +126,18 @@ def convert(dummy_args):
     convert_kml(sys.stdin, sys.stdout)
 
 
-@arg('type', default="orienteering", nargs='*', help='Map type(s) to download', choices=MAP_TYPE_NAMES)
+@arg('type', default="all", nargs='*', help='Map type(s) to download', choices=MAP_TYPE_NAMES + ["all"])
 def download(args):
     """ Download given map lists """
     logging.basicConfig(level=logging.INFO)
     if isinstance(args.type, basestring):
         args.type = [args.type]
+    if "all" in args.type:
+        logging.info("Downloading all map types")
+        args.type = MAP_TYPE_NAMES
+    tstamp = datetime.now().strftime("%Y%m%d-%H%M%S")
     for map_type in args.type:
-        fname = "ssl-%s-%s.kml" % (map_type, datetime.now().strftime("%Y%m%d-%H%M%S"))
+        fname = "ssl-%s-%s.kml" % (map_type, tstamp)
         map_type_id = MAP_TYPE_DICT[map_type]
         dl_url = URL_KML.format(type=map_type_id)
         logging.info("Downloading and converting %s from %s to %s", map_type, dl_url, fname)
