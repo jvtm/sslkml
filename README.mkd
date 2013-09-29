@@ -58,7 +58,7 @@ Varoitus: laji=1 kaataa selaimesi.
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=5 TrailO Maps
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=6 Opetuskartat
 * http://www.karttarekisteri.fi/karttarekisteri2/ssl_kml_lataus_testi.php?laji=7 Embargoed Areas / Harjoituskiellot
-
+* ssl_kml_lataus_testi.php?id=<n> single map info (numeric id)
 
 TODO
 ----
