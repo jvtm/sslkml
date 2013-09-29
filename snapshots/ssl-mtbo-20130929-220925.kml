@@ -1,0 +1,1276 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>60ff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transGreenPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff009900</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000aa00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transRedPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff0000ff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>600000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transYellowPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff00ffff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransBluePoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>60ff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransGreenPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ff00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransRedPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>600000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransYellowPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Mtbo Map 3869</name>
+      <Snippet maxLines="4">Vaunukangas</Snippet>
+      <description>20Vaunukangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3869</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.965642,60.405855,0 24.954290,60.407657,0 24.954463,60.416462,0 24.999832,60.416792,0 25.000558,60.404956,0 24.982741,60.399478,0 24.970476,60.398214,0 24.965642,60.405855,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 1515</name>
+      <Snippet maxLines="4">Storberget</Snippet>
+      <description>2003Storberget
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1515</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.593582,63.128493,0 21.605822,63.128960,0 21.594994,63.144376,0 21.567989,63.152701,0 21.555815,63.149714,0 21.550705,63.143038,0 21.562077,63.129086,0 21.584365,63.124721,0 21.593582,63.128493,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 514</name>
+      <Snippet maxLines="4">Ampumarata 2</Snippet>
+      <description>2006Ampumarata 2
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=514</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.093171,63.796354,0 23.106002,63.803522,0 23.138975,63.776388,0 23.130342,63.768248,0 23.076770,63.773989,0 23.093171,63.796354,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 515</name>
+      <Snippet maxLines="4">Ampumarata 1</Snippet>
+      <description>2006Ampumarata 1
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=515</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.126487,63.790423,0 23.113640,63.801212,0 23.101537,63.800526,0 23.077643,63.779396,0 23.123272,63.778474,0 23.126487,63.790423,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 789</name>
+      <Snippet maxLines="4">Kerttula</Snippet>
+      <description>2006Kerttula
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=789</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.108766,60.515481,0 22.107685,60.522638,0 22.143659,60.523594,0 22.160916,60.498505,0 22.158281,60.496610,0 22.165648,60.488791,0 22.159120,60.488554,0 22.159857,60.486062,0 22.141664,60.485939,0 22.124446,60.488908,0 22.116599,60.497427,0 22.108766,60.515481,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 790</name>
+      <Snippet maxLines="4">Riviera</Snippet>
+      <description>2006Riviera
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=790</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.112383,60.551946,0 22.115599,60.552424,0 22.119595,60.552571,0 22.124186,60.548781,0 22.138969,60.547522,0 22.152360,60.553226,0 22.169278,60.554920,0 22.186739,60.552853,0 22.189993,60.550632,0 22.191660,60.541877,0 22.146978,60.518498,0 22.110284,60.517516,0 22.112383,60.551946,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 280</name>
+      <Snippet maxLines="4">Pernu</Snippet>
+      <description>2006Pernu
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=280</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.901306,64.113174,0 23.861252,64.111427,0 23.861553,64.094187,0 23.894257,64.084479,0 23.920619,64.087195,0 23.920857,64.107311,0 23.901306,64.113174,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 792</name>
+      <Snippet maxLines="4">Piuha</Snippet>
+      <description>2006Piuha
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=792</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.111200,60.550104,0 22.110975,60.527436,0 22.139249,60.528651,0 22.123607,60.550199,0 22.111200,60.550104,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 2383</name>
+      <Snippet maxLines="4">Tenholan Lukot</Snippet>
+      <description>2006Tenholan Lukot
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2383</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.263533,61.095647,0 24.272948,61.124215,0 24.304454,61.129150,0 24.312851,61.122139,0 24.322115,61.087299,0 24.278874,61.081233,0 24.263533,61.095647,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 1137</name>
+      <Snippet maxLines="4">Kauraharju</Snippet>
+      <description>2006Kauraharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1137</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.511652,62.052526,0 22.507216,62.072155,0 22.455961,62.056088,0 22.459476,62.027446,0 22.494244,62.030386,0 22.511652,62.052526,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 1142</name>
+      <Snippet maxLines="4">PySu Pyhävuori Kristiinankaupunki</Snippet>
+      <description>2006PySu Pyhävuori Kristiinankaupunki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1142</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.656615,62.290960,0 21.666963,62.293518,0 21.670146,62.284292,0 21.660798,62.263064,0 21.655403,62.241269,0 21.642752,62.234301,0 21.629089,62.237371,0 21.632543,62.248294,0 21.633506,62.260210,0 21.613906,62.266279,0 21.610194,62.278373,0 21.620086,62.283437,0 21.627956,62.291292,0 21.648171,62.290634,0 21.656615,62.290960,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 1144</name>
+      <Snippet maxLines="4">PySu Kiuaskallio</Snippet>
+      <description>2006PySu Kiuaskallio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1144</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.768688,62.499369,0 22.764043,62.499228,0 22.758500,62.502655,0 22.754088,62.503600,0 22.753272,62.509329,0 22.756157,62.519117,0 22.769982,62.523133,0 22.775730,62.518272,0 22.779329,62.512097,0 22.779626,62.507252,0 22.780260,62.502776,0 22.774166,62.501872,0 22.768688,62.499369,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 482</name>
+      <Snippet maxLines="4">Jyrinkylä</Snippet>
+      <description>2006Jyrinkylä
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=482</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.535714,62.616699,0 29.525308,62.618145,0 29.531976,62.646036,0 29.537555,62.647372,0 29.553053,62.646012,0 29.560405,62.650009,0 29.585273,62.648655,0 29.589091,62.643195,0 29.593828,62.639336,0 29.584834,62.634652,0 29.586500,62.631388,0 29.587373,62.627968,0 29.576779,62.622775,0 29.558914,62.619151,0 29.554272,62.619595,0 29.544731,62.617254,0 29.535714,62.616699,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 483</name>
+      <Snippet maxLines="4">Pärnävaara</Snippet>
+      <description>2006Pärnävaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=483</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.590149,62.637428,0 29.500648,62.644622,0 29.509552,62.648594,0 29.513855,62.648697,0 29.522674,62.651412,0 29.524133,62.654790,0 29.525685,62.659252,0 29.523169,62.661812,0 29.517725,62.662090,0 29.506920,62.668031,0 29.496286,62.671633,0 29.494340,62.680999,0 29.499113,62.681991,0 29.509680,62.682162,0 29.524902,62.677578,0 29.544401,62.672564,0 29.548050,62.674106,0 29.547547,62.677348,0 29.556254,62.678626,0 29.564710,62.677215,0 29.581814,62.671701,0 29.582732,62.655338,0 29.593001,62.638812,0 29.590149,62.637428,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 484</name>
+      <Snippet maxLines="4">Lykynlampi</Snippet>
+      <description>2006Lykynlampi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=484</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.667158,62.652320,0 29.673104,62.648982,0 29.679014,62.649579,0 29.682505,62.653644,0 29.687557,62.657678,0 29.678118,62.661272,0 29.665541,62.664745,0 29.650016,62.674371,0 29.614707,62.677189,0 29.605135,62.665881,0 29.658060,62.655367,0 29.667158,62.652320,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 497</name>
+      <Snippet maxLines="4">Utranharju</Snippet>
+      <description>2006Utranharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=497</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.846142,62.638388,0 29.810576,62.641801,0 29.818138,62.655652,0 29.830255,62.655767,0 29.846792,62.653096,0 29.860743,62.648141,0 29.887043,62.637551,0 29.892751,62.632043,0 29.888048,62.627829,0 29.877552,62.628225,0 29.863680,62.634078,0 29.846142,62.638388,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 1274</name>
+      <Snippet maxLines="4">Kontioranta</Snippet>
+      <description>2006Kontioranta
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1274</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.826219,62.736300,0 29.826102,62.739168,0 29.834530,62.737201,0 29.844261,62.732523,0 29.844663,62.728562,0 29.837251,62.724760,0 29.833743,62.716747,0 29.802583,62.718092,0 29.802736,62.723837,0 29.811007,62.728701,0 29.823902,62.728443,0 29.830549,62.732440,0 29.826219,62.736300,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 1840</name>
+      <Snippet maxLines="4">Harju Gunnarlan Maja</Snippet>
+      <description>2007Harju Gunnarlan Maja
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1840</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.027011,60.217959,0 24.026865,60.219573,0 24.026884,60.223347,0 24.023607,60.223633,0 24.026709,60.229264,0 24.032267,60.231725,0 24.034923,60.234121,0 24.048655,60.242154,0 24.053576,60.243701,0 24.057023,60.245574,0 24.073699,60.245045,0 24.073601,60.238035,0 24.069874,60.235257,0 24.077015,60.232180,0 24.078961,60.230605,0 24.087959,60.230803,0 24.088393,60.234047,0 24.093597,60.236498,0 24.097172,60.236935,0 24.102206,60.237225,0 24.108432,60.236283,0 24.112197,60.234568,0 24.116072,60.231597,0 24.107406,60.223331,0 24.108757,60.220306,0 24.098057,60.214681,0 24.094436,60.214782,0 24.088903,60.216098,0 24.089518,60.213236,0 24.076031,60.210783,0 24.067558,60.208619,0 24.059038,60.206993,0 24.049309,60.206777,0 24.049691,60.210559,0 24.064786,60.223473,0 24.067934,60.224621,0 24.063760,60.226855,0 24.057534,60.227796,0 24.050413,60.222615,0 24.034285,60.217403,0 24.027011,60.217959,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 2385</name>
+      <Snippet maxLines="4">Pyöräs kartta Aulangonjärvi</Snippet>
+      <description>2007Pyöräs kartta Aulangonjärvi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2385</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.459903,61.029265,0 24.462047,61.034875,0 24.465299,61.045167,0 24.519042,61.049399,0 24.527533,61.026030,0 24.523802,61.021650,0 24.506099,61.020785,0 24.506721,61.017572,0 24.500621,61.015124,0 24.463794,61.012999,0 24.444992,61.026109,0 24.459903,61.029265,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 2175</name>
+      <Snippet maxLines="4">Aulanko</Snippet>
+      <description>2007Aulanko
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2175</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.444426,61.023942,0 24.445928,61.028283,0 24.450390,61.027828,0 24.463274,61.028790,0 24.468522,61.027990,0 24.477695,61.024389,0 24.488274,61.021712,0 24.489409,61.012041,0 24.462800,61.011543,0 24.453360,61.013880,0 24.444426,61.023942,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 1925</name>
+      <Snippet maxLines="4">Nummelanharju</Snippet>
+      <description>2007Nummelanharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1925</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.286414,60.326524,0 24.280070,60.328730,0 24.288970,60.335021,0 24.304354,60.341622,0 24.317954,60.348177,0 24.320317,60.345889,0 24.315566,60.337537,0 24.300782,60.332206,0 24.291766,60.327531,0 24.286414,60.326524,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 2562</name>
+      <Snippet maxLines="4">Valkealampi-Vetola</Snippet>
+      <description>2008Valkealampi-Vetola
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2562</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.849904,62.774287,0 23.870278,62.777976,0 23.894166,62.763423,0 23.877347,62.744554,0 23.883341,62.721160,0 23.879545,62.701500,0 23.837852,62.703792,0 23.812221,62.713094,0 23.818767,62.746823,0 23.836267,62.762491,0 23.849904,62.774287,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 2590</name>
+      <Snippet maxLines="4">Jeppo kangan</Snippet>
+      <description>2008Jeppo kangan
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2590</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.713247,63.378528,0 22.717008,63.404343,0 22.746163,63.405035,0 22.764489,63.365137,0 22.747658,63.359790,0 22.713247,63.378528,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 2889</name>
+      <Snippet maxLines="4">Kyrkösvuori</Snippet>
+      <description>2008Kyrkösvuori
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2889</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.780622,62.755986,0 22.774670,62.783837,0 22.781584,62.787641,0 22.792171,62.787599,0 22.805447,62.782602,0 22.817239,62.779727,0 22.822056,62.778971,0 22.824416,62.776165,0 22.816794,62.771803,0 22.804248,62.766214,0 22.800137,62.759268,0 22.806845,62.756233,0 22.780622,62.755986,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 2493</name>
+      <Snippet maxLines="4">Urheilupuisto</Snippet>
+      <description>2008Urheilupuisto
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2493</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.077864,61.234655,0 26.056142,61.238456,0 26.052238,61.219584,0 26.046308,61.206972,0 26.057757,61.209387,0 26.065269,61.219674,0 26.076994,61.226219,0 26.077864,61.234655,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 2494</name>
+      <Snippet maxLines="4">Urheilupuisto</Snippet>
+      <description>2008Urheilupuisto
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2494</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.077864,61.234655,0 26.056142,61.238456,0 26.052238,61.219584,0 26.046308,61.206972,0 26.057757,61.209387,0 26.065269,61.219674,0 26.076994,61.226219,0 26.077864,61.234655,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3343</name>
+      <Snippet maxLines="4">Parra</Snippet>
+      <description>2009Parra
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3343</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.807577,62.441427,0 21.815077,62.442966,0 21.828707,62.442754,0 21.841222,62.442139,0 21.857537,62.439864,0 21.860920,62.420205,0 21.851495,62.418597,0 21.847267,62.411603,0 21.838123,62.403895,0 21.827703,62.408186,0 21.825339,62.419605,0 21.817424,62.422729,0 21.814410,62.428915,0 21.813325,62.435163,0 21.806779,62.437079,0 21.807577,62.441427,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3613</name>
+      <Snippet maxLines="4">Kalliobaana</Snippet>
+      <description>2009Kalliobaana
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3613</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.056440,60.623982,0 22.069683,60.599653,0 22.037900,60.601704,0 22.001881,60.607556,0 21.990703,60.622962,0 21.997201,60.623565,0 21.989535,60.630475,0 21.986626,60.635043,0 21.996546,60.637215,0 21.992926,60.655782,0 21.986036,60.662361,0 21.978081,60.671050,0 21.975898,60.680324,0 21.993237,60.682054,0 22.014035,60.670957,0 22.032501,60.660499,0 22.045255,60.649098,0 22.056440,60.623982,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3510</name>
+      <Snippet maxLines="4">Susiluola</Snippet>
+      <description>2009Susiluola
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3510</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.654161,62.290200,0 21.641368,62.292585,0 21.628061,62.291350,0 21.630430,62.299721,0 21.641059,62.309490,0 21.637159,62.316170,0 21.641610,62.319401,0 21.648717,62.318596,0 21.672974,62.323489,0 21.687432,62.316125,0 21.686151,62.301508,0 21.681277,62.296282,0 21.664179,62.294725,0 21.654161,62.290200,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3255</name>
+      <Snippet maxLines="4">Vetola</Snippet>
+      <description>2009Vetola
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3255</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.897406,62.717698,0 23.893619,62.712764,0 23.882535,62.713955,0 23.882101,62.718078,0 23.897406,62.717698,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3514</name>
+      <Snippet maxLines="4">Sandbacka</Snippet>
+      <description>2009Sandbacka
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3514</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.093299,63.719132,0 23.105570,63.712455,0 23.133862,63.718969,0 23.152265,63.738505,0 23.077913,63.736679,0 23.077289,63.729481,0 23.093299,63.719132,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3515</name>
+      <Snippet maxLines="4">Sandbacka-Såka</Snippet>
+      <description>2009Sandbacka-Såka
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3515</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.071665,63.732015,0 23.158151,63.733998,0 23.163224,63.747425,0 23.157623,63.758769,0 23.133942,63.759753,0 23.114550,63.753309,0 23.068529,63.742894,0 23.069800,63.733761,0 23.071665,63.732015,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3297</name>
+      <Snippet maxLines="4">Mäntyvaara-Vennivaara-Korkalovaara</Snippet>
+      <description>2009Mäntyvaara-Vennivaara-Korkalovaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3297</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.494007,66.534888,0 25.495318,66.528090,0 25.514767,66.526122,0 25.524924,66.514195,0 25.577331,66.501947,0 25.647697,66.505622,0 25.683574,66.507004,0 25.681220,66.525997,0 25.667843,66.532524,0 25.633458,66.543883,0 25.620059,66.550406,0 25.581644,66.552575,0 25.566184,66.547230,0 25.536558,66.545880,0 25.501289,66.541060,0 25.494007,66.534888,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4104</name>
+      <Snippet maxLines="4">Söderkulla</Snippet>
+      <description>2010Söderkulla
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4104</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.309271,60.301024,0 25.323245,60.296720,0 25.344909,60.297351,0 25.347492,60.317850,0 25.342362,60.319043,0 25.335958,60.316808,0 25.318967,60.316594,0 25.313400,60.312213,0 25.308742,60.311255,0 25.309271,60.301024,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4105</name>
+      <Snippet maxLines="4">Keinukallio-Ahjo</Snippet>
+      <description>2010Keinukallio-Ahjo
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4105</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.126829,60.378483,0 25.129397,60.403299,0 25.147749,60.405890,0 25.157586,60.405308,0 25.156701,60.401704,0 25.160702,60.401579,0 25.157221,60.386093,0 25.144992,60.384486,0 25.143837,60.379261,0 25.126829,60.378483,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3854</name>
+      <Snippet maxLines="4">Riihenmäki - Kaunismäki</Snippet>
+      <description>2010Riihenmäki - Kaunismäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3854</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.277881,60.641412,0 25.301875,60.637228,0 25.305032,60.639783,0 25.310759,60.641831,0 25.323664,60.639838,0 25.341010,60.651010,0 25.348905,60.661156,0 25.333118,60.669223,0 25.315708,60.666131,0 25.275692,60.661850,0 25.272966,60.644402,0 25.277881,60.641412,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3870</name>
+      <Snippet maxLines="4">Riihikallio-Huhtariihi</Snippet>
+      <description>2010Riihikallio-Huhtariihi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3870</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.001429,60.361148,0 25.011042,60.369735,0 24.995387,60.376865,0 24.952240,60.353583,0 24.955259,60.345905,0 24.963773,60.337243,0 24.982603,60.337170,0 24.997952,60.340986,0 25.001429,60.361148,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3871</name>
+      <Snippet maxLines="4">Mätäkivenmäki-Ilola</Snippet>
+      <description>2010Mätäkivenmäki-Ilola
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3871</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.064010,60.369259,0 25.013336,60.367793,0 25.005458,60.360499,0 25.003954,60.349519,0 25.020625,60.343301,0 25.026416,60.325433,0 25.046185,60.321953,0 25.061036,60.333847,0 25.064010,60.369259,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4128</name>
+      <Snippet maxLines="4">Oulunkylän urh.puisto</Snippet>
+      <description>2010Oulunkylän urh.puisto
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4128</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.954285,60.226540,0 24.946076,60.224985,0 24.945153,60.228195,0 24.953723,60.229765,0 24.954285,60.226540,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3877</name>
+      <Snippet maxLines="4">Perttilänharju</Snippet>
+      <description>2010Perttilänharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3877</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.131074,60.274672,0 24.125799,60.272940,0 24.122816,60.273954,0 24.118783,60.274765,0 24.116912,60.279576,0 24.119154,60.282679,0 24.129911,60.283811,0 24.140716,60.284403,0 24.154978,60.286866,0 24.163052,60.289554,0 24.168172,60.288945,0 24.168905,60.284648,0 24.156246,60.280604,0 24.142081,60.277065,0 24.131074,60.274672,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3947</name>
+      <Snippet maxLines="4">Leirikenttä</Snippet>
+      <description>2010Leirikenttä
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3947</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.846356,60.881094,0 26.844058,60.899048,0 26.858051,60.902287,0 26.908541,60.901253,0 26.915939,60.891391,0 26.916706,60.880079,0 26.846356,60.881094,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4021</name>
+      <Snippet maxLines="4">Kuninkaanlähde itä</Snippet>
+      <description>2010Kuninkaanlähde itä
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4021</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.527367,61.774816,0 22.528749,61.775760,0 22.535487,61.779037,0 22.540467,61.781357,0 22.549005,61.782714,0 22.555001,61.783268,0 22.561531,61.782760,0 22.571392,61.782720,0 22.583437,61.783468,0 22.596214,61.784419,0 22.604883,61.784877,0 22.619583,61.785527,0 22.630573,61.785698,0 22.642017,61.785343,0 22.656410,61.785620,0 22.654730,61.770642,0 22.626537,61.771363,0 22.606885,61.768217,0 22.597637,61.769179,0 22.592731,61.766333,0 22.547704,61.768105,0 22.527367,61.774816,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4022</name>
+      <Snippet maxLines="4">Jämi</Snippet>
+      <description>2010Jämi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4022</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.633644,61.769432,0 22.635892,61.785688,0 22.689363,61.788819,0 22.733102,61.785512,0 22.818258,61.773401,0 22.809741,61.746899,0 22.800725,61.746263,0 22.705766,61.758414,0 22.667605,61.760089,0 22.633644,61.769432,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3798</name>
+      <Snippet maxLines="4">Harrbåda</Snippet>
+      <description>2010Harrbåda
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3798</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.081688,63.852634,0 23.100761,63.853150,0 23.103364,63.866701,0 23.093711,63.871644,0 23.086358,63.874680,0 23.077411,63.880369,0 23.073068,63.879353,0 23.067371,63.873446,0 23.070023,63.866149,0 23.064574,63.855584,0 23.081688,63.852634,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3799</name>
+      <Snippet maxLines="4">Hakalax</Snippet>
+      <description>2010Hakalax
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3799</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.125930,63.841794,0 23.118576,63.847879,0 23.125277,63.849497,0 23.147252,63.852601,0 23.155931,63.848698,0 23.155300,63.844377,0 23.147050,63.842180,0 23.147369,63.839852,0 23.133294,63.838577,0 23.125845,63.839456,0 23.125930,63.841794,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3800</name>
+      <Snippet maxLines="4">Sandhagen</Snippet>
+      <description>2010Sandhagen
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3800</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.068249,63.840954,0 23.058589,63.843207,0 23.059079,63.848424,0 23.064193,63.855394,0 23.080826,63.852970,0 23.101978,63.853183,0 23.103807,63.845863,0 23.074377,63.837886,0 23.068249,63.840954,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3805</name>
+      <Snippet maxLines="4">HALKOKARI</Snippet>
+      <description>2010HALKOKARI
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3805</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.154077,63.853322,0 23.155193,63.848139,0 23.124761,63.847326,0 23.115826,63.858949,0 23.128418,63.874016,0 23.115744,63.886078,0 23.146021,63.888326,0 23.167023,63.868763,0 23.171272,63.861507,0 23.154077,63.853322,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 3806</name>
+      <Snippet maxLines="4">HOURAATI</Snippet>
+      <description>2010HOURAATI
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3806</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.428412,63.981975,0 23.429719,63.987757,0 23.435330,63.998308,0 23.491583,64.000039,0 23.508644,63.991107,0 23.495869,63.982183,0 23.487599,63.982882,0 23.466887,63.975191,0 23.431430,63.977557,0 23.428412,63.981975,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4700</name>
+      <Snippet maxLines="4">Pirkkola-Paloheinä</Snippet>
+      <description>2011Pirkkola-Paloheinä
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4700</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.968643,60.266469,0 24.968643,60.266469,0 24.951568,60.279320,0 24.886097,60.268055,0 24.886796,60.268425,0 24.871740,60.271957,0 24.891733,60.242276,0 24.901750,60.232555,0 24.910489,60.220118,0 24.942876,60.221882,0 24.949595,60.253063,0 24.950294,60.253433,0 24.949538,60.253960,0 24.949538,60.253960,0 24.949900,60.253966,0 24.949505,60.254499,0 24.951243,60.255603,0 24.951243,60.255603,0 24.949132,60.254672,0 24.949132,60.254672,0 24.949132,60.254672,0 24.953275,60.257790,0 24.950193,60.255048,0 24.950193,60.255048,0 24.949426,60.255755,0 24.949031,60.256288,0 24.949031,60.256288,0 24.968643,60.266469,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4702</name>
+      <Snippet maxLines="4">Pikkukoski</Snippet>
+      <description>2011Pikkukoski
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4702</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.985022,60.217678,0 24.985022,60.217678,0 24.987586,60.228855,0 24.977527,60.227983,0 24.972974,60.219830,0 24.973324,60.220015,0 24.973324,60.220015,0 24.973324,60.220015,0 24.972941,60.220369,0 24.972941,60.220369,0 24.985022,60.217678,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4724</name>
+      <Snippet maxLines="4">Nickby gård</Snippet>
+      <description>2011Nickby gård
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4724</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.271306,60.382477,0 25.271306,60.382477,0 25.280459,60.387805,0 25.268846,60.401484,0 25.268846,60.401484,0 25.258199,60.403681,0 25.252728,60.404148,0 25.253147,60.382779,0 25.253500,60.382963,0 25.253500,60.382963,0 25.253500,60.382963,0 25.271306,60.382477,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4487</name>
+      <Snippet maxLines="4">Himottu</Snippet>
+      <description>2011Himottu
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4487</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.223978,61.696149,0 27.223978,61.696149,0 27.229644,61.695422,0 27.233078,61.699545,0 27.250080,61.697899,0 27.253449,61.693764,0 27.260640,61.694648,0 27.262980,61.703082,0 27.261504,61.707394,0 27.263032,61.709186,0 27.258885,61.710810,0 27.251695,61.710464,0 27.242314,61.720176,0 27.202155,61.712342,0 27.208541,61.705689,0 27.219847,61.700106,0 27.220605,61.700284,0 27.220605,61.700284,0 27.223978,61.696149,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4745</name>
+      <Snippet maxLines="4">Paavali</Snippet>
+      <description>2011Paavali
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4745</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.353509,62.632929,0 22.353509,62.632929,0 22.358859,62.638682,0 22.366541,62.647030,0 22.374174,62.653218,0 22.376785,62.654024,0 22.388284,62.660518,0 22.390841,62.661681,0 22.384501,62.667228,0 22.365433,62.666598,0 22.360459,62.665893,0 22.340032,62.651545,0 22.337354,62.643722,0 22.328735,62.636420,0 22.327929,62.636573,0 22.327929,62.636573,0 22.353509,62.632929,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4786</name>
+      <Snippet maxLines="4">Kälviä eteläinen</Snippet>
+      <description>2011Kälviä eteläinen
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4786</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.455663,63.859041,0 23.455663,63.859041,0 23.436266,63.854611,0 23.430926,63.848549,0 23.439835,63.845714,0 23.436795,63.840787,0 23.437070,63.835403,0 23.503390,63.838821,0 23.499247,63.842674,0 23.497111,63.846755,0 23.483876,63.848410,0 23.483876,63.848410,0 23.476593,63.851287,0 23.468025,63.857906,0 23.455663,63.859041,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4543</name>
+      <Snippet maxLines="4">Pieni-Neulamäki</Snippet>
+      <description>2011Pieni-Neulamäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4543</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.568837,62.885070,0 27.568837,62.885070,0 27.573600,62.846994,0 27.576648,62.842135,0 27.610002,62.840738,0 27.621118,62.846433,0 27.623997,62.852524,0 27.623718,62.857911,0 27.623901,62.866527,0 27.636894,62.867546,0 27.635053,62.873299,0 27.618980,62.875524,0 27.619839,62.878931,0 27.612776,62.879680,0 27.613218,62.882012,0 27.606577,62.884195,0 27.568837,62.885070,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4544</name>
+      <Snippet maxLines="4">Neulaniemi</Snippet>
+      <description>2011Neulaniemi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4544</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.573712,62.872844,0 27.573712,62.872844,0 27.620076,62.871570,0 27.622194,62.878741,0 27.614345,62.879494,0 27.613637,62.883267,0 27.601638,62.892653,0 27.598939,62.895358,0 27.606829,62.896401,0 27.623587,62.888788,0 27.631480,62.890010,0 27.632402,62.896289,0 27.616680,62.897076,0 27.589511,62.915682,0 27.585205,62.916957,0 27.569464,62.917380,0 27.563424,62.889939,0 27.573712,62.872844,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4545</name>
+      <Snippet maxLines="4">Savilahti-Huuhanmäki</Snippet>
+      <description>2011Savilahti-Huuhanmäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4545</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.634751,62.895739,0 27.634751,62.895739,0 27.616669,62.896538,0 27.614600,62.891700,0 27.617713,62.890071,0 27.625557,62.888959,0 27.627077,62.886439,0 27.642746,62.883496,0 27.652533,62.881477,0 27.657947,62.894915,0 27.634751,62.895739,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4561</name>
+      <Snippet maxLines="4">sirkkaharju</Snippet>
+      <description>2011sirkkaharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4561</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.891102,62.552775,0 25.891102,62.552775,0 25.892500,62.536089,0 25.926795,62.522891,0 25.937219,62.524766,0 25.941384,62.527850,0 25.935159,62.538934,0 25.928098,62.540675,0 25.919372,62.545455,0 25.913279,62.552590,0 25.891102,62.552775,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4570</name>
+      <Snippet maxLines="4">Jänismaa</Snippet>
+      <description>2011Jänismaa
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4570</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.105412,63.837801,0 23.105412,63.837801,0 23.087424,63.841268,0 23.078088,63.838139,0 23.077245,63.835420,0 23.092037,63.831508,0 23.101057,63.831033,0 23.105412,63.837801,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4339</name>
+      <Snippet maxLines="4">Talmonmäki</Snippet>
+      <description>2011Talmonmäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4339</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.097960,60.236404,0 24.097960,60.236404,0 24.106255,60.236586,0 24.111539,60.238138,0 24.118456,60.237570,0 24.118456,60.237570,0 24.118050,60.233967,0 24.116530,60.230700,0 24.112395,60.224321,0 24.107881,60.222246,0 24.107397,60.219540,0 24.104030,60.216771,0 24.098516,60.213775,0 24.093672,60.215466,0 24.088201,60.216065,0 24.088201,60.216065,0 24.084591,60.220118,0 24.081637,60.224905,0 24.081637,60.224905,0 24.077431,60.227508,0 24.080564,60.228835,0 24.085453,60.230739,0 24.085453,60.230739,0 24.088322,60.230982,0 24.090969,60.233736,0 24.097960,60.236404,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4340</name>
+      <Snippet maxLines="4">Muijalanharju</Snippet>
+      <description>2011Muijalanharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4340</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.170475,60.292238,0 24.170475,60.292238,0 24.178192,60.295097,0 24.182043,60.296616,0 24.193246,60.296854,0 24.198928,60.293919,0 24.189795,60.290671,0 24.182423,60.287999,0 24.173923,60.285842,0 24.173923,60.285842,0 24.165770,60.283871,0 24.158025,60.281370,0 24.151885,60.281238,0 24.152516,60.286463,0 24.165226,60.290149,0 24.165226,60.290149,0 24.170475,60.292238,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5172</name>
+      <Snippet maxLines="4">Nickby-Borgby</Snippet>
+      <description>2012Nickby-Borgby
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5172</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.230394,60.387508,0 25.230394,60.387508,0 25.235316,60.390447,0 25.232346,60.391665,0 25.244881,60.401530,0 25.251851,60.400185,0 25.273221,60.414833,0 25.306401,60.405380,0 25.299121,60.391816,0 25.274157,60.376587,0 25.263978,60.370168,0 25.246378,60.373709,0 25.234076,60.379833,0 25.234076,60.379833,0 25.234076,60.379833,0 25.230394,60.387508,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5174</name>
+      <Snippet maxLines="4">Tasträsk</Snippet>
+      <description>2012Tasträsk
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5174</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.325684,60.298574,0 25.325684,60.298574,0 25.324513,60.314365,0 25.341891,60.314403,0 25.342737,60.297710,0 25.342005,60.297880,0 25.342005,60.297880,0 25.325684,60.298574,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5176</name>
+      <Snippet maxLines="4">Keinukallio-Ahjo</Snippet>
+      <description>2012Keinukallio-Ahjo
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5176</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.130429,60.403026,0 25.130429,60.403026,0 25.158162,60.407005,0 25.157771,60.401072,0 25.163254,60.400429,0 25.163499,60.383189,0 25.146315,60.385465,0 25.146988,60.373619,0 25.128522,60.373002,0 25.124808,60.387140,0 25.124808,60.387140,0 25.124808,60.387140,0 25.130429,60.403026,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5206</name>
+      <Snippet maxLines="4">Hansas</Snippet>
+      <description>2012Hansas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5206</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.334726,60.298687,0 25.334726,60.298687,0 25.317874,60.295601,0 25.286003,60.296092,0 25.285425,60.314046,0 25.335025,60.314138,0 25.335025,60.314138,0 25.335025,60.314138,0 25.334726,60.298687,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5207</name>
+      <Snippet maxLines="4">Paloheinä-Svedängen</Snippet>
+      <description>2012Paloheinä-Svedängen
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5207</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.937995,60.242105,0 24.937995,60.242105,0 24.899435,60.234853,0 24.874548,60.262122,0 24.873302,60.270186,0 24.881495,60.272113,0 24.886808,60.268246,0 24.933623,60.277066,0 24.933623,60.277066,0 24.933623,60.277066,0 24.933646,60.276707,0 24.933646,60.276707,0 24.937995,60.242105,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5208</name>
+      <Snippet maxLines="4">Pirkkola-Britas</Snippet>
+      <description>2012Pirkkola-Britas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5208</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.943947,60.222078,0 24.943947,60.222078,0 24.909767,60.220107,0 24.897911,60.236087,0 24.897040,60.238408,0 24.925608,60.243708,0 24.926421,60.242284,0 24.958898,60.242967,0 24.964858,60.234256,0 24.941671,60.229587,0 24.941671,60.229587,0 24.941671,60.229587,0 24.943947,60.222078,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5209</name>
+      <Snippet maxLines="4">Keskuspuisto-Centralparken</Snippet>
+      <description>2012Keskuspuisto-Centralparken
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5209</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.945160,60.202696,0 24.945160,60.202696,0 24.946833,60.222123,0 24.909767,60.220107,0 24.898959,60.208439,0 24.902005,60.194655,0 24.919299,60.189358,0 24.925563,60.181552,0 24.937668,60.184077,0 24.941317,60.189163,0 24.931394,60.192063,0 24.937319,60.195389,0 24.942005,60.195461,0 24.952805,60.190060,0 24.963949,60.196519,0 24.967143,60.203214,0 24.956586,60.204669,0 24.956203,60.205022,0 24.956203,60.205022,0 24.945160,60.202696,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5210</name>
+      <Snippet maxLines="4">Tuomarinkylä-Domarby</Snippet>
+      <description>2012Tuomarinkylä-Domarby
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5210</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.940117,60.277347,0 24.940117,60.277347,0 24.949389,60.279466,0 24.973395,60.265644,0 24.980049,60.251554,0 24.980141,60.244190,0 25.009120,60.243011,0 25.005466,60.237747,0 24.983812,60.231492,0 24.965591,60.234088,0 24.949553,60.230608,0 24.940239,60.229386,0 24.939122,60.229907,0 24.939122,60.229907,0 24.940117,60.277347,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5211</name>
+      <Snippet maxLines="4">Kulosaari-Brändö</Snippet>
+      <description>2012Kulosaari-Brändö
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5211</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.022810,60.201721,0 25.022810,60.201721,0 25.024852,60.185764,0 25.014507,60.177885,0 24.980258,60.177727,0 24.981652,60.184395,0 24.967848,60.185980,0 24.943783,60.190100,0 24.955658,60.196391,0 24.958196,60.201999,0 24.958556,60.202005,0 24.958556,60.202005,0 24.957824,60.202173,0 24.957824,60.202173,0 25.022810,60.201721,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5212</name>
+      <Snippet maxLines="4">Vanhakaupunki-Gammelstaden</Snippet>
+      <description>2012Vanhakaupunki-Gammelstaden
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5212</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.960448,60.200597,0 24.960448,60.200597,0 24.967465,60.198010,0 24.995747,60.201674,0 25.010039,60.204045,0 25.007674,60.231134,0 24.988889,60.225282,0 24.997973,60.242125,0 24.973337,60.243188,0 24.963424,60.216630,0 24.946852,60.210267,0 24.945138,60.203055,0 24.945115,60.203414,0 24.945115,60.203414,0 24.945093,60.203773,0 24.945093,60.203773,0 24.960448,60.200597,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4957</name>
+      <Snippet maxLines="4">Telhonjärvi</Snippet>
+      <description>2012Telhonjärvi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4957</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.310372,61.290542,0 25.310372,61.290542,0 25.288067,61.282002,0 25.269226,61.278530,0 25.256343,61.288781,0 25.262327,61.295324,0 25.275729,61.296033,0 25.296194,61.304194,0 25.296194,61.304194,0 25.296950,61.304024,0 25.296950,61.304024,0 25.310372,61.290542,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5213</name>
+      <Snippet maxLines="4">Myllypuro-Kvarnbacken</Snippet>
+      <description>2012Myllypuro-Kvarnbacken
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5213</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.080714,60.254485,0 25.080714,60.254485,0 25.059088,60.253452,0 25.048979,60.247196,0 25.026723,60.244711,0 25.025253,60.239121,0 25.045662,60.230082,0 25.039981,60.216346,0 25.047518,60.204961,0 25.091198,60.210986,0 25.092617,60.230047,0 25.085713,60.236953,0 25.085713,60.236953,0 25.085713,60.236953,0 25.080714,60.254485,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5214</name>
+      <Snippet maxLines="4">Viikki-Vik</Snippet>
+      <description>2012Viikki-Vik
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5214</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.041103,60.239895,0 25.041103,60.239895,0 25.058197,60.231883,0 25.056787,60.206894,0 25.036708,60.192586,0 25.020682,60.189115,0 24.991816,60.195147,0 24.976166,60.220777,0 24.976526,60.220783,0 24.976526,60.220783,0 25.041103,60.239895,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 4977</name>
+      <Snippet maxLines="4">Jänismaa</Snippet>
+      <description>2012Jänismaa
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4977</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.087473,63.840910,0 23.087473,63.840910,0 23.073576,63.838376,0 23.066306,63.840874,0 23.058093,63.841369,0 23.058741,63.833838,0 23.060354,63.828130,0 23.065314,63.824670,0 23.092278,63.826841,0 23.099228,63.829545,0 23.108350,63.837161,0 23.087879,63.840921,0 23.087473,63.840910,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5253</name>
+      <Snippet maxLines="4">Sammaloja-Savio</Snippet>
+      <description>2012Sammaloja-Savio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5253</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.022524,60.395737,0 25.022524,60.395737,0 25.024450,60.399897,0 25.031607,60.401619,0 25.043259,60.401073,0 25.055178,60.396038,0 25.061056,60.394866,0 25.071616,60.394301,0 25.071616,60.394301,0 25.071871,60.389994,0 25.075550,60.389149,0 25.076093,60.386103,0 25.083419,60.384952,0 25.087670,60.380522,0 25.079266,60.375371,0 25.076514,60.372817,0 25.062336,60.373330,0 25.055203,60.377357,0 25.056930,60.378819,0 25.056930,60.378819,0 25.056930,60.378819,0 25.022524,60.395737,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5042</name>
+      <Snippet maxLines="4">Harju</Snippet>
+      <description>2012Harju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5042</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.069562,60.234702,0 24.069562,60.234702,0 24.050447,60.222238,0 24.034645,60.217213,0 24.026962,60.218299,0 24.026751,60.220631,0 24.027228,60.223337,0 24.025065,60.223288,0 24.027085,60.228904,0 24.033300,60.232099,0 24.042207,60.237509,0 24.051181,60.242201,0 24.056054,60.244286,0 24.060767,60.248164,0 24.074838,60.248475,0 24.069562,60.234702,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5325</name>
+      <Snippet maxLines="4">Koittila</Snippet>
+      <description>2012Koittila
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5325</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.011270,61.779184,0 26.011270,61.779184,0 26.017455,61.775458,0 26.033774,61.774856,0 26.038654,61.788536,0 26.042199,61.820880,0 26.011069,61.820839,0 25.993641,61.808143,0 25.991456,61.793763,0 25.991830,61.793946,0 26.011258,61.779543,0 26.010488,61.779897,0 26.010873,61.779720,0 26.010873,61.779720,0 26.011270,61.779184,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5326</name>
+      <Snippet maxLines="4">Joutsa</Snippet>
+      <description>2012Joutsa
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5326</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.120982,61.747611,0 26.120982,61.747611,0 26.110955,61.753831,0 26.109077,61.766387,0 26.120055,61.766817,0 26.124833,61.772055,0 26.137015,61.770157,0 26.147546,61.773095,0 26.148807,61.768615,0 26.146015,61.759979,0 26.144066,61.748296,0 26.135442,61.745190,0 26.120700,61.744198,0 26.120690,61.744557,0 26.120690,61.744557,0 26.120982,61.747611,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Mtbo Map 5524</name>
+      <Snippet maxLines="4">Pekanharju</Snippet>
+      <description>2013Pekanharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5524</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.847506,64.117237,0 23.847506,64.117237,0 23.834408,64.120366,0 23.820509,64.130483,0 23.828964,64.146477,0 23.868030,64.143010,0 23.857022,64.120318,0 23.857022,64.120318,0 23.847506,64.117237,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

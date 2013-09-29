@@ -1,0 +1,664 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>60ff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transGreenPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff009900</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000aa00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transRedPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff0000ff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>600000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transYellowPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff00ffff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransBluePoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>60ff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransGreenPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ff00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransRedPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>600000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransYellowPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Embargoed Area 3074</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3074</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.946605,62.770326,0 27.968183,62.771795,0 28.001874,62.760069,0 28.003038,62.748221,0 27.995860,62.744322,0 27.997225,62.738388,0 27.981133,62.725226,0 27.915916,62.740917,0 27.925437,62.744983,0 27.931546,62.752483,0 27.933758,62.760538,0 27.940927,62.764260,0 27.946605,62.770326,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5385</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5385</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.264508,60.802354,0 22.264508,60.802354,0 22.289108,60.795306,0 22.308730,60.781963,0 22.321019,60.763326,0 22.316055,60.757036,0 22.238335,60.745660,0 22.227096,60.712520,0 22.218864,60.708628,0 22.204614,60.710636,0 22.192212,60.719905,0 22.162938,60.719210,0 22.145163,60.734757,0 22.155451,60.744485,0 22.176522,60.751003,0 22.189515,60.767301,0 22.211912,60.774940,0 22.223178,60.783257,0 22.241041,60.791808,0 22.251960,60.797592,0 22.253521,60.801965,0 22.262204,60.802992,0 22.264508,60.802354,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5386</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5386</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.874301,61.473471,0 23.874301,61.473471,0 23.879941,61.473421,0 23.881726,61.474360,0 23.883528,61.475120,0 23.896077,61.473610,0 23.896898,61.469136,0 23.908623,61.468325,0 23.913191,61.467710,0 23.910726,61.462263,0 23.908404,61.455382,0 23.903820,61.456177,0 23.900394,61.452864,0 23.878579,61.453264,0 23.869733,61.451624,0 23.863231,61.460279,0 23.853599,61.458979,0 23.856609,61.462642,0 23.864315,61.464437,0 23.871521,61.467478,0 23.874301,61.473471,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4876</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4876</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.781139,62.124639,0 25.781139,62.124639,0 25.786143,62.124144,0 25.784136,62.107249,0 25.780722,62.087289,0 25.755630,62.082756,0 25.719975,62.092845,0 25.726454,62.102780,0 25.741854,62.110282,0 25.746096,62.118939,0 25.780741,62.124995,0 25.781139,62.124639,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5388</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5388</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.278463,66.254696,0 29.278463,66.254696,0 29.280288,66.245334,0 29.272206,66.234682,0 29.253630,66.225977,0 29.228625,66.224902,0 29.226247,66.218114,0 29.193927,66.214626,0 29.183393,66.216211,0 29.195625,66.223937,0 29.199259,66.235015,0 29.220617,66.245123,0 29.245136,66.250515,0 29.262419,66.254572,0 29.278463,66.254696,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5389</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5389</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.000618,66.198932,0 29.000618,66.198932,0 28.964347,66.201012,0 28.918325,66.197639,0 28.924233,66.187694,0 28.979191,66.186283,0 29.001567,66.194073,0 29.000618,66.198932,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5390</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5390</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.180549,66.203864,0 29.180549,66.203864,0 29.130117,66.201334,0 29.121789,66.192114,0 29.133532,66.183875,0 29.140894,66.176413,0 29.140666,66.173724,0 29.131663,66.172232,0 29.132968,66.166650,0 29.138321,66.161729,0 29.148697,66.163739,0 29.166304,66.172470,0 29.179902,66.180895,0 29.214178,66.197104,0 29.180549,66.203864,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4881</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4881</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.872878,61.691793,0 22.872878,61.691793,0 22.911284,61.701936,0 22.949711,61.700562,0 22.962193,61.683312,0 22.965248,61.674413,0 22.949960,61.669826,0 22.932839,61.661946,0 22.927354,61.660525,0 22.909294,61.662682,0 22.902985,61.661774,0 22.891418,61.666281,0 22.891418,61.666281,0 22.885051,61.671484,0 22.863761,61.680730,0 22.872878,61.691793,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4883</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4883</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.622939,60.219944,0 23.622939,60.219944,0 23.620546,60.218625,0 23.622033,60.214709,0 23.624980,60.210650,0 23.627565,60.206581,0 23.627565,60.206581,0 23.618098,60.196814,0 23.584052,60.201333,0 23.551284,60.203899,0 23.546421,60.219230,0 23.550871,60.238759,0 23.572900,60.238970,0 23.572900,60.238970,0 23.581721,60.237580,0 23.592244,60.233717,0 23.592244,60.233717,0 23.600573,60.233572,0 23.612423,60.230819,0 23.612423,60.230819,0 23.618893,60.224155,0 23.620103,60.222927,0 23.622939,60.219944,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4886</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4886</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.977567,61.597805,0 23.977567,61.597805,0 23.975345,61.620575,0 23.978237,61.629623,0 24.016272,61.630638,0 24.024404,61.636385,0 24.030826,61.640298,0 23.975276,61.652197,0 23.942649,61.645901,0 23.939451,61.643853,0 23.954032,61.637710,0 23.945413,61.633205,0 23.899376,61.625341,0 23.887775,61.616812,0 23.898016,61.601232,0 23.910471,61.597382,0 23.963100,61.595328,0 23.977567,61.597805,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5404</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5404</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.504623,60.657598,0 25.504623,60.657598,0 25.497026,60.655717,0 25.459894,60.659426,0 25.452321,60.664727,0 25.452321,60.664727,0 25.453306,60.682339,0 25.471248,60.690088,0 25.504213,60.690101,0 25.504213,60.690101,0 25.504623,60.657598,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5408</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5408</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.861591,61.442991,0 23.861591,61.442991,0 23.856101,61.441606,0 23.851554,61.442040,0 23.844246,61.440074,0 23.842495,61.442549,0 23.838514,61.444793,0 23.833620,61.448632,0 23.831264,61.449656,0 23.838198,61.451614,0 23.836143,61.453363,0 23.835871,61.456052,0 23.845036,61.458241,0 23.846468,61.455220,0 23.847791,61.453274,0 23.865429,61.457095,0 23.867234,61.454082,0 23.873481,61.447936,0 23.859575,61.444382,0 23.861591,61.442991,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4903</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4903</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.750085,60.748538,0 22.750085,60.748538,0 22.751958,60.734391,0 22.739591,60.725187,0 22.728790,60.723584,0 22.716900,60.724643,0 22.710128,60.725865,0 22.701827,60.730274,0 22.705191,60.740812,0 22.704179,60.756604,0 22.707048,60.762631,0 22.718330,60.766229,0 22.723128,60.771597,0 22.734279,60.770694,0 22.738089,60.764161,0 22.737529,60.757310,0 22.736979,60.753157,0 22.750085,60.748538,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5431</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5431</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.592544,61.500680,0 23.592544,61.500680,0 23.592442,61.494746,0 23.594275,61.491737,0 23.606531,61.493121,0 23.616854,61.494995,0 23.623449,61.496597,0 23.632746,61.497546,0 23.636852,61.497827,0 23.642718,61.499229,0 23.653440,61.500931,0 23.658970,61.501965,0 23.663481,61.505490,0 23.666963,61.508091,0 23.667579,61.509364,0 23.663241,61.511235,0 23.655486,61.513381,0 23.650396,61.515233,0 23.645603,61.517811,0 23.641541,61.520586,0 23.636746,61.523164,0 23.631058,61.523562,0 23.625706,61.524329,0 23.624107,61.525188,0 23.604785,61.522911,0 23.585425,61.517575,0 23.580547,61.517452,0 23.582185,61.512821,0 23.584690,61.507133,0 23.586940,61.503774,0 23.590571,61.501529,0 23.590571,61.501529,0 23.590571,61.501529,0 23.592544,61.500680,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5438</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5438</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.447131,60.511952,0 22.447131,60.511952,0 22.447501,60.519699,0 22.457543,60.520941,0 22.473810,60.516818,0 22.472020,60.511361,0 22.465698,60.507009,0 22.472808,60.503114,0 22.464698,60.498522,0 22.464498,60.494738,0 22.458030,60.491460,0 22.434119,60.492980,0 22.434365,60.496406,0 22.432974,60.498517,0 22.445823,60.503094,0 22.445485,60.502902,0 22.445485,60.502902,0 22.446067,60.511736,0 22.447131,60.511952,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5439</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5439</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.187223,60.130493,0 23.187223,60.130493,0 23.199463,60.133721,0 23.211235,60.134778,0 23.218153,60.137313,0 23.229660,60.140698,0 23.237915,60.144169,0 23.244476,60.146693,0 23.250966,60.146697,0 23.261653,60.144662,0 23.273716,60.143205,0 23.286956,60.140880,0 23.305343,60.140856,0 23.323471,60.139923,0 23.329262,60.133252,0 23.335609,60.128035,0 23.338223,60.123973,0 23.338083,60.118756,0 23.337144,60.114236,0 23.334730,60.110034,0 23.326693,60.104598,0 23.307290,60.104237,0 23.287983,60.106213,0 23.259835,60.109914,0 23.254496,60.115696,0 23.247563,60.119634,0 23.244136,60.118098,0 23.239529,60.117428,0 23.235805,60.115345,0 23.232758,60.113640,0 23.228255,60.112073,0 23.228860,60.109933,0 23.220480,60.110773,0 23.213544,60.114709,0 23.200490,60.121706,0 23.190090,60.127519,0 23.190090,60.127519,0 23.187223,60.130493,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5448</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5448</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.116216,60.348991,0 23.116216,60.348991,0 23.111774,60.343647,0 23.105483,60.338608,0 23.098088,60.333717,0 23.095160,60.327878,0 23.084165,60.316766,0 23.085235,60.310865,0 23.076508,60.308090,0 23.041351,60.317115,0 23.047541,60.322873,0 23.055179,60.328673,0 23.055700,60.333364,0 23.060104,60.341945,0 23.068104,60.350812,0 23.069971,60.353384,0 23.082433,60.355370,0 23.087750,60.356426,0 23.090260,60.356679,0 23.092405,60.359979,0 23.094425,60.361297,0 23.116152,60.349528,0 23.115450,60.349328,0 23.116216,60.348991,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5449</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5449</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.546257,62.558617,0 27.546257,62.558617,0 27.505455,62.561104,0 27.494325,62.546782,0 27.493772,62.536911,0 27.498385,62.533842,0 27.504980,62.533101,0 27.517053,62.534493,0 27.517470,62.536107,0 27.517893,62.538080,0 27.523341,62.538419,0 27.524159,62.540749,0 27.527693,62.542711,0 27.532020,62.545567,0 27.536287,62.545012,0 27.543273,62.544267,0 27.549164,62.547475,0 27.546264,62.558976,0 27.546264,62.558976,0 27.540044,62.559180,0 27.540044,62.559180,0 27.546257,62.558617,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5459</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5459</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.828826,61.672778,0 23.828826,61.672778,0 23.831955,61.679140,0 23.846876,61.684875,0 23.852823,61.685911,0 23.880760,61.697691,0 23.890449,61.699169,0 23.896921,61.702550,0 23.900499,61.708381,0 23.895175,61.708620,0 23.883897,61.711598,0 23.879379,61.715089,0 23.861638,61.718277,0 23.830688,61.728346,0 23.811478,61.730955,0 23.800760,61.728369,0 23.797907,61.715724,0 23.791465,61.686642,0 23.800170,61.679299,0 23.828826,61.672778,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5461</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5461</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.037391,61.623012,0 24.037391,61.623012,0 24.063249,61.628960,0 24.107969,61.631171,0 24.123002,61.635980,0 24.108932,61.649158,0 24.102034,61.662307,0 24.103112,61.679039,0 24.097016,61.695619,0 24.072698,61.696718,0 24.036295,61.693599,0 24.012879,61.685364,0 23.966541,61.691173,0 23.951064,61.690829,0 23.942723,61.675730,0 23.936802,61.666793,0 23.940818,61.660594,0 23.960439,61.657078,0 23.958476,61.653980,0 24.006821,61.658101,0 24.031882,61.656851,0 24.037059,61.654088,0 24.035843,61.651007,0 24.030757,61.641015,0 24.016134,61.632072,0 24.015592,61.625951,0 24.037391,61.623012,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5464</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5464</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.289875,60.656644,0 25.289875,60.656644,0 25.331736,60.646755,0 25.342006,60.653348,0 25.349911,60.663324,0 25.350155,60.672846,0 25.331875,60.679445,0 25.292016,60.678404,0 25.276733,60.669766,0 25.276733,60.669766,0 25.282516,60.664273,0 25.289875,60.656644,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5465</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5465</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.751804,61.477254,0 23.751804,61.477254,0 23.765710,61.477225,0 23.773184,61.492138,0 23.772800,61.503091,0 23.767213,61.506193,0 23.755526,61.506454,0 23.757664,61.503989,0 23.753593,61.503353,0 23.756518,61.500548,0 23.746428,61.499948,0 23.747477,61.489910,0 23.744064,61.482999,0 23.751804,61.477254,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5472</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5472</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.261918,67.568058,0 24.261918,67.568058,0 24.250595,67.560326,0 24.260439,67.552413,0 24.259667,67.550964,0 24.255573,67.549817,0 24.258551,67.548431,0 24.262364,67.547957,0 24.263956,67.546368,0 24.264673,67.544226,0 24.267754,67.541944,0 24.272626,67.540410,0 24.277986,67.538705,0 24.279129,67.536928,0 24.280395,67.534077,0 24.282840,67.533220,0 24.289847,67.533517,0 24.316144,67.537546,0 24.299633,67.571204,0 24.299633,67.571204,0 24.299633,67.571204,0 24.261918,67.568058,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5478</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5478</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.191019,67.567384,0 24.191019,67.567384,0 24.198526,67.571464,0 24.222552,67.579059,0 24.226376,67.582536,0 24.222347,67.584801,0 24.216055,67.586309,0 24.212494,67.588582,0 24.211026,67.593046,0 24.208018,67.594610,0 24.193501,67.594000,0 24.183832,67.592217,0 24.172692,67.586996,0 24.154059,67.573742,0 24.154722,67.572138,0 24.191019,67.567384,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5479</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5479</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.334777,60.753113,0 27.334777,60.753113,0 27.307010,60.765749,0 27.298854,60.757148,0 27.291371,60.741363,0 27.272255,60.736375,0 27.268498,60.725609,0 27.236916,60.718486,0 27.208330,60.719252,0 27.216479,60.731808,0 27.215806,60.740788,0 27.223933,60.749034,0 27.220347,60.761251,0 27.233668,60.775953,0 27.265270,60.778767,0 27.316085,60.792663,0 27.337386,60.791893,0 27.346048,60.777506,0 27.343760,60.769611,0 27.350251,60.758820,0 27.334777,60.753113,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5480</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5480</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.084199,61.805104,0 29.084199,61.805104,0 29.068970,61.793121,0 29.068589,61.781812,0 29.083137,61.772612,0 29.081367,61.768867,0 29.070276,61.767419,0 29.029066,61.769112,0 29.024781,61.773126,0 29.030960,61.786325,0 29.023378,61.797932,0 29.042768,61.821352,0 29.065380,61.813111,0 29.075693,61.814033,0 29.084199,61.805104,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5482</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5482</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.401329,60.001238,0 23.401329,60.001238,0 23.380559,60.004086,0 23.364769,60.000775,0 23.364545,59.996275,0 23.371178,59.991424,0 23.366076,59.979060,0 23.382581,59.975738,0 23.386050,59.983384,0 23.396169,59.985997,0 23.410649,59.991426,0 23.401329,60.001238,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 1136</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1136</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.897927,61.221189,0 27.856014,61.227386,0 27.836571,61.237913,0 27.853986,61.248757,0 27.862499,61.260186,0 27.893563,61.264295,0 27.920179,61.256943,0 27.923622,61.247224,0 27.897927,61.221189,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5494</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5494</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.404427,61.830612,0 22.404427,61.830612,0 22.402758,61.813830,0 22.390241,61.806035,0 22.410838,61.795395,0 22.467088,61.803022,0 22.450277,61.839515,0 22.449871,61.839681,0 22.404427,61.830612,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5495</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5495</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.813336,61.549676,0 27.813336,61.549676,0 27.827268,61.549951,0 27.833274,61.549376,0 27.839969,61.546462,0 27.843672,61.544285,0 27.843340,61.545903,0 27.846741,61.546420,0 27.853038,61.542790,0 27.849965,61.540475,0 27.842813,61.540340,0 27.843385,61.533693,0 27.844855,61.532427,0 27.842531,61.529927,0 27.842878,61.528848,0 27.843181,61.526153,0 27.839744,61.524199,0 27.828241,61.515830,0 27.819967,61.515700,0 27.819506,61.512471,0 27.811651,61.513955,0 27.805165,61.510222,0 27.798034,61.510623,0 27.793575,61.512624,0 27.793245,61.514422,0 27.791099,61.518744,0 27.788876,61.520013,0 27.786294,61.522003,0 27.785973,61.524160,0 27.783024,61.526511,0 27.784310,61.532788,0 27.786657,61.536366,0 27.783739,61.539973,0 27.788262,61.540306,0 27.791702,61.542441,0 27.793303,61.546203,0 27.795578,61.546908,0 27.797501,61.548512,0 27.806094,61.546128,0 27.810289,61.548257,0 27.810289,61.548257,0 27.813336,61.549676,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5521</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5521</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.636197,60.456083,0 23.636197,60.456083,0 23.679754,60.457176,0 23.703269,60.483641,0 23.745247,60.500847,0 23.752248,60.518271,0 23.630619,60.509862,0 23.636086,60.457159,0 23.636197,60.456083,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5525</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5525</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.170064,60.488520,0 22.170064,60.488520,0 22.157002,60.478331,0 22.150744,60.476304,0 22.145052,60.480234,0 22.147833,60.483574,0 22.147580,60.487702,0 22.152457,60.491658,0 22.150108,60.495170,0 22.160051,60.496971,0 22.160051,60.496971,0 22.170064,60.488520,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 5032</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5032</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.674658,60.392648,0 22.674658,60.392648,0 22.677152,60.384817,0 22.681115,60.376853,0 22.693233,60.373110,0 22.703437,60.375598,0 22.725330,60.383138,0 22.745131,60.390067,0 22.750465,60.396532,0 22.751596,60.401783,0 22.744482,60.408929,0 22.744597,60.413608,0 22.747060,60.419801,0 22.745609,60.425329,0 22.731106,60.427742,0 22.719199,60.426999,0 22.708474,60.425575,0 22.698954,60.423289,0 22.688498,60.422591,0 22.688878,60.419726,0 22.681487,60.417868,0 22.674197,60.417990,0 22.667595,60.410222,0 22.674535,60.404514,0 22.673559,60.398187,0 22.675482,60.394653,0 22.675482,60.394653,0 22.674658,60.392648,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4791</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4791</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.674425,60.635553,0 24.674425,60.635553,0 24.676423,60.638283,0 24.685119,60.644541,0 24.694100,60.646852,0 24.704167,60.649361,0 24.715734,60.651355,0 24.719275,60.653032,0 24.722615,60.652370,0 24.731665,60.653782,0 24.734236,60.653646,0 24.740161,60.657877,0 24.747447,60.658360,0 24.755705,60.660654,0 24.756615,60.663364,0 24.760928,60.664514,0 24.768917,60.660156,0 24.778843,60.654214,0 24.786901,60.648778,0 24.789607,60.646667,0 24.795285,60.643887,0 24.790013,60.640746,0 24.788042,60.637480,0 24.787824,60.635321,0 24.783600,60.632916,0 24.781408,60.632879,0 24.779352,60.630869,0 24.771063,60.629115,0 24.757595,60.622961,0 24.741086,60.623761,0 24.739538,60.624993,0 24.724905,60.625104,0 24.715711,60.625845,0 24.702513,60.626338,0 24.696279,60.626590,0 24.694985,60.624232,0 24.688777,60.624125,0 24.684318,60.625126,0 24.681435,60.624537,0 24.674668,60.627114,0 24.668330,60.628800,0 24.670967,60.632799,0 24.674138,60.634470,0 24.674138,60.634470,0 24.674425,60.635553,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4810</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4810</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>30.183136,62.768646,0 30.183136,62.768646,0 30.161345,62.781176,0 30.159540,62.793614,0 30.178152,62.795171,0 30.175087,62.803146,0 30.184423,62.805989,0 30.199775,62.806359,0 30.204749,62.805168,0 30.212269,62.798528,0 30.212603,62.790794,0 30.214209,62.787523,0 30.213525,62.781250,0 30.211804,62.776259,0 30.210301,62.766052,0 30.196240,62.766552,0 30.196240,62.766552,0 30.183136,62.768646,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4813</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4813</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.841798,60.983193,0 22.841798,60.983193,0 22.846134,60.981169,0 22.848258,60.979077,0 22.849346,60.976414,0 22.851124,60.974131,0 22.853960,60.972240,0 22.857417,60.971268,0 22.860598,60.969568,0 22.862421,60.966927,0 22.863004,60.962450,0 22.863078,60.959035,0 22.864075,60.954211,0 22.864354,60.952062,0 22.860420,60.951042,0 22.854230,60.950312,0 22.849630,60.948732,0 22.846801,60.947745,0 22.843376,60.945662,0 22.837251,60.947270,0 22.833843,60.947884,0 22.830396,60.945979,0 22.826354,60.942977,0 22.820652,60.941361,0 22.812803,60.942016,0 22.804837,60.943566,0 22.799007,60.945722,0 22.795065,60.947577,0 22.792228,60.949466,0 22.787632,60.953458,0 22.785661,60.957172,0 22.785234,60.960396,0 22.787635,60.964607,0 22.792224,60.969066,0 22.797574,60.973369,0 22.803710,60.977336,0 22.816530,60.981152,0 22.825164,60.983038,0 22.840622,60.983696,0 22.841798,60.983193,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4814</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4814</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.051200,60.919582,0 28.051200,60.919582,0 28.085289,60.913206,0 28.104818,60.912688,0 28.123978,60.912170,0 28.132375,60.909765,0 28.126687,60.905323,0 28.127018,60.893827,0 28.132977,60.885157,0 28.135688,60.878490,0 28.131655,60.868647,0 28.132601,60.864150,0 28.072333,60.867876,0 28.034847,60.870325,0 28.037950,60.875149,0 28.042592,60.881937,0 28.042791,60.888042,0 28.040388,60.893447,0 28.037972,60.898494,0 28.034403,60.902113,0 28.034986,60.908753,0 28.035922,60.914851,0 28.038239,60.918066,0 28.051200,60.919582,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 3817</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3817</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.259168,61.679264,0 27.271292,61.682822,0 27.280109,61.696629,0 27.277144,61.703278,0 27.273776,61.707226,0 27.263182,61.706888,0 27.252885,61.696503,0 27.241538,61.693471,0 27.250908,61.685734,0 27.236155,61.681640,0 27.239903,61.677683,0 27.259168,61.679264,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4845</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4845</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.051745,61.019784,0 26.051745,61.019784,0 26.028802,61.019800,0 26.024584,61.024618,0 26.024065,61.029463,0 26.024275,61.034672,0 26.026767,61.037922,0 26.029967,61.042255,0 26.034665,61.046060,0 26.037181,61.048592,0 26.041946,61.050242,0 26.048145,61.053518,0 26.053308,61.054272,0 26.059181,61.056109,0 26.063017,61.051646,0 26.066403,61.049874,0 26.069064,61.047558,0 26.065905,61.041611,0 26.064895,61.038192,0 26.059534,61.031690,0 26.055956,61.027535,0 26.051333,61.021217,0 26.051724,61.020502,0 26.051724,61.020502,0 26.051745,61.019784,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 494</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=494</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.304525,61.740344,0 25.308389,61.738955,0 25.307401,61.736250,0 25.294127,61.736624,0 25.293570,61.739849,0 25.304525,61.740344,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4852</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4852</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.302338,61.776321,0 23.302338,61.776321,0 23.311486,61.782320,0 23.331390,61.784112,0 23.334981,61.785825,0 23.328328,61.790680,0 23.321137,61.790487,0 23.317387,61.793263,0 23.317707,61.800102,0 23.324479,61.800643,0 23.332735,61.795112,0 23.336056,61.795920,0 23.338694,61.802461,0 23.344331,61.802970,0 23.361392,61.780777,0 23.370189,61.767350,0 23.368028,61.763159,0 23.358765,61.761296,0 23.353097,61.757910,0 23.342165,61.763729,0 23.328260,61.762639,0 23.320968,61.763342,0 23.300490,61.775912,0 23.300490,61.775912,0 23.302338,61.776321,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Embargoed Area 4856</name>
+      <Snippet maxLines="4"/>
+      <description>http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4856</description>
+      <styleUrl>#transRedPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>30.171543,62.803046,0 30.171543,62.803046,0 30.191531,62.806367,0 30.204396,62.805535,0 30.214149,62.797766,0 30.215676,62.790185,0 30.215344,62.783544,0 30.223346,62.781385,0 30.237000,62.777118,0 30.222268,62.760747,0 30.215835,62.762871,0 30.210301,62.766052,0 30.200112,62.766104,0 30.192837,62.767707,0 30.183546,62.768817,0 30.176892,62.772561,0 30.166887,62.777997,0 30.161011,62.781723,0 30.159669,62.787502,0 30.159148,62.793623,0 30.173807,62.794910,0 30.171543,62.803046,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

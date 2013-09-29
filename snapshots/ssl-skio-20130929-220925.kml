@@ -1,0 +1,1921 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>60ff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transGreenPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff009900</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000aa00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transRedPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff0000ff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>600000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transYellowPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff00ffff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransBluePoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>60ff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransGreenPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ff00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransRedPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>600000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransYellowPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Skio Map 2724</name>
+      <Snippet maxLines="4">Hirvihaara - Soukkio</Snippet>
+      <description>1986Hirvihaara - Soukkio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2724</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.200165,60.625876,0 25.185877,60.626402,0 25.162838,60.633263,0 25.150097,60.651408,0 25.151040,60.666859,0 25.213154,60.674887,0 25.222508,60.671240,0 25.238531,60.659418,0 25.240054,60.624790,0 25.235057,60.622569,0 25.222401,60.626712,0 25.200165,60.625876,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1500</name>
+      <Snippet maxLines="4">Rantsilanmäki</Snippet>
+      <description>1992Rantsilanmäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1500</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.594258,60.909534,0 27.572195,60.911964,0 27.583916,60.928784,0 27.585672,60.944039,0 27.581354,60.950154,0 27.587677,60.952641,0 27.599072,60.949897,0 27.626136,60.937752,0 27.636502,60.939320,0 27.652718,60.938165,0 27.659164,60.928616,0 27.645777,60.923483,0 27.614954,60.911955,0 27.594258,60.909534,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1502</name>
+      <Snippet maxLines="4">Raatjärvi</Snippet>
+      <description>1994Raatjärvi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1502</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.586421,60.944575,0 27.583903,60.928066,0 27.520323,60.918459,0 27.491200,60.919467,0 27.491975,60.945851,0 27.501195,60.945278,0 27.507402,60.940945,0 27.521823,60.942506,0 27.532748,60.956820,0 27.576665,60.956280,0 27.581717,60.949794,0 27.586421,60.944575,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1494</name>
+      <Snippet maxLines="4">Puntari</Snippet>
+      <description>1996Puntari
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1494</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.545037,60.919619,0 27.541013,60.921610,0 27.521069,60.918995,0 27.500068,60.920511,0 27.482724,60.918779,0 27.484032,60.932053,0 27.517634,60.934622,0 27.521404,60.939455,0 27.566388,60.938017,0 27.565364,60.921869,0 27.545037,60.919619,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1441</name>
+      <Snippet maxLines="4">Kuikkalampi</Snippet>
+      <description>1997Kuikkalampi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1441</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.413702,65.220207,0 25.404112,65.194805,0 25.476848,65.192877,0 25.481960,65.215536,0 25.413702,65.220207,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1723</name>
+      <Snippet maxLines="4">Moottoriurheilukeskus</Snippet>
+      <description>1998Moottoriurheilukeskus
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1723</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.894065,60.665929,0 24.899152,60.660620,0 24.907962,60.660219,0 24.913412,60.660843,0 24.928392,60.661255,0 24.931145,60.663992,0 24.935383,60.666393,0 24.935920,60.669455,0 24.940141,60.671855,0 24.935106,60.676439,0 24.931891,60.680880,0 24.933136,60.684312,0 24.927289,60.689790,0 24.916194,60.691414,0 24.906853,60.688574,0 24.900547,60.684164,0 24.898901,60.675696,0 24.894065,60.665929,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1489</name>
+      <Snippet maxLines="4">Taavetin linnoitus</Snippet>
+      <description>1998Taavetin linnoitus
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1489</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.566798,60.919529,0 27.561228,60.917397,0 27.549420,60.917087,0 27.540940,60.917301,0 27.534311,60.917866,0 27.533006,60.928097,0 27.540824,60.932196,0 27.558244,60.936614,0 27.568237,60.938188,0 27.583336,60.937406,0 27.584644,60.928242,0 27.580123,60.923063,0 27.573861,60.922551,0 27.572327,60.919326,0 27.566798,60.919529,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1962</name>
+      <Snippet maxLines="4">Roukko</Snippet>
+      <description>1999Roukko
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1962</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.005023,61.284635,0 24.035697,61.284051,0 24.041713,61.295502,0 24.040326,61.302291,0 24.025815,61.321370,0 24.006043,61.320935,0 24.006354,61.313764,0 24.003966,61.311375,0 23.997799,61.309622,0 23.998785,61.307128,0 23.995974,61.305269,0 23.998014,61.299564,0 24.003115,61.296811,0 24.003307,61.290886,0 24.005023,61.284635,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1732</name>
+      <Snippet maxLines="4">Hyvinkäänkylä</Snippet>
+      <description>1999Hyvinkäänkylä
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1732</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.817942,60.600966,0 24.808314,60.597755,0 24.809889,60.601194,0 24.812603,60.604283,0 24.824116,60.612375,0 24.828111,60.618188,0 24.842423,60.617342,0 24.839156,60.611541,0 24.832898,60.606769,0 24.817942,60.600966,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1774</name>
+      <Snippet maxLines="4">Pärsäniemi</Snippet>
+      <description>1999Pärsäniemi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1774</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.690711,60.937975,0 27.632963,60.928383,0 27.632808,60.939158,0 27.658756,60.944600,0 27.690439,60.942466,0 27.690711,60.937975,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1775</name>
+      <Snippet maxLines="4">Kosenlahti</Snippet>
+      <description>1999Kosenlahti
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1775</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.631494,60.928749,0 27.607522,60.928320,0 27.609244,60.941241,0 27.657911,60.939396,0 27.660379,60.933818,0 27.631494,60.928749,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1776</name>
+      <Snippet maxLines="4">Haimilankangas</Snippet>
+      <description>1999Haimilankangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1776</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.669257,60.935749,0 27.647409,60.931187,0 27.646824,60.938732,0 27.658760,60.944779,0 27.683084,60.943760,0 27.696701,60.941895,0 27.698103,60.938476,0 27.669257,60.935749,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1722</name>
+      <Snippet maxLines="4">Erkylä</Snippet>
+      <description>2000Erkylä
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1722</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.893747,60.665205,0 24.897689,60.660597,0 24.874673,60.660234,0 24.875509,60.669767,0 24.872335,60.673480,0 24.866482,60.673387,0 24.854503,60.677327,0 24.856021,60.682022,0 24.873912,60.688415,0 24.898483,60.687725,0 24.901574,60.685258,0 24.897851,60.674961,0 24.893747,60.665205,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2727</name>
+      <Snippet maxLines="4">Hirvihaara</Snippet>
+      <description>2002Hirvihaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2727</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.235455,60.628681,0 25.245348,60.628273,0 25.240755,60.625339,0 25.242777,60.621773,0 25.235540,60.620420,0 25.234712,60.622205,0 25.221680,60.626523,0 25.235455,60.628681,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1478</name>
+      <Snippet maxLines="4">Joukola</Snippet>
+      <description>2002Joukola
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1478</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.570849,60.919152,0 27.572838,60.927215,0 27.583541,60.928426,0 27.611949,60.928300,0 27.610523,60.911616,0 27.597218,60.910060,0 27.585419,60.910112,0 27.579529,60.910676,0 27.575220,60.916081,0 27.570849,60.919152,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1481</name>
+      <Snippet maxLines="4">Parsikko</Snippet>
+      <description>2002Parsikko
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1481</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.568594,60.916828,0 27.571224,60.919510,0 27.572097,60.927039,0 27.584282,60.928603,0 27.615638,60.928284,0 27.626469,60.917110,0 27.617553,60.912841,0 27.604592,60.910027,0 27.586884,60.909567,0 27.572558,60.911603,0 27.575210,60.915543,0 27.568594,60.916828,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1316</name>
+      <Snippet maxLines="4">Muukko</Snippet>
+      <description>2003Muukko
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1316</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.353810,61.079188,0 28.355398,61.090297,0 28.402668,61.094484,0 28.403121,61.079583,0 28.353810,61.079188,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1303</name>
+      <Snippet maxLines="4">Tallisenlampi</Snippet>
+      <description>2004Tallisenlampi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1303</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.954642,61.081502,0 27.953579,61.083126,0 27.942679,61.090026,0 27.928116,61.099284,0 27.924465,61.101285,0 27.922098,61.096452,0 27.922390,61.093757,0 27.925675,61.091939,0 27.929370,61.078814,0 27.933786,61.077706,0 27.942300,61.077288,0 27.947127,61.078152,0 27.951220,61.078662,0 27.954642,61.081502,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 584</name>
+      <Snippet maxLines="4">Roukko</Snippet>
+      <description>2004Roukko
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=584</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.005565,61.288744,0 23.997081,61.287837,0 23.986744,61.290483,0 23.987037,61.310785,0 23.996308,61.311529,0 24.004662,61.313870,0 24.003012,61.319404,0 24.024631,61.320059,0 24.036160,61.304859,0 24.038550,61.303294,0 24.034312,61.284883,0 24.028316,61.285111,0 24.013937,61.283178,0 24.015103,61.286618,0 24.012273,61.288891,0 24.005565,61.288744,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1474</name>
+      <Snippet maxLines="4">Tyynilahti</Snippet>
+      <description>2004Tyynilahti
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1474</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.642215,60.929776,0 27.641625,60.937141,0 27.655401,60.943000,0 27.662063,60.943865,0 27.672331,60.941480,0 27.685275,60.942672,0 27.695944,60.941001,0 27.696623,60.938304,0 27.671095,60.935381,0 27.642215,60.929776,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1733</name>
+      <Snippet maxLines="4">Lentokenttä</Snippet>
+      <description>2004Lentokenttä
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1733</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.866525,60.656152,0 24.867761,60.659585,0 24.873033,60.662902,0 24.874753,60.670115,0 24.895583,60.670444,0 24.894460,60.665217,0 24.898397,60.660967,0 24.899479,60.655595,0 24.904442,60.652440,0 24.895485,60.649785,0 24.886488,60.647496,0 24.867707,60.649345,0 24.868613,60.652233,0 24.866525,60.656152,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1676</name>
+      <Snippet maxLines="4">Lumijoki</Snippet>
+      <description>2005Lumijoki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1676</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.657180,61.156231,0 23.688943,61.151271,0 23.698936,61.172892,0 23.685347,61.174896,0 23.662181,61.175764,0 23.652634,61.171035,0 23.641500,61.170939,0 23.636467,61.165782,0 23.642606,61.160543,0 23.657180,61.156231,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1032</name>
+      <Snippet maxLines="4">Hietaharju</Snippet>
+      <description>2006Hietaharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1032</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.483013,61.116622,0 28.501430,61.121807,0 28.507938,61.118143,0 28.509613,61.114353,0 28.506828,61.110433,0 28.508943,61.108074,0 28.482223,61.099759,0 28.475844,61.098212,0 28.468170,61.092729,0 28.454716,61.090540,0 28.443853,61.087783,0 28.437188,61.088033,0 28.414104,61.102635,0 28.454873,61.110104,0 28.483013,61.116622,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 814</name>
+      <Snippet maxLines="4">MENKIJÄRVI</Snippet>
+      <description>2006MENKIJÄRVI
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=814</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.554644,62.957998,0 23.541361,62.926954,0 23.494284,62.931721,0 23.505906,62.956441,0 23.526126,62.962322,0 23.542941,62.956993,0 23.554644,62.957998,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1083</name>
+      <Snippet maxLines="4">Perttu 2</Snippet>
+      <description>2006Perttu 2
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1083</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.967194,63.903670,0 23.939152,63.906493,0 23.970162,63.921328,0 23.991816,63.917288,0 23.967194,63.903670,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 586</name>
+      <Snippet maxLines="4">Raasakka</Snippet>
+      <description>2006Raasakka
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=586</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.383366,65.326782,0 25.382617,65.331980,0 25.390918,65.336376,0 25.401267,65.335768,0 25.406098,65.334025,0 25.428155,65.338743,0 25.440189,65.338330,0 25.442824,65.330100,0 25.442712,65.324723,0 25.438569,65.322168,0 25.423464,65.323805,0 25.392674,65.321686,0 25.383366,65.326782,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 587</name>
+      <Snippet maxLines="4">Illinsaari</Snippet>
+      <description>2006Illinsaari
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=587</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.385688,65.323585,0 25.381340,65.331787,0 25.387527,65.335622,0 25.397348,65.336624,0 25.426833,65.324918,0 25.414055,65.323168,0 25.385688,65.323585,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1102</name>
+      <Snippet maxLines="4">Koskenmäki-Palosmäki</Snippet>
+      <description>2006Koskenmäki-Palosmäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1102</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.621120,63.662428,0 26.622781,63.659022,0 26.595429,63.652127,0 26.570757,63.654389,0 26.569030,63.661743,0 26.539439,63.669001,0 26.528191,63.689238,0 26.543174,63.688030,0 26.564773,63.675901,0 26.598932,63.661470,0 26.608239,63.660419,0 26.621120,63.662428,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 671</name>
+      <Snippet maxLines="4">Huumari 1</Snippet>
+      <description>2006Huumari 1
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=671</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.654509,64.016909,0 24.657678,64.023057,0 24.693685,64.023094,0 24.711431,64.016381,0 24.708781,64.003769,0 24.703090,64.003320,0 24.697492,63.996767,0 24.636358,63.999196,0 24.637355,64.016451,0 24.654509,64.016909,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 674</name>
+      <Snippet maxLines="4">Huumari 2</Snippet>
+      <description>2006Huumari 2
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=674</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.638718,64.000312,0 24.639869,64.020614,0 24.646849,64.020368,0 24.649228,64.026153,0 24.660149,64.027765,0 24.686377,64.027288,0 24.702493,64.020540,0 24.700554,63.999329,0 24.638718,64.000312,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 675</name>
+      <Snippet maxLines="4">Huumari 3</Snippet>
+      <description>2006Huumari 3
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=675</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.612974,63.995401,0 24.612088,64.020159,0 24.699602,64.020854,0 24.695892,63.991363,0 24.645601,63.991454,0 24.644058,63.995200,0 24.612974,63.995401,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 950</name>
+      <Snippet maxLines="4">Tarinmaa</Snippet>
+      <description>2006Tarinmaa
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=950</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.586740,60.889729,0 24.594819,60.880362,0 24.627533,60.881302,0 24.625051,60.904782,0 24.567483,60.905371,0 24.569203,60.897318,0 24.586740,60.889729,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1469</name>
+      <Snippet maxLines="4">Nikinoja</Snippet>
+      <description>2006Nikinoja
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1469</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.557571,60.919208,0 27.546146,60.919794,0 27.541568,60.932552,0 27.583310,60.935969,0 27.584272,60.928064,0 27.574673,60.926669,0 27.576106,60.924337,0 27.563542,60.923134,0 27.564960,60.919896,0 27.557571,60.919208,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 716</name>
+      <Snippet maxLines="4">Paratiisi 2006</Snippet>
+      <description>2006Paratiisi 2006
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=716</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.115029,61.910564,0 25.111363,61.932954,0 25.134036,61.936136,0 25.157200,61.924604,0 25.157765,61.921559,0 25.151736,61.920760,0 25.138427,61.907830,0 25.125739,61.909813,0 25.115029,61.910564,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 718</name>
+      <Snippet maxLines="4">Lavakorpi 2006</Snippet>
+      <description>2006Lavakorpi 2006
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=718</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.095117,61.918731,0 25.082835,61.926283,0 25.104739,61.929451,0 25.119122,61.930725,0 25.144972,61.931794,0 25.156698,61.926932,0 25.157711,61.922456,0 25.152541,61.920052,0 25.138416,61.908009,0 25.125761,61.909454,0 25.100644,61.909469,0 25.095117,61.918731,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 465</name>
+      <Snippet maxLines="4">Korentinjärvi</Snippet>
+      <description>2006Korentinjärvi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=465</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.996960,61.287152,0 23.996575,61.283370,0 23.991157,61.281453,0 23.977521,61.283486,0 23.976482,61.305914,0 23.985957,61.316187,0 24.027578,61.318542,0 24.030360,61.312854,0 24.033122,61.295494,0 24.016470,61.289918,0 23.996960,61.287152,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 467</name>
+      <Snippet maxLines="4">Påras skidolkarta</Snippet>
+      <description>2006Påras skidolkarta
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=467</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.094049,63.716636,0 23.089235,63.719201,0 23.086987,63.747171,0 23.128889,63.749382,0 23.132185,63.728270,0 23.115047,63.723136,0 23.094049,63.716636,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 982</name>
+      <Snippet maxLines="4">Koulurinne</Snippet>
+      <description>2006Koulurinne
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=982</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.249499,64.125715,0 28.246866,64.131123,0 28.217403,64.124013,0 28.219047,64.114665,0 28.219332,64.111799,0 28.241017,64.110539,0 28.250417,64.118707,0 28.249499,64.125715,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 983</name>
+      <Snippet maxLines="4">Hyvölän Pellot</Snippet>
+      <description>2006Hyvölän Pellot
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=983</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.216589,64.124199,0 28.230693,64.127311,0 28.237841,64.122225,0 28.246601,64.116047,0 28.237048,64.113615,0 28.231235,64.111699,0 28.215669,64.112539,0 28.216589,64.124199,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 985</name>
+      <Snippet maxLines="4">Katinkulta</Snippet>
+      <description>2006Katinkulta
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=985</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.229165,64.148497,0 28.236510,64.147717,0 28.241223,64.151985,0 28.231182,64.156907,0 28.223569,64.152134,0 28.229165,64.148497,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1510</name>
+      <Snippet maxLines="4">Marttilankangas</Snippet>
+      <description>2006Marttilankangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1510</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.553904,60.920480,0 27.546518,60.919972,0 27.542934,60.926082,0 27.540406,60.929325,0 27.541580,60.933270,0 27.572999,60.936193,0 27.582206,60.936154,0 27.584644,60.928242,0 27.575045,60.926847,0 27.575381,60.925059,0 27.563548,60.923493,0 27.564226,60.920078,0 27.555355,60.919038,0 27.553904,60.920480,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1511</name>
+      <Snippet maxLines="4">Nikinoja</Snippet>
+      <description>2006Nikinoja
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1511</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.563854,60.919900,0 27.555358,60.919217,0 27.549583,60.926594,0 27.550079,60.933954,0 27.571895,60.936377,0 27.583320,60.936508,0 27.583903,60.928066,0 27.575051,60.927206,0 27.575009,60.924881,0 27.563908,60.922953,0 27.563854,60.919900,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1517</name>
+      <Snippet maxLines="4">Kokonniemi</Snippet>
+      <description>2006Kokonniemi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1517</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.633966,60.364000,0 25.633410,60.377276,0 25.645852,60.382971,0 25.649693,60.386602,0 25.661277,60.387258,0 25.669448,60.382670,0 25.670444,60.376035,0 25.656162,60.370512,0 25.646619,60.364489,0 25.633966,60.364000,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2061</name>
+      <Snippet maxLines="4">Puijo</Snippet>
+      <description>2007Puijo
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2061</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.664580,62.907244,0 27.655150,62.908006,0 27.653516,62.905321,0 27.640926,62.905558,0 27.643587,62.919180,0 27.665246,62.919259,0 27.664580,62.907244,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2095</name>
+      <Snippet maxLines="4">Puuluoto</Snippet>
+      <description>2007Puuluoto
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2095</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.198098,65.793345,0 24.203345,65.797204,0 24.220111,65.795902,0 24.230084,65.792671,0 24.226733,65.787223,0 24.203406,65.788773,0 24.198098,65.793345,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2197</name>
+      <Snippet maxLines="4">Ainiovaara-Laatas</Snippet>
+      <description>2007Ainiovaara-Laatas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2197</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.701078,66.307059,0 23.691974,66.318721,0 23.693311,66.321974,0 23.725792,66.326434,0 23.738693,66.326885,0 23.742476,66.314938,0 23.732342,66.307002,0 23.701078,66.307059,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2203</name>
+      <Snippet maxLines="4">Ainiovaara 1</Snippet>
+      <description>2007Ainiovaara 1
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2203</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.694792,66.314111,0 23.691951,66.322125,0 23.716995,66.321946,0 23.718868,66.314442,0 23.712491,66.311972,0 23.694792,66.314111,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2206</name>
+      <Snippet maxLines="4">Ainiovaara 2</Snippet>
+      <description>2007Ainiovaara 2
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2206</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.692963,66.314431,0 23.691998,66.318542,0 23.693240,66.322511,0 23.701753,66.322333,0 23.702880,66.313744,0 23.692963,66.314431,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2207</name>
+      <Snippet maxLines="4">Ainiovaara 3</Snippet>
+      <description>2007Ainiovaara 3
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2207</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.693364,66.311386,0 23.692421,66.318551,0 23.692137,66.324105,0 23.705575,66.323851,0 23.716994,66.318533,0 23.722689,66.312546,0 23.712421,66.309096,0 23.693364,66.311386,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1952</name>
+      <Snippet maxLines="4">PAALIVUORI</Snippet>
+      <description>2007PAALIVUORI
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1952</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.888695,63.070095,0 23.908727,63.064246,0 23.904970,63.058603,0 23.908189,63.039459,0 23.884483,63.039110,0 23.863010,63.047618,0 23.851876,63.066406,0 23.855379,63.077983,0 23.858366,63.087023,0 23.881243,63.087888,0 23.888695,63.070095,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 1735</name>
+      <Snippet maxLines="4">Isokangas</Snippet>
+      <description>2007Isokangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1735</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.197373,61.370996,0 24.194685,61.380103,0 24.214402,61.381587,0 24.225988,61.381644,0 24.243722,61.375896,0 24.245932,61.363553,0 24.247157,61.353877,0 24.257806,61.347633,0 24.248596,61.346010,0 24.237561,61.348121,0 24.230070,61.352451,0 24.220672,61.353158,0 24.215807,61.357370,0 24.209329,61.358674,0 24.205049,61.364695,0 24.197373,61.370996,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2002</name>
+      <Snippet maxLines="4">Kaipola</Snippet>
+      <description>2007Kaipola
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2002</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.254684,61.824985,0 25.257378,61.817666,0 25.249922,61.815236,0 25.234820,61.813786,0 25.226443,61.814217,0 25.203355,61.819834,0 25.201659,61.822865,0 25.199056,61.828398,0 25.200091,61.836672,0 25.241575,61.835054,0 25.246264,61.832780,0 25.247669,61.828129,0 25.254684,61.824985,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2005</name>
+      <Snippet maxLines="4">Haisunkallio</Snippet>
+      <description>2007Haisunkallio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2005</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.711755,64.017427,0 24.706917,64.001549,0 24.670001,64.002936,0 24.663842,64.003197,0 24.661181,64.005668,0 24.650603,64.009807,0 24.654500,64.021892,0 24.704087,64.021068,0 24.711755,64.017427,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3094</name>
+      <Snippet maxLines="4">Ritavalkea</Snippet>
+      <description>2008Ritavalkea
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3094</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.106586,66.803521,0 24.114303,66.807613,0 24.134133,66.809231,0 24.137053,66.803717,0 24.138358,66.800338,0 24.131647,66.799318,0 24.124288,66.792361,0 24.114433,66.794874,0 24.106586,66.803521,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2609</name>
+      <Snippet maxLines="4">Vimpelinvaara</Snippet>
+      <description>2008Vimpelinvaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2609</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.723720,64.215706,0 27.694082,64.216209,0 27.694880,64.215128,0 27.691064,64.194335,0 27.705036,64.193191,0 27.726696,64.203486,0 27.723720,64.215706,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2399</name>
+      <Snippet maxLines="4">Oronkallunsuo</Snippet>
+      <description>2008Oronkallunsuo
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2399</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.562010,60.919908,0 27.546497,60.918715,0 27.539671,60.929507,0 27.543056,60.933264,0 27.583330,60.937047,0 27.583538,60.928247,0 27.575754,60.925237,0 27.562804,60.923137,0 27.562010,60.919908,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2681</name>
+      <Snippet maxLines="4">Jussinmäki</Snippet>
+      <description>2008Jussinmäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2681</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.516120,63.896674,0 24.528519,63.894731,0 24.539786,63.891511,0 24.524883,63.880491,0 24.506492,63.885733,0 24.516120,63.896674,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2998</name>
+      <Snippet maxLines="4">Kaipola 08 hs</Snippet>
+      <description>2008Kaipola 08 hs
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2998</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.259187,61.825940,0 25.249574,61.814693,0 25.218373,61.815908,0 25.217701,61.834029,0 25.259398,61.835281,0 25.259187,61.825940,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3787</name>
+      <Snippet maxLines="4">Kaarreniemi</Snippet>
+      <description>2008Kaarreniemi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3787</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.203372,64.166680,0 28.197157,64.165654,0 28.209221,64.159272,0 28.211739,64.151003,0 28.216260,64.150965,0 28.222030,64.151276,0 28.238359,64.158309,0 28.223658,64.160229,0 28.211566,64.165894,0 28.203372,64.166680,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3025</name>
+      <Snippet maxLines="4">Sikkilänkallio</Snippet>
+      <description>2008Sikkilänkallio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3025</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.781715,62.999095,0 23.730256,62.996476,0 23.708399,63.018600,0 23.763054,63.017705,0 23.789246,63.020279,0 23.797189,63.001962,0 23.781715,62.999095,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2780</name>
+      <Snippet maxLines="4">Rakennusjärvi</Snippet>
+      <description>2008Rakennusjärvi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2780</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.959724,64.682183,0 27.957903,64.666230,0 27.926578,64.668404,0 27.924804,64.690123,0 27.947521,64.692851,0 27.953696,64.689581,0 27.955653,64.685620,0 27.959724,64.682183,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2527</name>
+      <Snippet maxLines="4">Puhkio</Snippet>
+      <description>2008Puhkio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2527</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.703716,63.538275,0 23.691703,63.544646,0 23.677941,63.545226,0 23.651234,63.536159,0 23.656312,63.516882,0 23.717599,63.522612,0 23.703716,63.538275,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3046</name>
+      <Snippet maxLines="4">Koskenmäki-Palosmäki</Snippet>
+      <description>2008Koskenmäki-Palosmäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3046</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.621191,63.660112,0 26.625600,63.662816,0 26.611092,63.661521,0 26.602224,63.660061,0 26.542833,63.686611,0 26.533612,63.681744,0 26.543537,63.667955,0 26.571936,63.659256,0 26.576452,63.654423,0 26.598294,63.652332,0 26.613590,63.656143,0 26.621191,63.660112,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3047</name>
+      <Snippet maxLines="4">Hovi</Snippet>
+      <description>2008Hovi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3047</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.603766,63.661026,0 26.555026,63.678823,0 26.541787,63.672500,0 26.547124,63.667311,0 26.565766,63.662531,0 26.574794,63.653225,0 26.626462,63.654086,0 26.621895,63.663408,0 26.603766,63.661026,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 2552</name>
+      <Snippet maxLines="4">Hohganpalo</Snippet>
+      <description>2008Hohganpalo
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=2552</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.468288,64.646852,0 24.475380,64.647153,0 24.480632,64.644729,0 24.497930,64.647896,0 24.512441,64.644729,0 24.519714,64.643056,0 24.516728,64.639064,0 24.501204,64.634851,0 24.495901,64.629015,0 24.494945,64.625767,0 24.482173,64.623574,0 24.473400,64.627914,0 24.472132,64.637051,0 24.474676,64.641215,0 24.474911,64.643195,0 24.468288,64.646852,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3351</name>
+      <Snippet maxLines="4">Toijalanranta</Snippet>
+      <description>2009Toijalanranta
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3351</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.157986,61.911864,0 25.144091,61.908625,0 25.127543,61.911454,0 25.100573,61.929034,0 25.100162,61.941779,0 25.130199,61.949014,0 25.156790,61.931414,0 25.157986,61.911864,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3608</name>
+      <Snippet maxLines="4">Isokangas</Snippet>
+      <description>2009Isokangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3608</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.242937,61.380552,0 24.242090,61.360421,0 24.211197,61.358713,0 24.194375,61.379378,0 24.242937,61.380552,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3355</name>
+      <Snippet maxLines="4">Lehmisuo</Snippet>
+      <description>2009Lehmisuo
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3355</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.156596,61.915976,0 25.141851,61.907876,0 25.123086,61.909597,0 25.099555,61.933150,0 25.143927,61.936449,0 25.155732,61.930322,0 25.156596,61.915976,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3356</name>
+      <Snippet maxLines="4">Metsäoppilaitos</Snippet>
+      <description>2009Metsäoppilaitos
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3356</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.158904,61.915289,0 25.147657,61.906338,0 25.125121,61.907470,0 25.105803,61.930722,0 25.148649,61.933999,0 25.158904,61.915289,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3612</name>
+      <Snippet maxLines="4">Eteläinen 2009</Snippet>
+      <description>2009Eteläinen 2009
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3612</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.682434,61.073913,0 24.695067,61.088859,0 24.701989,61.090594,0 24.710331,61.093242,0 24.727400,61.087791,0 24.726662,61.082569,0 24.721733,61.078893,0 24.723244,61.073350,0 24.715451,61.068557,0 24.702848,61.068523,0 24.694520,61.070887,0 24.688965,61.070792,0 24.682434,61.073913,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3131</name>
+      <Snippet maxLines="4">Eteläinen 2009</Snippet>
+      <description>2009Eteläinen 2009
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3131</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.699380,61.095112,0 24.682477,61.072558,0 24.716143,61.068470,0 24.752213,61.082359,0 24.699380,61.095112,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3208</name>
+      <Snippet maxLines="4">UTTI</Snippet>
+      <description>2009UTTI
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3208</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.868448,60.884170,0 26.869496,60.898177,0 26.906338,60.898028,0 26.916692,60.885466,0 26.868448,60.884170,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3474</name>
+      <Snippet maxLines="4">PUSKALANKALLIO</Snippet>
+      <description>2009PUSKALANKALLIO
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3474</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.909681,63.110672,0 23.918568,63.120387,0 23.931481,63.121925,0 23.937289,63.115763,0 23.936312,63.098683,0 23.941079,63.098607,0 23.941719,63.096285,0 23.936596,63.095995,0 23.935673,63.093460,0 23.928459,63.094202,0 23.915745,63.094644,0 23.909681,63.110672,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3498</name>
+      <Snippet maxLines="4">Hietaharju</Snippet>
+      <description>2009Hietaharju
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3498</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.446151,61.102385,0 28.502380,61.115241,0 28.509732,61.113723,0 28.507983,61.108175,0 28.469072,61.092988,0 28.447555,61.092502,0 28.446151,61.102385,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3300</name>
+      <Snippet maxLines="4">Hirvihaara</Snippet>
+      <description>2009Hirvihaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3300</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.225593,60.628165,0 25.226699,60.628000,0 25.246052,60.628435,0 25.246593,60.625209,0 25.235514,60.620573,0 25.233195,60.622877,0 25.222038,60.626321,0 25.225593,60.628165,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3571</name>
+      <Snippet maxLines="4">Haukankallio</Snippet>
+      <description>2009Haukankallio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3571</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.718805,60.877492,0 24.702899,60.868069,0 24.709010,60.859910,0 24.716902,60.857709,0 24.727431,60.854654,0 24.737286,60.855898,0 24.744738,60.854406,0 24.749875,60.854672,0 24.754049,60.858155,0 24.765553,60.856909,0 24.768095,60.862700,0 24.765499,60.868225,0 24.768992,60.870969,0 24.768859,60.878152,0 24.744642,60.887089,0 24.725947,60.885876,0 24.718805,60.877492,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3576</name>
+      <Snippet maxLines="4">Puukallio</Snippet>
+      <description>2009Puukallio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3576</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.771957,63.487474,0 23.785231,63.480056,0 23.782206,63.478371,0 23.790966,63.471920,0 23.803008,63.472010,0 23.806475,63.476939,0 23.819699,63.473640,0 23.826332,63.475225,0 23.826296,63.479176,0 23.815716,63.484152,0 23.812372,63.488919,0 23.795230,63.494824,0 23.775455,63.499051,0 23.765610,63.497392,0 23.771957,63.487474,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4366</name>
+      <Snippet maxLines="4">Korkeakangas</Snippet>
+      <description>2010Korkeakangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4366</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.088666,61.260430,0 24.088666,61.260430,0 24.097048,61.262586,0 24.097048,61.262586,0 24.117766,61.256380,0 24.117766,61.256380,0 24.120339,61.244576,0 24.109486,61.240931,0 24.085099,61.242565,0 24.085066,61.242924,0 24.081111,61.245354,0 24.080446,61.252527,0 24.080446,61.252527,0 24.086508,61.255532,0 24.088244,61.260960,0 24.088227,61.261139,0 24.088227,61.261139,0 24.088227,61.261139,0 24.088666,61.260430,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4152</name>
+      <Snippet maxLines="4">Massi</Snippet>
+      <description>2010Massi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4152</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>21.851600,61.402448,0 21.829386,61.400704,0 21.830505,61.389419,0 21.854261,61.390862,0 21.851600,61.402448,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4174</name>
+      <Snippet maxLines="4">Tuulos 2010</Snippet>
+      <description>2010Tuulos 2010
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4174</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.823361,61.121326,0 24.817896,61.114421,0 24.792411,61.102152,0 24.776320,61.104044,0 24.769908,61.110764,0 24.766355,61.113759,0 24.768151,61.119887,0 24.793989,61.122107,0 24.795594,61.125726,0 24.810686,61.127408,0 24.823361,61.121326,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4198</name>
+      <Snippet maxLines="4">Timitra</Snippet>
+      <description>2010Timitra
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4198</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>30.015704,63.296150,0 30.028363,63.287446,0 30.037996,63.287960,0 30.032505,63.304057,0 30.016266,63.301527,0 30.015704,63.296150,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3958</name>
+      <Snippet maxLines="4">Peltoinlammi</Snippet>
+      <description>2010Peltoinlammi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3958</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.841399,61.855197,0 24.856677,61.854187,0 24.872934,61.866464,0 24.865652,61.878196,0 24.832295,61.876426,0 24.837310,61.859263,0 24.841399,61.855197,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3732</name>
+      <Snippet maxLines="4">Hiihtosuunnistuskartta OUNASVAARA</Snippet>
+      <description>2010Hiihtosuunnistuskartta OUNASVAARA
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3732</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.793704,66.488341,0 25.750841,66.501275,0 25.754185,66.506326,0 25.780098,66.509760,0 25.808033,66.508181,0 25.848635,66.504896,0 25.875975,66.496840,0 25.877089,66.472094,0 25.845524,66.475453,0 25.834498,66.480754,0 25.810790,66.488113,0 25.793704,66.488341,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3788</name>
+      <Snippet maxLines="4">Puoliväli</Snippet>
+      <description>2010Puoliväli
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3788</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.271238,64.103843,0 28.288778,64.101894,0 28.294705,64.105790,0 28.299646,64.106105,0 28.298800,64.123157,0 28.307023,64.132059,0 28.286448,64.140311,0 28.277331,64.138237,0 28.263244,64.126701,0 28.257830,64.115977,0 28.254512,64.106142,0 28.271238,64.103843,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3789</name>
+      <Snippet maxLines="4">Keima</Snippet>
+      <description>2010Keima
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3789</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.274891,64.138797,0 28.283601,64.140515,0 28.306536,64.130448,0 28.298314,64.121546,0 28.299001,64.109881,0 28.260492,64.111296,0 28.261618,64.127074,0 28.274891,64.138797,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3790</name>
+      <Snippet maxLines="4">Vuokatin alamaasto</Snippet>
+      <description>2010Vuokatin alamaasto
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3790</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.273535,64.145091,0 28.285008,64.135836,0 28.304927,64.131180,0 28.316576,64.142914,0 28.308494,64.145859,0 28.297088,64.148115,0 28.273535,64.145091,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3797</name>
+      <Snippet maxLines="4">Köukar</Snippet>
+      <description>2010Köukar
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3797</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.208653,63.826018,0 23.215638,63.828537,0 23.224949,63.822680,0 23.234347,63.822386,0 23.237066,63.820300,0 23.234063,63.818425,0 23.241957,63.814137,0 23.231087,63.810259,0 23.211976,63.819464,0 23.208653,63.826018,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 3816</name>
+      <Snippet maxLines="4">Lykynlampi</Snippet>
+      <description>2010Lykynlampi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3816</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.658060,62.655367,0 29.666426,62.652873,0 29.690042,62.654936,0 29.676981,62.661653,0 29.659901,62.667187,0 29.639849,62.669901,0 29.631841,62.667717,0 29.628180,62.661678,0 29.658060,62.655367,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4077</name>
+      <Snippet maxLines="4">Hirvihaara</Snippet>
+      <description>2010Hirvihaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4077</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.220150,60.653948,0 25.219461,60.626646,0 25.233756,60.619292,0 25.259938,60.621791,0 25.269648,60.631256,0 25.268513,60.638776,0 25.262221,60.646957,0 25.242780,60.654965,0 25.220150,60.653948,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4612</name>
+      <Snippet maxLines="4">Hiihtomaja</Snippet>
+      <description>2011Hiihtomaja
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4612</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.547843,64.675677,0 24.547843,64.675677,0 24.554107,64.675960,0 24.561080,64.668354,0 24.555514,64.655692,0 24.543650,64.661780,0 24.527652,64.662591,0 24.521450,64.666258,0 24.528852,64.667819,0 24.547843,64.675677,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4365</name>
+      <Snippet maxLines="4">Kaapelinkulma</Snippet>
+      <description>2011Kaapelinkulma
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4365</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.085986,61.257138,0 24.085986,61.257138,0 24.061431,61.256428,0 24.061684,61.237747,0 24.069932,61.233254,0 24.073053,61.227752,0 24.088370,61.227363,0 24.109783,61.237704,0 24.108448,61.252229,0 24.085986,61.257138,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4630</name>
+      <Snippet maxLines="4">Oivanki</Snippet>
+      <description>2011Oivanki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4630</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.003996,66.067672,0 29.003996,66.067672,0 28.991149,66.078608,0 28.991767,66.086499,0 29.064205,66.085188,0 29.061077,66.062971,0 29.038620,66.063987,0 29.013738,66.067904,0 29.003982,66.067493,0 29.003982,66.067493,0 29.003996,66.067672,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4384</name>
+      <Snippet maxLines="4">Honkamaja</Snippet>
+      <description>2011Honkamaja
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4384</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.972470,64.294229,0 24.972470,64.294229,0 24.962971,64.294097,0 24.961467,64.297667,0 24.968959,64.302619,0 24.977811,64.305973,0 25.008024,64.305669,0 25.005226,64.292884,0 24.997123,64.290619,0 24.972470,64.294229,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4648</name>
+      <Snippet maxLines="4">Hulkkio 1</Snippet>
+      <description>2011Hulkkio 1
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4648</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.219068,61.837970,0 25.219068,61.837970,0 25.251421,61.836949,0 25.260816,61.832040,0 25.260054,61.825386,0 25.262574,61.821108,0 25.261629,61.817684,0 25.261130,61.806364,0 25.247426,61.807087,0 25.246637,61.814261,0 25.234877,61.814110,0 25.213763,61.818147,0 25.219068,61.837970,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4649</name>
+      <Snippet maxLines="4">Pitkäjärvi</Snippet>
+      <description>2011Pitkäjärvi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4649</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.208522,61.836396,0 25.208522,61.836396,0 25.252262,61.835523,0 25.250924,61.818984,0 25.206839,61.819673,0 25.208522,61.836396,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4650</name>
+      <Snippet maxLines="4">Pitkävuori</Snippet>
+      <description>2011Pitkävuori
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4650</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.197155,61.842354,0 25.197155,61.842354,0 25.215791,61.842058,0 25.219183,61.835996,0 25.251841,61.836236,0 25.260867,61.831143,0 25.260867,61.831143,0 25.261223,61.824862,0 25.262307,61.819129,0 25.260142,61.817126,0 25.260416,61.812281,0 25.232683,61.812645,0 25.208187,61.816099,0 25.195699,61.821862,0 25.197155,61.842354,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4659</name>
+      <Snippet maxLines="4">Skidol-karta Sandbacka</Snippet>
+      <description>2011Skidol-karta Sandbacka
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4659</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.095044,63.717795,0 23.095044,63.717795,0 23.086670,63.719725,0 23.090214,63.723416,0 23.076847,63.729163,0 23.082964,63.731846,0 23.073937,63.738431,0 23.073645,63.743456,0 23.111719,63.743949,0 23.114431,63.718320,0 23.095044,63.717795,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4660</name>
+      <Snippet maxLines="4">Sandbackaskido 1:12500</Snippet>
+      <description>2011Sandbackaskido 1:12500
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4660</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.092431,63.722038,0 23.092431,63.722038,0 23.086694,63.719546,0 23.090297,63.716947,0 23.125508,63.717360,0 23.137307,63.720014,0 23.124600,63.723986,0 23.126877,63.725126,0 23.137099,63.724502,0 23.142524,63.729321,0 23.141266,63.741509,0 23.071264,63.740155,0 23.078637,63.727954,0 23.090692,63.722890,0 23.092431,63.722038,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4718</name>
+      <Snippet maxLines="4">ETELÄINEN 2011</Snippet>
+      <description>2011ETELÄINEN 2011
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4718</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.678999,61.070944,0 24.678999,61.070944,0 24.687999,61.079721,0 24.700254,61.084601,0 24.708549,61.093005,0 24.733931,61.080499,0 24.721137,61.072740,0 24.715574,61.067616,0 24.696930,61.069096,0 24.687355,61.068214,0 24.678999,61.070944,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4743</name>
+      <Snippet maxLines="4">Kiukas</Snippet>
+      <description>2011Kiukas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4743</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.578014,61.135742,0 28.578014,61.135742,0 28.599290,61.123100,0 28.585589,61.116437,0 28.568541,61.116995,0 28.564866,61.117756,0 28.565168,61.123859,0 28.557004,61.123953,0 28.556650,61.131859,0 28.578376,61.135558,0 28.578014,61.135742,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4744</name>
+      <Snippet maxLines="4">Kiukas</Snippet>
+      <description>2011Kiukas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4744</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.561554,61.125876,0 28.561554,61.125876,0 28.561325,61.128752,0 28.587060,61.130967,0 28.591424,61.129120,0 28.590583,61.119791,0 28.574204,61.118905,0 28.569885,61.121649,0 28.561572,61.126235,0 28.561554,61.125876,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4489</name>
+      <Snippet maxLines="4">VALKEALA</Snippet>
+      <description>2011VALKEALA
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4489</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.798497,60.942989,0 26.798497,60.942989,0 26.844266,60.943229,0 26.844707,60.928506,0 26.826629,60.928484,0 26.814047,60.934931,0 26.798545,60.935268,0 26.798913,60.935448,0 26.798913,60.935448,0 26.798913,60.935448,0 26.798497,60.942989,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4508</name>
+      <Snippet maxLines="4">Pankooli</Snippet>
+      <description>2011Pankooli
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4508</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.699622,64.005932,0 24.699622,64.005932,0 24.698781,64.016154,0 24.676282,64.015975,0 24.676431,64.014182,0 24.665380,64.014184,0 24.666099,64.005576,0 24.699622,64.005932,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4857</name>
+      <Snippet maxLines="4">Kakslauttanen</Snippet>
+      <description>2011Kakslauttanen
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4857</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.332063,68.333059,0 27.332063,68.333059,0 27.342227,68.331065,0 27.364067,68.331019,0 27.378574,68.327758,0 27.392011,68.318937,0 27.411915,68.319786,0 27.417478,68.332149,0 27.433150,68.339464,0 27.423746,68.355992,0 27.380038,68.357352,0 27.336723,68.352781,0 27.332063,68.333059,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4604</name>
+      <Snippet maxLines="4">Kalliojärvi</Snippet>
+      <description>2011Kalliojärvi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4604</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.818058,63.074840,0 23.818058,63.074840,0 23.829857,63.075644,0 23.832023,63.070302,0 23.830374,63.063618,0 23.834392,63.055802,0 23.835832,63.042539,0 23.803872,63.041641,0 23.789621,63.052458,0 23.789443,63.061258,0 23.801594,63.069618,0 23.818058,63.074840,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4868</name>
+      <Snippet maxLines="4">Korkeakangas</Snippet>
+      <description>2012Korkeakangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4868</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.056087,61.261703,0 24.056087,61.261703,0 24.055497,61.264026,0 24.060153,61.266103,0 24.070481,61.267405,0 24.079063,61.267410,0 24.091181,61.265515,0 24.089940,61.262793,0 24.096370,61.261853,0 24.092424,61.252066,0 24.084195,61.248295,0 24.070457,61.247640,0 24.060817,61.251025,0 24.059549,61.252614,0 24.062121,61.253029,0 24.059012,61.258352,0 24.051905,61.258557,0 24.050941,61.260872,0 24.056087,61.261703,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5141</name>
+      <Snippet maxLines="4">Honganpalo</Snippet>
+      <description>2012Honganpalo
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5141</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.479323,64.645973,0 24.479323,64.645973,0 24.486047,64.645728,0 24.494762,64.646594,0 24.498378,64.648272,0 24.502972,64.643860,0 24.497283,64.641968,0 24.491595,64.640076,0 24.491441,64.637200,0 24.485469,64.633866,0 24.478211,64.630869,0 24.468866,64.632326,0 24.467345,64.635173,0 24.474102,64.639060,0 24.477548,64.642530,0 24.478821,64.646862,0 24.479323,64.645973,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5164</name>
+      <Snippet maxLines="4">Puuluoto</Snippet>
+      <description>2012Puuluoto
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5164</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.188945,65.790232,0 24.188945,65.790232,0 24.196210,65.791802,0 24.200225,65.795108,0 24.204378,65.797160,0 24.204698,65.798243,0 24.217265,65.799370,0 24.224612,65.800222,0 24.230636,65.797099,0 24.234610,65.792681,0 24.233364,65.787990,0 24.232459,65.784202,0 24.227588,65.780702,0 24.219848,65.779484,0 24.211043,65.780042,0 24.199308,65.783419,0 24.192905,65.785995,0 24.189081,65.788978,0 24.189081,65.788978,0 24.188945,65.790232,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5165</name>
+      <Snippet maxLines="4">Kokkokangas</Snippet>
+      <description>2012Kokkokangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5165</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.163934,65.822724,0 24.163934,65.822724,0 24.177047,65.822966,0 24.186103,65.820260,0 24.188125,65.817783,0 24.187088,65.815250,0 24.176621,65.814877,0 24.168795,65.814373,0 24.163934,65.822724,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5169</name>
+      <Snippet maxLines="4">Honkavaara</Snippet>
+      <description>2012Honkavaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5169</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.671918,64.870705,0 27.671918,64.870705,0 27.663499,64.871640,0 27.659788,64.875245,0 27.662392,64.878105,0 27.677235,64.880731,0 27.681848,64.879453,0 27.681816,64.878197,0 27.685184,64.877823,0 27.682033,64.870120,0 27.671918,64.870705,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4936</name>
+      <Snippet maxLines="4">Rasvuori</Snippet>
+      <description>2012Rasvuori
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4936</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.619929,60.729311,0 27.619929,60.729311,0 27.614001,60.726106,0 27.610274,60.722891,0 27.608024,60.720208,0 27.599963,60.720424,0 27.597784,60.721511,0 27.591533,60.720461,0 27.584928,60.720131,0 27.582009,60.720862,0 27.578353,60.721416,0 27.575401,60.720352,0 27.571019,60.721268,0 27.568838,60.722355,0 27.564834,60.723988,0 27.562303,60.725974,0 27.560498,60.727598,0 27.560902,60.729751,0 27.559827,60.731192,0 27.556176,60.732105,0 27.553631,60.733372,0 27.552235,60.737508,0 27.552272,60.739663,0 27.553413,60.741993,0 27.554562,60.744861,0 27.556434,60.747008,0 27.559030,60.748613,0 27.565643,60.749124,0 27.570779,60.749103,0 27.573347,60.749092,0 27.577000,60.748178,0 27.578442,60.746735,0 27.582470,60.746359,0 27.586152,60.747061,0 27.590554,60.747042,0 27.593853,60.746848,0 27.596434,60.747554,0 27.597548,60.748268,0 27.599029,60.748979,0 27.602317,60.748246,0 27.604834,60.745542,0 27.608475,60.744089,0 27.608815,60.742650,0 27.610241,60.740489,0 27.610204,60.738514,0 27.610536,60.736717,0 27.613062,60.734550,0 27.615235,60.733104,0 27.616304,60.731483,0 27.619566,60.729493,0 27.619929,60.729311,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4944</name>
+      <Snippet maxLines="4">Vetola</Snippet>
+      <description>2012Vetola
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4944</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.880961,62.700867,0 23.880961,62.700867,0 23.873482,62.705013,0 23.870590,62.710159,0 23.859268,62.709906,0 23.861696,62.705468,0 23.872671,62.701581,0 23.881389,62.700517,0 23.880961,62.700867,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4947</name>
+      <Snippet maxLines="4">Ritavalkea</Snippet>
+      <description>2012Ritavalkea
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4947</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.072061,66.801834,0 24.072061,66.801834,0 24.101375,66.808121,0 24.121374,66.808487,0 24.143977,66.809974,0 24.181249,66.802743,0 24.182893,66.788407,0 24.178516,66.786893,0 24.170259,66.787463,0 24.157504,66.779692,0 24.165140,66.776597,0 24.151937,66.772768,0 24.123125,66.777992,0 24.109951,66.781702,0 24.095568,66.787902,0 24.083945,66.793794,0 24.073013,66.801493,0 24.072061,66.801834,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 4948</name>
+      <Snippet maxLines="4">Ponsi</Snippet>
+      <description>2012Ponsi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4948</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.968683,66.775999,0 23.968683,66.775999,0 23.967831,66.779215,0 23.973900,66.781666,0 23.985411,66.776858,0 23.979716,66.771361,0 23.968683,66.775999,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5217</name>
+      <Snippet maxLines="4">Hirvihaara-Golf</Snippet>
+      <description>2012Hirvihaara-Golf
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5217</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.236132,60.629005,0 25.236132,60.629005,0 25.225527,60.635690,0 25.228312,60.638241,0 25.219738,60.647826,0 25.207309,60.647661,0 25.203082,60.644730,0 25.204073,60.640073,0 25.187281,60.639488,0 25.167244,60.631671,0 25.167549,60.626287,0 25.202759,60.624250,0 25.224638,60.625260,0 25.230601,60.623184,0 25.230601,60.623184,0 25.236132,60.629005,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5005</name>
+      <Snippet maxLines="4">Koittila</Snippet>
+      <description>2012Koittila
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5005</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.651481,62.171011,0 26.651481,62.171011,0 26.657566,62.176232,0 26.647480,62.184825,0 26.640070,62.194141,0 26.628579,62.191059,0 26.621777,62.181884,0 26.615007,62.170555,0 26.614289,62.166604,0 26.624300,62.164297,0 26.648870,62.164362,0 26.652260,62.170115,0 26.652262,62.169936,0 26.652262,62.169936,0 26.652646,62.169937,0 26.652258,62.170295,0 26.652258,62.170295,0 26.651481,62.171011,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5277</name>
+      <Snippet maxLines="4">PEURAKALLIO</Snippet>
+      <description>2012PEURAKALLIO
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5277</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.916836,63.040016,0 23.916836,63.040016,0 23.922853,63.039249,0 23.961412,63.037567,0 23.960817,63.047076,0 23.946882,63.047854,0 23.936762,63.057516,0 23.907885,63.057248,0 23.911768,63.050505,0 23.913917,63.045162,0 23.913917,63.045162,0 23.916836,63.040016,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5024</name>
+      <Snippet maxLines="4">Ukonniemi hs</Snippet>
+      <description>2012Ukonniemi hs
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5024</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>28.735555,61.211677,0 28.735555,61.211677,0 28.746529,61.208124,0 28.752634,61.204094,0 28.752707,61.198705,0 28.745451,61.195386,0 28.729762,61.194330,0 28.723655,61.191535,0 28.712587,61.193291,0 28.713242,61.198491,0 28.723482,61.215603,0 28.735555,61.211677,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5336</name>
+      <Snippet maxLines="4">Haapakangas III</Snippet>
+      <description>2012Haapakangas III
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5336</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.365156,65.163342,0 25.365156,65.163342,0 25.378106,65.160970,0 25.377482,65.164194,0 25.368436,65.165532,0 25.369267,65.165900,0 25.369267,65.165900,0 25.368840,65.165895,0 25.368840,65.165895,0 25.365156,65.163342,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5081</name>
+      <Snippet maxLines="4">Tuulos 2012</Snippet>
+      <description>2012Tuulos 2012
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5081</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.811199,61.110873,0 24.811199,61.110873,0 24.815092,61.113630,0 24.818614,61.127159,0 24.805343,61.131076,0 24.773990,61.122660,0 24.772999,61.115638,0 24.765683,61.114080,0 24.764082,61.110461,0 24.764298,61.107411,0 24.771060,61.106265,0 24.771060,61.106265,0 24.771035,61.106624,0 24.795429,61.108102,0 24.811199,61.110873,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5103</name>
+      <Snippet maxLines="4">Vimpelinvaara</Snippet>
+      <description>2012Vimpelinvaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5103</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>27.730580,64.216417,0 27.730580,64.216417,0 27.703398,64.217089,0 27.695940,64.215509,0 27.694161,64.210312,0 27.691094,64.202968,0 27.689752,64.198667,0 27.691305,64.194890,0 27.697852,64.193244,0 27.704833,64.192492,0 27.708977,64.193549,0 27.711512,64.196050,0 27.715708,64.199080,0 27.721965,64.202101,0 27.728601,64.203863,0 27.732767,64.205637,0 27.729960,64.208523,0 27.730580,64.216417,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5457</name>
+      <Snippet maxLines="4">Isokangas</Snippet>
+      <description>2013Isokangas
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5457</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.226307,61.383330,0 24.226307,61.383330,0 24.238254,61.383753,0 24.241983,61.379697,0 24.242320,61.371619,0 24.243742,61.368234,0 24.243700,61.364460,0 24.243515,61.362301,0 24.208818,61.361053,0 24.204714,61.365101,0 24.199439,61.369664,0 24.196502,61.373197,0 24.195582,61.379286,0 24.221669,61.380720,0 24.227460,61.382995,0 24.227070,61.383166,0 24.226307,61.383330,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Skio Map 5533</name>
+      <Snippet maxLines="4">Sankivaara</Snippet>
+      <description>2013Sankivaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5533</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>25.684123,64.965885,0 25.684123,64.965885,0 25.700919,64.977699,0 25.704309,64.977728,0 25.705960,64.978640,0 25.714001,64.978889,0 25.716846,64.981426,0 25.709885,64.985136,0 25.655959,64.986814,0 25.649596,64.970064,0 25.668762,64.968082,0 25.684123,64.965885,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

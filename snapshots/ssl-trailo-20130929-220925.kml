@@ -1,0 +1,271 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="transBluePoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>60ff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transGreenPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff009900</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000aa00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transRedPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff0000ff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>600000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="transYellowPoly">
+      <LineStyle>
+        <width>2</width>
+        <color>ff00ffff</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransBluePoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>60ff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransGreenPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ff00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransRedPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>600000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="HLtransYellowPoly">
+      <LineStyle>
+        <width>4</width>
+        <color>ff000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>6000ffff</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Trailo Map 530</name>
+      <Snippet maxLines="4">Pärnävaara</Snippet>
+      <description>2006Pärnävaara
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=530</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.548647,62.640165,0 29.552216,62.640819,0 29.553022,62.645654,0 29.532129,62.647829,0 29.531173,62.641200,0 29.548647,62.640165,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 531</name>
+      <Snippet maxLines="4">Mertalampi</Snippet>
+      <description>2006Mertalampi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=531</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.637618,62.662399,0 29.616815,62.665663,0 29.619304,62.671724,0 29.643765,62.670007,0 29.637618,62.662399,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 362</name>
+      <Snippet maxLines="4">Mäentausta</Snippet>
+      <description>2006Mäentausta
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=362</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>26.618865,60.948921,0 26.626247,60.949121,0 26.634051,60.944654,0 26.632608,60.941786,0 26.620421,60.942291,0 26.618865,60.948921,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 1275</name>
+      <Snippet maxLines="4">Honkalampi</Snippet>
+      <description>2006Honkalampi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=1275</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>29.511149,62.612113,0 29.505324,62.612397,0 29.490700,62.614454,0 29.492483,62.617117,0 29.504584,62.617260,0 29.511902,62.616410,0 29.511149,62.612113,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 3440</name>
+      <Snippet maxLines="4">JM-Rata</Snippet>
+      <description>2009JM-Rata
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3440</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.480886,61.250467,0 22.431942,61.258537,0 22.439936,61.260065,0 22.442339,61.256369,0 22.434770,61.254495,0 22.480886,61.250467,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 3450</name>
+      <Snippet maxLines="4">Lähdeniitty</Snippet>
+      <description>2009Lähdeniitty
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3450</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.464285,61.498814,0 23.491638,61.499701,0 23.492913,61.495060,0 23.478929,61.492363,0 23.466395,61.493477,0 23.464285,61.498814,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 3964</name>
+      <Snippet maxLines="4">Sileekallio</Snippet>
+      <description>2010Sileekallio
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=3964</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.935064,61.326315,0 22.941027,61.326493,0 22.943145,61.324579,0 22.946918,61.324332,0 22.947965,61.322026,0 22.942840,61.321154,0 22.937415,61.322609,0 22.935064,61.326315,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 4663</name>
+      <Snippet maxLines="4">Kirkaslampi</Snippet>
+      <description>2011Kirkaslampi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4663</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.516192,61.519220,0 23.516192,61.519220,0 23.537306,61.518859,0 23.539865,61.526293,0 23.517701,61.525908,0 23.517701,61.525908,0 23.516192,61.519220,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 4720</name>
+      <Snippet maxLines="4">JAKK</Snippet>
+      <description>2011JAKK
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4720</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>22.725003,62.505606,0 22.725003,62.505606,0 22.726963,62.502789,0 22.731529,62.500771,0 22.734547,62.498706,0 22.743400,62.499336,0 22.743583,62.500780,0 22.741702,62.503060,0 22.740438,62.503741,0 22.736438,62.504518,0 22.733263,62.504960,0 22.726965,62.505486,0 22.726965,62.505486,0 22.725003,62.505606,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 4590</name>
+      <Snippet maxLines="4">Sudenmulkkauksentie</Snippet>
+      <description>2011Sudenmulkkauksentie
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=4590</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.023386,61.461432,0 23.023386,61.461432,0 23.023501,61.460536,0 23.032484,61.460798,0 23.035287,61.459442,0 23.040856,61.459964,0 23.041264,61.462672,0 23.025801,61.463120,0 23.022172,61.462115,0 23.021515,61.461377,0 23.023386,61.461432,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 5310</name>
+      <Snippet maxLines="4">Käpylännummi</Snippet>
+      <description>2012Käpylännummi
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5310</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.741226,60.544901,0 24.741226,60.544901,0 24.744253,60.543336,0 24.745369,60.537785,0 24.732634,60.537390,0 24.732220,60.543311,0 24.741226,60.544901,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 5312</name>
+      <Snippet maxLines="4">Tykkitorninmäki</Snippet>
+      <description>2012Tykkitorninmäki
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5312</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>24.745369,60.537785,0 24.745369,60.537785,0 24.754110,60.537933,0 24.760877,60.534993,0 24.762217,60.531422,0 24.761662,60.528898,0 24.759250,60.526881,0 24.755332,60.525558,0 24.745527,60.525034,0 24.745088,60.526104,0 24.748115,60.529748,0 24.745369,60.537785,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Trailo Map 5087</name>
+      <Snippet maxLines="4">Toriseva</Snippet>
+      <description>2012Toriseva
+http://www.karttarekisteri.fi/karttarekisteri2/www_visualisointi/tiedot.php?t=5087</description>
+      <styleUrl>#transGreenPoly</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>23.037024,61.360074,0 23.037024,61.360074,0 23.038980,61.359412,0 23.035962,61.356627,0 23.039196,61.354744,0 23.039310,61.353848,0 23.039378,61.353311,0 23.034246,61.352442,0 23.028309,61.354965,0 23.030444,61.358803,0 23.034762,61.360188,0 23.036978,61.360432,0 23.037024,61.360074,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
