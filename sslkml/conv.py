@@ -17,6 +17,7 @@ This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See the COPYING file for more details.
 """
+from argh import arg, ArghParser
 from lxml import etree
 from coordinates import ETRSTM35FINxy_to_WGS84lalo
 import logging
@@ -63,8 +64,8 @@ def convert_kml(stream_in, stream_out):
         # <name> is a direct child of placemark
         name = elem.find(KML_NS + "name")
         if name is not None:
-            logging.info("Map ID %s", map_id)
             map_id = name.text.strip()
+            logging.info("Map ID %s", map_id)
             name.text = ("%s %s" % (map_type, map_id)).strip()
 
         # add URL to description, should show up nicely in Google Earth and others
@@ -86,9 +87,13 @@ def convert_kml(stream_in, stream_out):
 
             # convert coordinates tag (deeper inside the structure)
             #coord = polygon.find(KML_NS + 'coordinates')
-            for coord in polygon.iterfind('.//' + KML_NS + 'coordinates'):
-                logging.info("Converting <coordinates> %s", coord)
-                coord.text = convert_coordinates(coord.text)
+            try:
+                for coord in polygon.iterfind('.//' + KML_NS + 'coordinates'):
+                    logging.info("Converting <coordinates> %s", coord)
+                    coord.text = convert_coordinates(coord.text)
+            except StandardError:
+                logging.exception("Invalid coordinate data for map %s: %r", map_id, coord.text)
+                polygon.getparent().remove(polygon)
 
     tree.write(stream_out, encoding='utf-8', pretty_print=True)
 
