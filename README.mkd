@@ -9,11 +9,20 @@ This project convers the official data into more usable format.
 Conversion script is coded in Python and has been tested on Python versions 2.6 and 2.7.
 
 _Note: "Karttarekisteri" is the only official place for Finnish Orienteering Federation's embargoed areas.
-So, if you consider yourself as a kilpasienestäjä, you *must* use it.
+So, if you consider yourself a kilpasienestäjä, you *must* use it.
 This project doesn't take any responsibility of anything. The conversion script might malform or lose data._
 
+The tool can output different KML files for:
 
-You can also download already formatted KML files from ... (well, not yet :).
+* Orienteering maps
+* Sprint maps
+* Ski-O maps
+* MTB-O maps
+* Trail-O maps
+* Opetuskartat(tm)
+* Embargoed areas / Harjoituskieltoalueet
+
+You can also download already formatted KML files from (will maybe setup some kind of website).
 
 
 Why?
