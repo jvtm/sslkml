@@ -82,6 +82,12 @@ Convert existing file to KML:
 Both actions also have `--help` command line switch.
 
 
+Screenshots
+-----------
+
+![Orienteering Map KML loaded into Google Earth](screenshot_google_earth.jpg)
+
+
 karttarekisteri.fi public URLs
 ------------------------------
 
